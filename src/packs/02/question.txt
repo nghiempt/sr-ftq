@@ -1,0 +1,19 @@
+Q1: What is the computer configuration to perform the training process?
+---
+Q2: What library did this article used for model development?
+---
+Q3: What have the Epidemiological studies reported?
+---
+Q4: What are the results of the article?
+---
+Q5: How were 470 panoramic radiographs divided in Model Pipeline?
+---
+Q6: What is the conclusion of this article?
+---
+Q7: What are the preprocessing steps?
+---
+Q8: How many  deidentified panoramic radiographs does the article “Development of a deep learning algorithm for periapical disease detection in dental radiographs” use in their research model? 
+---
+Q9: How many dental radiologists has participated in the image annotation?
+---
+Q10: What was used in the statistical analysis?

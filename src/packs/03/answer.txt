@@ -1,0 +1,20 @@
+A1: 1. Developing a novel CS/IT domain-specific named entity recognition model to extract keywords and analyse the CS/IT courses and jobs description.
+2. Being one of the first systems, according to our knowledge, to leverage a novel NLP model for a CS/IT course recommendation system based on industry requirements in higher-education universities. 
+---
+A2: The article used Selenium and Beautiful Soup frameworks for automatic data scraper.
+---
+A3: There are 2 different scenarios: The first scenario is when the students want to know which specific skills or courses they need to pursue a career path. The second scenario is when the students are uncertain of which career options to follow.
+---
+A4: These terms are in the filtered job lists in 4.3 section.
+---
+A5: About 15.42% (31 in total 201 responses)
+---
+A6: Using too old references.
+---
+A7: 0.978
+---
+A8: StackOverflow train
+---
+A9: In Latex: \rho^{\varepsilon}_{ij}(k) = \varphi(\omega(T^{\varepsilon}_i \subseteq T^{\varepsilon}_j), k)
+---
+A10: The traditional similarity ranking method.

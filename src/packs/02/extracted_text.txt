@@ -1,0 +1,404 @@
+---- Page 1 ----
+Research Article
+A U-Net Approach to Apical Lesion Segmentation on
+Panoramic Radiographs
+Ibrahim S. Bayrakdar ,1Kaan Orhan ,2,3Özer Çelik ,4Elif Bilgir ,1Hande Sa ğlam ,1
+Fatma Akkoca Kaplan ,1Sinem Atay Görür ,1Alper Odabaş ,4Ahmet Faruk Aslan ,4
+and Ingrid Ró żyło-Kalinowska5
+1Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Eskisehir Osmangazi University, Eskisehir 26040, Turkey
+2Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Ankara University, Ankara 06560, Turkey
+3Ankara University Medical Design Application and Research Center (MEDITAM), Ankara 06560, Turkey
+4Department of Mathematics and Computer Science, Faculty of Science, Eskisehir Osmangazi University, Eskisehir 26040, Turkey
+5Department of Dental and Maxillofacial Radiodiagnostics, Medical University of Lublin, Lublin 20-093, Poland
+Correspondence should be addressed to Ingrid Ró żyło-Kalinowska; rozylo.kalinowska@umlub.pl
+Received 1 July 2021; Revised 13 December 2021; Accepted 16 December 2021; Published 15 January 2022
+Academic Editor:
+Lei Zhang
+Copyright © 2022 Ibrahim S. Bayrakdar et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+The purpose of the paper was the assessment of the success of an arti ﬁcial intelligence (AI) algorithm formed on a deep-
+convolutional neural network (D-CNN) model for the segmentation of apical lesions on dental panoramic radiographs. A total
+of 470 anonymized panoramic radiographs were used to progress the D-CNN AI model based on the U-Net algorithm(CranioCatch, Eskisehir, Turkey) for the segmentation of apical lesions. The radiographs were obtained from the Radiology
+Archive of the Department of Oral and Maxillofacial Radiology of the Faculty of Dentistry of Eskisehir Osmangazi University.
+A U-Net implemented with PyTorch model (version 1.4.0) was used for the segmentation of apical lesions. In the test data set,the AI model segmented 63 periapical lesions on 47 panoramic radiographs. The sensitivity, precision, and F1-score forsegmentation of periapical lesions at 70% IoU values were 0.92, 0.84, and 0.88, respectively. AI systems have the potential toovercome clinical problems. AI may facilitate the assessment of periapical pathology based on panoramic radiographs.
+1. Introduction
+Chronic apical periodontitis is an infection of tissues sur-
+rounding the dental apex induced by pulpal disease, mostlybecause of bacterial disease in the root canal complex devel-oping during untreated or incorrectly treated dental caries[1–3]. Apical periodontitis is common, and its prevalence
+increases with age. Epidemiological studies have reportedthat apical periodontitis is present in 7% of teeth and 70%of the general population. The diagnosis of acute apical peri-
+odontitis is made clinically, but the detection of chronic api-
+cal periodontitis is done by radiography [4]. In general,following root canal treatment, complete healing of periapi-cal lesions is expected or at least improvement in the form ofa decrease of the size of periapical lesion [1, 5]. Radiograph-ically, apical periodontitis manifests as a widened periodon-
+tal ligament space or visible lesions. Such radiolucencies, also
+called apical lesions, tend to be detected incidentally or byradiographic follow-up of endodontically treated teeth [6,7]. Radiolucency in radiographs is an important feature ofapical periodontitis [2]. Apical periodontitis can be detectedon periapical and panoramic radiographs and by cone-beamcomputed tomography (CBCT). CBCT has superior dis-criminatory power but is costly and exposes the patient toradiation burden [6, 8]. Periapical and panoramic radio-graphs are the most frequently used techniques in the diag-nosis and treatment of apical lesions [2]. Panoramicradiography generates two-dimensional (2D) tomographicHindawi
+BioMed Research International
+Volume 2022, Article ID 7035367, 7 pages
+https://doi.org/10.1155/2022/7035367
+
+
+---- Page 2 ----
+images of the entire maxillomandibular area [9], enabling
+the evaluation of all teeth simultaneously. Also, panoramicradiography requires a far lower dose of radiation thanCBCT imaging [6, 10]. Besides, panoramic radiography ispainless, unlike intraoral radiographs, thus well toleratedby patients [9, 11]. One of the many recent technologicaladvances in arti ﬁcial intelligence (AI) and its applications
+are expanding rapidly, also in the area of medical manage-ment and medical imaging [12]. AI uses computational net-
+works (neural networks (NNs)) that mimic biological
+nervous systems [13]. NNs were developed as one of the ﬁrst
+types of AI algorithms. The computing power of NNs variesdepending on the character and amount of training data.Networks using many large layers are termed deep learningNNs [14]. A deep convolutional neural network (D-CNN)was used to process large and complex images [15]. Deeplearning networks, including CNNs, have displayed superiorachievement in terms of object, face, and activity recognition[16]. Medical organ and lesion segmentation are an impor-tant application of imaging modalities [17, 18]. The detec-tion and classi ﬁcation performance of deep learning-based
+CNNs concerning retinopathy caused by diabetes, skin can-cer, and tuberculosis is very high [19, 20]. CNNs have alsobeen applied in dentistry for tooth detection and numbering,as well as an assessment of periodontal bone loss and peria-pical pathology [21–25]. U-Net and pixel-based image seg-mentation, which is a di ﬀerent architecture created from
+CNN layers, are more successful than classical models evenif there are few training images. The presentation of thisarchitecture has been realized with biomedical images. Thetraditional U-Net architecture, extended to handle volumet-ric input, has two phases: the coder portion of the networkwhere it learns representational features at unlikely scale-
+and gather-dependent information, and the decoder portion
+where the network extracts knowledge from the noticed sit-uation and formerly learned features. The jump links usedbetween the corresponding encoder and decoder layers allowdeep parts of the network to be trained e ﬃciently and com-
+pare the same receiver characteristics with di ﬀerent receiver
+areas [26].
+The study is aimed at assessing the diagnostic success of
+U-Net approach for the segmentation of apical lesions inpanoramic images.
+2. Material and Methods
+2.1. Radiographic Data Preparation. The panoramic radio-
+graphs used in the study were derived from the archives ofthe Faculty of Dentistry of Eskisehir Osmangazi University;470 anonymized panoramic radiographs were applied. Theradiographs were obtained from January 2018 to January2019 for a variety of reasons. Images with artifacts of anytype were excluded. The study design was authorized by
+the Non-Interventional Clinical Research Ethics Committee
+of Eskisehir Osmangazi University (decision date and num-ber: 06.08.2019/14). The study was conducted following theregulations of the Declaration of Helsinki. The PlanmecaPromax 2D (Planmeca, Helsinki, Finland) panoramic imag-ing system was used to obtain panoramic radiographs withthe following parameters: 68 kVp, 16 mA, and 13 s.
+2.2. Image Annotation. Three dental radiologists (I.S.B. and
+E. B. with 10 years of experience and F.A.K. with 3 years
+of experience) annotated ground truth images with the com-mon decision on all images using CranioCatch Annotationsoftware (Eskisehir, Turkey). The polygonal boxes were usedto determine the locations of the apical lesions.
+2.3. Deep CNN Architecture. The deep learning was per-
+formed using a U-Net implemented with the PyTorch model
+(version 1.4.0). The U-Net architecture is used for semanticsegmentation assignments (Figure 1).
+The U-Net architecture consists of four block levels,
+including two convolutional layers with batch normalizationand a recti ﬁed linear unit activation function (ReLu). There
+is a maximum pool layer in the encoding section and upcon-volution layers in the decoding section. Each block has 32,64, 128, or 256 convolutional ﬁlters. Besides the bottleneck,
+the layer comprises 512 convolutional ﬁlters. Skip connec-
+tions to the corresponding layers from the encoding layersare present in the decoding part [26]. The Adam Optimizerwas used to train the U-Net.
+2.4. Model Pipeline. PyTorch library was used for model
+development on the Python open-source programming lan-
+guage (v. 3.6.1; Python Software Foundation, Wilmington,DE, USA; retrieved on August 1, 2019, from https://www.python.org/). An AI model (CranioCatch, Eskisehir-Turkey)was developed to automatically segment apical lesions on pan-oramic radiographs. The training process was performed
+using an individual computer implemented with 16 GB
+RAM and an NVIDIA GeForce GTX 1060Ti graphic card.
+(i) Split: 470 panoramic radiographs were divided into
+train, validation, and test group
+(a) Training group: 380
+(b) Validation group: 43
+(c) Test group: 47
+(ii) Augmentation: 1140 images from the 380 original
+training group images were derived using data aug-mentation. Augmentation was applied on the train-ing data set, and augmentations were horizontal ﬂip
+and vertical ﬂip (total images: 1140 (= 380 × 3 ))
+(size: 2943 × 1435)
+(iii) Cropping (preprocessing step): then, all images of the
+train were divided into 4 parts as upper right, upperleft, lower right, and lower left (size: 1000 × 530 )
+(a) Training group: 1140 × 4 = 45602 BioMed Research International
+
+---- Page 3 ----
+(b) Validation group: 43 × 4 = 172
+(c) Test group: 47
+(iv) Remove full black masks (preprocessing step): the
+regions without lesions of all data set were deleted
+(a) Training group: 1629
+(b) Validation group: 59
+(c) Test group: 47
+(v) Contrast Limited Adaptive Histogram Equalization
+(CLAHE) (preprocessing step): CLAHE has applied
+all images to improve image contrast and enablethe identi ﬁcation of apical lesions
+(a) Training group: 1629
+(b) Validation group: 59(c) Test group: 47
+(vi) Resize (preprocessing step): the resolution of each
+piece divided into 4 ( 1000 × 530 ) was resized to
+512x256
+(a) Training group: 1629
+(b) Validation group: 59
+(c) Test group: 47
+The segmentation model with PyTorch U-Net was
+trained with 95 epochs; the model based on 43 epochsshowed the best performance and was thus used in theexperiment. The model pipeline is summarized in Figure 2.
+2.5. Statistical Analysis. The confusion matrix was used to
+assess the achievement of the model. This matrix is a mean-
+ingful table that summarizes the predicted and actual situa-
+tions. The performance of model is frequently assessed
+using the data in the confusion matrix [27]. The metricsused to evaluate the success of the model were as follows:
+Conv 3×3, ReLU
+Copy and crop
+Max pool 2×2
+Up-conv 2×2
+Conv 1×1 
+Figure 2: The U-Net architecture for the semantic segmentation task.
+Figure 1: Annotation of the apical lesion using polygonal box method.3 BioMed Research International
+
+---- Page 4 ----
+(1) True Positive (TP): apical lesion was segmented,
+correctly
+(2) False Positive (FP): apical lesions were not detected
+(3) False Negative (FN): without apical lesions, lesions
+were nevertheless segmented
+(4) TP, FP, and FN were determined; then, the following
+metrics were computed:
+(i) Sensitivity (recall): TP/ ðTP + FN Þ
+(ii) Precision: TP/ ðTP + FP Þ
+(iii) F1 score: 2TP/ ð2TP + FP + FN Þ
+3. Results and Discussion
+3.1. Results. The AI model segmented 63 apical lesions on 47
+radiographs in the test data set (True Positives) (Figures 3 –5).
+Twelve apical lesions were not detected (False Nega-
+tives). In 5 cases without apical lesions, lesions were never-
+theless segmented by the AI model (False Positives)
+(Table 1).
+The sensitivity, precision, and F1-score values at 70%
+IoU value were 0.92, 0.84, and 0.88, respectively (Table 2).
+3.2. Discussion. AI has rapidly improved the interpretation
+of medical and dental images, including via the application
+of deep learning models and CNNs [28, 29]. Deep learninghas been developing rapidly thus recently attracting consid-erable attention [28–34]. The deep CNN architecture
+appears to be the most used deep learning approach. This
+is most likely due to its e ﬀective self-learning models and
+high computing capacity, which provide superior classi ﬁca-
+tion, detection, and quantitative performance based onimaging data [28 –35]. CNNs have been used in dentistry
+for cephalometric landmark detection, dental structure seg-mentation, tooth classi ﬁcation, and apical lesion detection
+[36–39].
+Tuzoﬀet al. presented a novel CNN algorithm for auto-
+matic tooth detection and numbering on panoramic radio-graphs. They found the sensitivity and speci ﬁcity value of
+tooth numbering as 0.9893 and 0.9997, respectively. The
+ﬁndings showed the ability of current CNN architectures
+for automatic dental radiographic interpretation and diag-
+nosis on panoramic radiographs [25]. Chen et al. detectedand numbered teeth in dental periapical ﬁlms using faster
+region proposal CNN networks (faster R-CNN). Faster R-CNN performed unusually well for tooth detection andlocalization, showing good precision and recall and overallperformance like that of a younger dentist [24]. Miki et al.assessed the utility of deep CNN for classifying teeth basedon dental CBCT images; the accuracy was 91.0%. The systemrapidly and automatically produces diagrams for forensic
+recognition [38]. Two previous studies investigated the util-
+ity of AI systems for detecting periapical lesions. Ekert et al.investigated the capability of deep CNN algorithm to detectapical lesions on dental panoramic radiographs. CNNsdetected the lesions despite the small number of data sets[6]. Orhan et al. [39] compared the diagnostic ability of adeep CNN algorithm to that of volume measurements basedMixed size
+Panoramic images
+Train: 380
+Validation: 43
+Test: 47
+Augmentation on train data
+n = 1140
+Split 4 area
+Training: 4560
+Validation: 172
+Test: 47
+Shape = 2943×1435No
+No Remove empty images in all
+dataset
+Train: 1629
+Val: 59
+Test: 47
+Image lighting
+with CLAHE
+method
+Create dataset images
+(n = 1735)
+Train set
+(n = 1629)Train set
+(n = 47)Validation set
+(n = 59)
+Train set
+(n = 47)Validation set
+(n = 59)
+Training lesion
+segmentation model
+with PyTorch U-net
+Epoch = 95
+Model evaluationGenerate blank images
+and paint labeled
+coordinates of lesion
+and save same name
+Train mask
+(n = 1629)Ye s
+Ye sLesion in
+dataset ?Delete diﬀerent shape
+images
+Figure 3: Model pipeline for apical lesion segmentation
+(CranioCatch, Eskisehir, Turkey).4 BioMed Research International
+
+---- Page 5 ----
+on CBCT images in the context of periapical pathology. The
+rate of detection of periapical lesions of the CNN model was92.8%, and the volumetric and manual segmentation mea-surements were similar [39]. Endres et al. [40] created amodel using 2902 deidenti ﬁed panoramic radiographs. The
+presence of periapical radiolucencies on panoramic radio-graphs was evaluated by 24 oral and maxillofacial surgeons.They show that the deep learning algorithm has better suc-cess than 14 of 24 oral and maxillofacial surgeons. The suc-cess metrics for this model were as follows: the precision of0.60 and an F1 score of 0.58 corresponding to a positive pre-dictive value of 0.67 and True Positive rate of 0.51. Setzeret al. performed a study to use a deep learning proposalusing U-Net architecture for the automatic segmentation
+of periapical lesions on CBCT images [41]. Segmentation
+of lesion accuracy was found as 0.93 with a speci ﬁcity of
+0.88, a positive predictive value of 0.87, and a negative pre-dictive value of 0.93. They concluded that the DL algorithmtrained in a limited CBCT images presented wonderfulresults in lesion detection accuracy. In the presented study,we created a segmentation model with PyTorch U-Net AIarchitecture on panoramic radiograph. It segmented 63 api-cal lesions on 47 radiographs in the test data set. Twelve api-cal lesions were not detected. In 5 cases without apicallesions, lesions were nevertheless segmented by the AImodel. The sensitivity, precision, and F1-score values at
+70% IoU value were 0.92, 0.84, and 0.88, respectively. Our
+results showed that AI deep learning algorithms can haveservice ability in the clinical dental setting. However, thepresent study had some limitations. Only one radiographymachine and standard parameters were used to image acqui-sitions. Besides, study groups included all size of periapicalimages. The external test group was not used to assess themodel’ s success. We used the U-Net algorithm to model
+development, only. Future studies should be used usinglarger study samples and images taken from di ﬀerent radiog-
+raphy equipment. Comparative experiments should be
+planned to use di ﬀerent CNN algorithms, and AI model per-
+formance should be compared to di ﬀerent human observers
+which have di ﬀerent level professional experiences.
+4. Conclusions
+Deep learning AI models enable the evaluation of periapical
+pathology based on panoramic radiographs. The application
+Figure 4: Automatically apical lesion segmentation using AI model (CranioCatch, Eskisehir, Turkey).
+Figure 5: An example real-prediction image comparison.
+Table 1: The number of segmented apical lesions with AI model
+(CranioCatch, Eskisehir, Turkey).
+Metrics Number
+True Positives (TP) 63
+False Negatives (FN) 12
+False Positives (FP) 5
+Table 2: The prediction performance measurement of the AI
+model (CranioCatch, Eskisehir, Turkey).
+Measure Value Derivations
+Sensitivity (recall) 0.92 TP/ TP + FN ðÞ
+Precision 0.84 TP/ TP + FP ðÞ
+F1 score 0.88 2TP/ 2TP + FP + FN ðÞ
+IoU value 0.79 TP/ TP + FP + FN ðÞ
+Dice coe ﬃcient 0.88 2TP/ 2TP + FP + FN ðÞ5 BioMed Research International
+
+---- Page 6 ----
+of AI for apical lesion detection and segmentation can
+reduce the burden on clinicians.
+Data Availability
+The data used to support the ﬁndings of this study are avail-
+able from the corresponding author upon request.
+Conflicts of Interest
+The authors declare that there is no con ﬂict of interest
+regarding the publication of this paper.
+References
+[1] J. Segura-Egea, J. Martín-González, and L. Castellanos-
+Cosano, “Endodontic medicine: connections between apical
+periodontitis and systemic diseases, ”International Endodontic
+Journal , vol. 48, no. 10, pp. 933 –951, 2015.
+[2] P. Velvart, H. Hecker, and G. Tillinger, “Detection of the apical
+lesion and the mandibular canal in conventional radiography
+and computed tomography, ”Oral Surgery, Oral Medicine,
+Oral Pathology, Oral Radiology, and Endodontology , vol. 92,
+no. 6, pp. 682 –688, 2001.
+[3] C. Ridao-Sacie, J. Segura-Egea, A. Fernández-Palacín,
+P. Bullón-Fernández, and J. Ríos-Santos, “Radiological assess-
+ment of periapical status using the periapical index: compari-
+son of periapical radiography and digital panoramic
+radiography, ”International Endodontic Journal , vol. 40,
+no. 6, pp. 433 –440, 2007.
+[4] S. Patel and C. Durack, “Radiology of apical periodontitis.
+Essential endodontology: prevention and treatment of apical
+periodontitis, ”inEssential Endodontology: Prevention and
+Treatment of Apical Periodontitis , pp. 179 –210, Blackwell,
+2019.
+[5] T. Connert, M. Truckenmüller, A. ElAyouti et al., “Changes in
+periapical status, quality of root ﬁllings and estimated end-
+odontic treatment need in a similar urban German population
+20 years later, ”Clinical Oral Investigations , vol. 23, no. 3,
+pp. 1373 –1382, 2019.
+[6] T. Ekert, J. Krois, L. Meinhold et al., “Deep learning for the
+radiographic detection of apical lesions, ”Journal of Endodon-
+tics, vol. 45, no. 7, pp. 917 –922.e5, 2019.
+[7] S. Kanagasingam, H. Hussaini, I. Soo, S. Baharin, A. Ashar,
+and S. Patel, “Accuracy of single and parallax ﬁlm and digital
+periapical radiographs in diagnosing apical periodontitis–a
+cadaver study, ”International Endodontic Journal , vol. 50,
+no. 5, pp. 427 –436, 2017.
+[8] S. Patel, J. Brown, M. Semper, F. Abella, and F. Mannocci,
+“European Society of Endodontology position statement: use
+of cone beam computed tomography in Endodontics, ”Inter-
+national Endodontic Journal , vol. 52, no. 12, pp. 1675 –1678,
+2019.
+[9] X. Du, Y. Chen, J. Zhao, and Y. Xi, “A convolutional neural
+network based
+auto-positioning method for dental arch in
+rotational panoramic radiography, ”in2018 40th Annual Inter-
+national Conference of the IEEE Engineering in Medicine andBiology Society (EMBC) , pp. 2615 –2618, Honolulu, HI, USA,
+2018.
+[10] K. Leonardi Dutra, L. Haas, A. L. Porporatti et al., “Diagnostic
+accuracy of cone-beam computed tomography and conven-tional radiography on apical periodontitis: a systematic reviewand meta-analysis,” Journal of Endodontics , vol. 42, no. 3,
+pp. 356 –364, 2016.
+[11] S. C. White and M. J. Pharoah, Oral radiology-E-Book: Principles
+and interpretation , Elsevier Health Sciences, St. Louis, 2014.
+[12] B. Allen, S. E. Seltzer, C. P. Langlotz et al., “A road map for
+translational research on arti ﬁcial intelligence in medical
+imaging: from the 2018 National Institutes of Health/RSNA/ACR/The Academy Workshop, ”Journal of the American Col-
+lege of Radiology, vol. 16, no. 9, pp. 1179 –1189, 2019.
+[13] S. Wong, H. al-Hasani, Z. Alam, and A. Alam, “Artiﬁ cial intel-
+ligence in radiology: how will we be a ﬀected?, ”European Radi-
+ology, vol. 29, no. 1, pp. 141 –143, 2019.
+[14] J. R. Burt, N. Torosdagli, N. Khosravan et al., “Deep learning
+beyond cats and dogs: recent advances in diagnosing breastcancer with deep neural networks, ”The British Journal of
+Radiology, vol. 91, no. 1089, 2018.
+[15] J. J. Hwang, Y. H. Jung, B. H. Cho, and M. S. Heo, “An over-
+view of deep learning in the ﬁeld of dentistry, ”Imaging Science
+in dentistry , vol. 49, no. 1, pp. 1–7, 2019.
+[16] J. E. Sklan, A. J. Plassard, D. Fabbri, and B. A. Landman,
+“Toward content-based image retrieval with deep convolu-
+tional neural networks, ”Proceedings of SPIE –the International
+Society for Optical Engineering , vol. 9417, p. 94172C, 2015.
+[17] E. Neri, N. de Souza, A. Brady et al., “What the radiologist
+should know about arti ﬁcial intelligence –an ESR white paper, ”
+Insights into imaging , vol. 10, no. 1, 2019.
+[18] J. H. Lee, D. H. Kim, S. N. Jeong, and S. H. Choi, “Detection
+and diagnosis of dental caries using a deep learning-based con-volutional neural network algorithm,” Journal of Dentistry ,
+vol.77,
+pp. 106 –111, 2018.
+[19] V. Gulshan, L. Peng, M. Coram et al., “Development and vali-
+dation of a deep learning algorithm for detection of diabeticretinopathy in retinal fundus photographs, ”JAMA , vol. 316,
+no. 22, pp. 2402 –2410, 2016.
+[20] A. Esteva, B. Kuprel, R. A. Novoa et al., “Dermatologist-level
+classiﬁ cation of skin cancer with deep neural networks, ”
+Nature, vol. 542, no. 7639, pp. 115–118, 2017.
+[21] J. Krois, T. Ekert, L. Meinhold et al., “Deep learning for the
+radiographic detection of periodontal bone loss, ”Scienti ﬁc
+Reports , vol. 9, no. 1, pp. 1–6, 2019.
+[22] A. Davies, F. Mannocci, P. Mitchell, M. Andiappan, and
+S. Patel, “The detection of periapical pathoses in root ﬁlled
+teeth using single and parallax periapical radiographs versus
+cone beam computed tomography - a clinical study, ”Interna-
+tional Endodontic Journal , vol. 48, no. 6, pp. 582 –592, 2015.
+[23] A. Zakirov, M. Ezhov, M. Gusarev, V. Alexandrovsky, and
+E. Shumilov, “End-to-end dental pathology detection in 3D
+cone-beam computed tomography images, ”2018, http://
+arxiv.org/abs/1810.10309.
+[24] H. Chen, K. Zhang, P. Lyu et al., “A deep learning approach to
+automatic teeth detection and numbering based on object
+detection in dental periapical ﬁlms,” Scienti ﬁc Reports , vol. 9,
+no. 1, pp. 1–11, 2019.
+[25] D. V. Tuzo ﬀ, L. N. Tuzova, M. M. Bornstein et al., “Tooth
+detection and numbering in panoramic radiographs usingconvolutional neural networks,, ”Dentomaxillofacial Radiol-
+ogy, vol. 48, no. 4, 2019.
+[26] O. Ronneberger, P. Fischer, and T. Brox, “U-net: convolutional
+networks for biomedical image segmentation, ”inInterna-
+tional Conference on Medical image computing andcomputer-assisted intervention , pp. 234 –241, Springer, 2015.6 BioMed Research International
+
+---- Page 7 ----
+[27] U. Ö. Osmano ğlu, O. N. Atak, K. Ça ğlar, H. Kayhan, and T. C.
+Can, “Sentiment analysis for distance education course mate-
+rials: a machine learning approach,” Journal of Educational
+Technology and Online Learning , vol. 3, no. 1, pp. 31–48, 2020.
+[28] K. He, X. Zhang, S. Ren, and J. Sun, “Delving deep into recti-
+ﬁers: surpassing human-level performance on imagenet classi-
+ﬁcation, ”inProceedings of the IEEE International Conference
+on Computer Vision (ICCV), pp. 1026 –1034, Santiago, Chile,
+2015.
+[29] P. Lakhani and B. Sundaram, “Deep learning at chest radiogra-
+phy: automated classiﬁ cation of pulmonary tuberculosis by
+using convolutional neural networks, ”Radiology, vol. 284,
+no. 2, pp. 574 –582, 2017.
+[30] L. Zhang, D. Arefan, Y. Guo, and S. Wu, “Fully automated
+tumor localization and segmentation in breast DCEMRI using
+deep learning and kinetic prior, ”inSPIE Medical Imaging ,
+p. 113180Z, Houston, Texas, USA, 2020.
+[31] L. Zhang, A. A. Mohamed, R. Chai, Y. Guo, B. Zheng, and
+S. Wu, “Automated deep learning method for whole-breast
+segmentation in di ﬀusion-weighted breast MRI, ”Journal of
+Magnetic Resonance Imaging , vol. 51, no. 2, pp. 635 –643, 2020.
+[32] L. Zhang, Z. Luo, R. Chai, D. Arefan, J. Sumkin, and S. Wu,
+“Deep-learning method for tumor segmentation in breast
+DCE-MRI, ”inSPIE Medical Imaging , p. 6, San Diego, Califor-
+nia, USA, 2019.
+[33] O. Russakovsky, J. Deng, H. Su et al., “Imagenet large scale
+visual recognition challenge, ”International Journal of Com-
+puter Vision , vol. 115, no. 3, pp. 211 –252, 2015.
+[34] H. Hricak, “2016 New Horizons Lecture: Beyond Imagi-
+ng—Radiology of Tomorrow, ”Radiology, vol. 286, no. 3,
+pp. 764 –775, 2018.
+[35] S. So ﬀer, A. Ben-Cohen, O. Shimon, M. M. Amitai,
+H. Greenspan, and E. Klang, “Convolutional neural networks
+forradiologic
+images: a radiologist ’s guide, ”Radiology,
+vol. 290, no. 3, pp. 590–606, 2019.
+[36] S. Ö. Arik, B. Ibragimov, and L. Xing, “Fully automated quan-
+titative cephalometry using convolutional neural networks, ”
+Journal of Medical Imaging , vol. 4, no. 1, 2017.
+[37] C. W. Wang, C. T. Huang, J. H. Lee et al., “A benchmark for
+comparison of dental radiography analysis algorithms, ”Medi-
+cal Image Analysis, vol. 31, pp. 63–76, 2016.
+[38] Y. Miki, C. Muramatsu, T. Hayashi et al., “Classiﬁ cation of
+teeth in cone-beam CT using deep convolutional neural net-work, ”Computers in Biology and Medicine , vol. 80, pp. 24 –
+29, 2017.
+[39] K. Orhan, I. S. Bayrakdar, M. Ezhov, A. Kravtsov, and
+T. Ozyurek, “Evaluation of arti ﬁcial intelligence for detecting
+periapical pathosis on cone-beam computed tomographyscans, ”International Endodontic Journal , vol. 53, no. 5,
+pp. 680 –689, 2020.
+[40] M. G. Endres, F. Hillen, M. Salloumis et al., “Development of a
+deep learning algorithm for periapical disease detection indental radiographs, ”Diagnostics , vol. 10, no. 6, p. 430, 2020.
+[41] F. C. Setzer, K. J. Shi, Z. Zhang et al., “Artiﬁ cial intelligence for
+the computer-aided detection of periapical lesions in cone-
+beam computed tomographic images, ”Journal of Endodontia,
+vol. 46, no. 7, pp. 987 –993, 2020.7 BioMed Research International
+
