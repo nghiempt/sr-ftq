@@ -1,0 +1,18 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are an expert in scoring the ielts writing essay."
+            },
+            {
+                "role": "user",
+                "content": "Question: The bar chart below describes some changes about the percentage of people were born in Australia and who were born outside Australia living in urban, rural and town between 1995 and 2010.Summarise the information by selecting and reporting the main features and make comparisons where relevant.\n\nAnswer: Between 1995 and 2010, a study was conducted representing the percentages of people born in Australia, versus people born outside Australia, living in urban, rural, and town. First, in 1995, cities represented the major percentage of habitat by roughly 50 percent, followed by rural areas and towns came in last, among people born in Australia. On the other hand, people born outside Australia, cities showed the most percentages of 6o percent, followed by rural areas and towns. In 2010, among people born in Australia, cities had an increase more than 20 percent increase in the total representation and a major decrease in towns and rural areas. Conversely, people born outside Australia, cities had the most percentage among both studies, followed by rural areas and towns."
+            },
+            {
+                "role": "assistant",
+                "content": "Score: 5.0"
+            }
+        ]
+    }
+]
