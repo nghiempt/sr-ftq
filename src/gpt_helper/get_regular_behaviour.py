@@ -7,7 +7,7 @@ import os
 from dotenv import load_dotenv
 
 
-class GET_SECTION_PRIVACY_POLICY:
+class GET_REGULAR_BEHAVIOUR:
     
     @staticmethod
     def remove_empty_lines(content):
@@ -16,14 +16,13 @@ class GET_SECTION_PRIVACY_POLICY:
         return '\n'.join(cleaned_lines)
     
     @staticmethod
-    def ask_gpt(prompt):
+    def ask_gpt(prompt, category):
         try:
-            print(prompt)
             response = openai.ChatCompletion.create(
                 model='gpt-4',
                 messages=[
-                    {"role": "system", "content": "You are an expert at detecting links to third-party services that privacy policy content refers to."},
-                    {"role": "user", "content": "Based on the content of the privacy policy below. Tell me, are there any linked 3rd party services to use?\n\n" + str(prompt)}
+                    {"role": "system", "content": "You are an expert in analyzing the regular behavior of Android applications based on the privacy policy and category of that application."},
+                    {"role": "user", "content": "Based on the content of the privacy policy below with category: " + category + ". What is regular behavior ?\n\n" + str(prompt)}
                 ]
             )
             assistant_reply = response.choices[0].message['content']
@@ -47,9 +46,9 @@ class GET_SECTION_PRIVACY_POLICY:
                 print("\n_____________ Run times " +
                     row[0] + " <" + row[2] + "> " + "_____________")
                 
-                privacy_policy_section = GET_SECTION_PRIVACY_POLICY().ask_gpt(row[7])
-                row[headers.index("privacy_policy_section")] = GET_SECTION_PRIVACY_POLICY().remove_empty_lines(privacy_policy_section)
-                print(GET_SECTION_PRIVACY_POLICY().remove_empty_lines(privacy_policy_section))
+                regular = GET_REGULAR_BEHAVIOUR().ask_gpt(row[7], row[3])
+                row[headers.index("regular")] = GET_REGULAR_BEHAVIOUR().remove_empty_lines(regular)
+                print(GET_REGULAR_BEHAVIOUR().remove_empty_lines(regular))
                 writer.writerow(row)
                 print("~~~~~~~~~~~~~~ Success ~~~~~~~~~~~~~~\n")
 
@@ -59,10 +58,10 @@ async def main():
     load_dotenv()
     openai.api_key = os.getenv("OPENAI_API_KEY")
     
-    input_csv_path = "/Users/nghiempt/Observation/sr-ftq/gpt_helper/android_app.csv"
-    output_csv_path = "/Users/nghiempt/Observation/sr-ftq/gpt_helper/thirdparty_result.csv"
+    input_csv_path = "/Users/nghiempt/Observation/sr-ftq/src/gpt_helper/section_result_10.csv"
+    output_csv_path = "/Users/nghiempt/Observation/sr-ftq/src/gpt_helper/regular.csv"
     
-    await GET_SECTION_PRIVACY_POLICY().loop_csv(input_csv_path, output_csv_path)
+    await GET_REGULAR_BEHAVIOUR().loop_csv(input_csv_path, output_csv_path)
 
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
