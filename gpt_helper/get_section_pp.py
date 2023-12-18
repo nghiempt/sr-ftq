@@ -59,8 +59,8 @@ async def main():
     load_dotenv()
     openai.api_key = os.getenv("OPENAI_API_KEY")
     
-    input_csv_path = "/Users/nghiempt/Observation/sr-ftq/src/privacy_policy/assets/android_app_10.csv"
-    output_csv_path = "/Users/nghiempt/Observation/sr-ftq/src/privacy_policy/assets/android_app_10_result.csv"
+    input_csv_path = "/Users/nghiempt/Observation/sr-ftq/gpt_helper/android_app.csv"
+    output_csv_path = "/Users/nghiempt/Observation/sr-ftq/gpt_helper/section_result.csv"
     
     await GET_SECTION_PRIVACY_POLICY().loop_csv(input_csv_path, output_csv_path)
 
