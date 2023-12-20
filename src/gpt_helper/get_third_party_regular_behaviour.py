@@ -21,8 +21,8 @@ class GET_REGULAR_BEHAVIOUR:
             response = openai.ChatCompletion.create(
                 model='gpt-4',
                 messages=[
-                    {"role": "system", "content": "You are an expert in analyzing privacy policy content and concluding what user information that application collects and shares."},
-                    {"role": "user", "content": "Based on privacy policy data below. Tell me, does the application collect or share any user information, if so, what is that information, please list it as the title of the information and do not need details (for example: Data Shared: Precise Location, Personal Information [Name, Email] \n Data Collected: Device and other ID, ... )\n\n" + str(prompt)}
+                    {"role": "system", "content": "You are an expert in privacy policy content analysis and have concluded that the application shares user information for third-party analysis."},
+                    {"role": "user", "content": "Based on privacy policy data below. Please tell me, does the application use 3rd party services and share user information for 3rd party analysis? If so, what information is it? (For example: Data Shared for Third-party service: Precise Location, Personal Information, ...). Please answer briefly, only listing which user information is shared with third parties.\n\n" + str(prompt)}
                 ]
             )
             assistant_reply = response.choices[0].message['content']
@@ -59,7 +59,7 @@ async def main():
     openai.api_key = os.getenv("OPENAI_API_KEY")
     
     input_csv_path = "/Users/nghiempt/Observation/sr-ftq/src/gpt_helper/section_result_10.csv"
-    output_csv_path = "/Users/nghiempt/Observation/sr-ftq/src/gpt_helper/regular.csv"
+    output_csv_path = "/Users/nghiempt/Observation/sr-ftq/src/gpt_helper/regular2.csv"
     
     await GET_REGULAR_BEHAVIOUR().loop_csv(input_csv_path, output_csv_path)
 
