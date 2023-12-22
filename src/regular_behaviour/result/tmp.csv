@@ -1,0 +1,28 @@
+app_id,app_name,third_party_name,data_type,purpose
+1,Sketchbook,Trusted third parties,Various data,To share with trusted third parties during business operations
+2,Infinite Painter,Google Play Services,Log Data,To resolve app errors and improve service
+2,Infinite Painter,Google Analytics for Firebase,Log Data,To understand app usage patterns
+2,Infinite Painter,Firebase Crashlytics,Log Data,For error tracking and analysis
+3,PaperColor,Not specified,Personal Data,For legal or administrative requirements and corporate ownership changes
+4,Easy Pose - 3D pose making app,Payment platform,Payment data,For the platform where the game is running
+5,Bazaart Photo Editor & Design,Third parties,Various data,Processed by third parties when using services
+6,How to Draw Anime Eyes,Not specified,Personal information,For disclosure as stated in the policy
+7,Infinite Design,Google Play Services,Log Data,For error tracking and service improvement
+7,Infinite Design,Google Analytics,Log Data,For understanding how users interact with advertising
+7,Infinite Design,Firebase Crashlytics,Log Data,For error tracking and analysis
+8,Clip Studio Paint,Not specified,Personal information,For enhancing services and managing customer information securely
+8,Clip Studio Paint,Not specified,Children's data,Not knowingly collected from children under 13
+8,Clip Studio Paint,Third parties,Personal information,Used for business operations by outsourced third parties
+8,Clip Studio Paint,Not specified,Cookies,Used for convenience and improvements
+8,Clip Studio Paint,Not specified,Legal bases,Including consent and contract fulfillment
+8,Clip Studio Paint,Not specified,International transfer of personal data,Under proper protection measures
+8,Clip Studio Paint,Not specified,Access and correction rights,For clients
+9,Adobe Express: Graphic Design,Facebook,Various data,Data on your use of features like the "Like" button
+9,Adobe Express: Graphic Design,Google,Device and application data,Collected by Google's reCAPTCHA Enterprise
+9,Adobe Express: Graphic Design,Not specified,Biometric identifiers,Used for editing and organizing content
+10,ArtFlow: Paint Draw Sketchbook,Google Play Services,Various data,May gather data identifying users
+10,ArtFlow: Paint Draw Sketchbook,AdMob and Firebase Analytics,Various data,For understanding app usage patterns
+10,ArtFlow: Paint Draw Sketchbook,Not specified,Cookies,May be sent to your browser and stored on your device
+10,ArtFlow: Paint Draw Sketchbook,Third parties,Personal Information,Enlisted entities may have access to Personal Information
+10,ArtFlow: Paint Draw Sketchbook,Not specified,Security measures,Efforts to protect and secure Personal Information
+10,ArtFlow: Paint Draw Sketchbook,Not specified,Children's data,Not knowingly collected from children below 13

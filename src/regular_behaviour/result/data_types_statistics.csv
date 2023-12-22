@@ -1,0 +1,1352 @@
+data_type,data_shared,data_collected
+Academic and Professional Data,0,1
+Access Files,0,1
+Access Logs,0,1
+Access Storage,0,1
+Access Through Another Company,1,0
+Access times),0,1
+Access to Photo Library,0,1
+Accessory Names,0,1
+Account Details,0,1
+Account Information,1,5
+Account Information (Email Address,0,1
+Account Information (email address,0,1
+Account Login,0,1
+Account Maintenance.,1,0
+Account Management Data,0,1
+Account State Information,0,1
+Account and Profile Information,0,1
+Account creation details,0,1
+Account credentials,0,1
+Account details,1,1
+Account or Email Log-in Credentials,0,1
+Activity Data (login times,0,1
+Activity Information,0,1
+Activity Logs,0,1
+Activity data,0,1
+Activity data (offers,0,1
+Ad ID,0,1
+Ad campaign details,0,1
+Ad engagement data,0,1
+AdColony,1,0
+AdMob,1,0
+Additional Information (First Name,0,1
+Additional Information (name,0,1
+Additional Information from Social Networking Sites [User name,0,1
+Additional Information from other sources,0,1
+Additional Personal Details,0,1
+Additional function details (location information,1,1
+Address,1,8
+Addresses,0,1
+Admob (Google),1,0
+Ads Data,0,1
+Ads data,1,0
+Ads remarketing,1,0
+Advertisements data (Google AdMob).,0,1
+Advertising ID,0,2
+Advertising Number,0,1
+Advertising and Analytics.,1,0
+Advertising identifiers,0,1
+Advertising optimization data.,0,1
+Affiliates,2,0
+Affiliates information,1,0
+Age,1,6
+Aggregate Information,0,1
+Aggregate Web Traffic Routing Data.,0,1
+Aggregated Demographic Information,1,0
+Aggregated Information.,1,0
+Aggregated User Account Data,0,1
+Akamai,1,0
+Analytic Data,0,1
+Analytical Information),0,1
+Analytics,1,0
+Analytics Cookies,0,1
+Analytics Cookies Usage Data,0,1
+Analytics Data,1,0
+Analytics Data (Usage Activity,0,1
+Analytics and research data,0,1
+Analytics data,1,1
+Anonymized Aggregated Data,1,0
+Anonymous,1,0
+Anonymous Data,0,1
+Anonymous Information,1,0
+Anonymous Statistics Related to Product Use.,0,1
+Anonymous Technical Data (Error Reports,0,1
+Anonymous User-Interaction Statistics),0,1
+Anonymous data for advertisements.,1,0
+Anonymous information for advertising purposes,0,1
+Anti-Money Laundering Information,1,0
+Any other necessary data for company's services,0,1
+App Configuration,0,11
+App Data [Period of usage,0,1
+App Experience Optimization Data,1,0
+App Settings.,0,1
+App Usage,0,2
+App Usage Data,0,1
+App Usage Data.,1,0
+App Usage Details,0,1
+App Usage History,0,1
+App Usage Information),0,1
+App Usage Information.,0,1
+App Version,0,2
+App crash logs,1,0
+App usage data,1,1
+App usage duration,0,1
+App usage frequency,0,1
+App usage statistics),0,1
+App versions,0,1
+App's Configuration,0,1
+Appearance Description,0,1
+Application Specific Data,0,1
+Application Version,0,2
+Applovin,1,0
+AppsFlyer Ltd.,0,1
+Asset Protection Information,1,0
+Assistant,0,1
+Audience Measurement services from Nielsen and Quantcast,0,1
+Audio,0,1
+Audio and Visual Data,0,1
+Authentication for Cloud Accounts,0,1
+Automated Information (Device Type,0,1
+Automated data generation.,0,1
+Automatic Information (through cookies),0,1
+Automatically Generated Data,0,1
+Autopilot Analytics & Improvements,1,1
+Bank Account Information,0,1
+Basic Personal Information (Phone Number,0,1
+Basic Profile Details and Preferences,0,1
+Behavior Data,0,1
+Behavior Data (page views,0,1
+Behavioral Data (Pages Visited,0,1
+Billing Address,0,2
+Billing Details,0,1
+Billing and Shipping Address,0,1
+Billing information],0,1
+Biometric Identifiers or Biometric Information.,0,1
+Birth Date,0,2
+Birthdate,0,1
+Birthdate or Age,0,1
+Birthday,0,1
+Bluetooth,1,1
+Bluetooth),0,1
+Book Rating Data,0,1
+Browser Details,0,1
+Browser Information.,0,1
+Browser Type,0,5
+Browser information,0,1
+Browser type,0,1
+Browser-specific data,0,1
+Browsing Behaviors,0,1
+Browsing Data,0,1
+Browsing Habits),0,1
+Business Partners,1,0
+Business Partners Information,1,0
+Business advisors,1,0
+Business development data,0,1
+CCTV Footage,0,1
+Calendar Events,0,1
+Calendar Items,1,1
+Calendar items,0,1
+Camera Access Information (hostname/IP address,0,1
+Card details with user's consent.,1,0
+Carrier,0,1
+Category of Enquiry,0,1
+Chat Session Records,0,1
+City,0,2
+Click Numbers,0,1
+Cloud Service User Data,0,1
+Cloud Storage Data,1,0
+Cloudflare,1,0
+Collaborative Research,1,0
+Combined Information (from different sources),0,1
+Comment and Post Data,0,1
+Commercial Information,0,1
+Communication Information.,0,1
+Communication Records and Contents,0,1
+Communication Requests,0,1
+Communication with the company,0,1
+Communications,0,1
+Communications and Information Provided for Surveys and Contests,0,1
+Companies Operating Services,1,0
+Company Merger or Sale,1,0
+Company Name,0,2
+Company Restructuring Information,1,0
+Complaints,0,1
+Connection Time,0,1
+Connectivity Services Usage Detail,0,1
+Contact Data,1,1
+Contact Data (Phone Number,0,1
+Contact Details,0,6
+Contact Details),1,1
+Contact Information,2,5
+Contact Information (Email Address,0,1
+Contact Information [Email,0,1
+Contact Number,0,1
+Contact and identity information,0,1
+Contact details,0,1
+Contact information,0,1
+Contacts,2,2
+Contacts from connected accounts,0,1
+Contacts on Device,0,1
+Contacts),0,1
+Contacts],0,1
+Content Preferences,0,1
+Content Shared,0,1
+Content Submitted,0,1
+Contractor-related data,1,0
+Contractors,0,1
+Conversion Tracking Pixel of Facebook and Facebook Custom Audience,0,1
+Cookie Data,0,3
+Cookie Data (through third-party code and libraries).,0,1
+Cookie Information,0,1
+Cookie data,0,1
+Cookies,1,12
+Cookies (Preferences and Login Information),0,1
+Cookies (Strictly Necessary,0,1
+Cookies (User behavior on the site),0,1
+Cookies (third-party code and libraries),0,1
+Cookies Information,0,2
+Cookies Information (Process Cookies,0,1
+Cookies Information.,0,2
+Cookies Usage Information,0,1
+Cookies and IP Address (through Google Analytics),0,1
+Cookies and Other Tracking Technologies,0,1
+Cookies and Similar Technologies,0,1
+Cookies and Similar Technologies for Advertising.,0,1
+Cookies and Similar Technologies used for Analytics and Advertising,0,1
+Cookies and Similar Technologies.,0,1
+Cookies and Tracking Technologies,0,1
+Cookies and Usage Data,0,1
+Cookies and Web Beacons Data,0,1
+Cookies and Web Beacons Usage Data,0,1
+Cookies and similar data.,0,1
+Cookies for website experience,0,1
+Cookies or similar data files by third-party code and libraries.,0,1
+Cookies.,0,6
+Correspondences with Homestyler,0,1
+Counter-Motions,0,1
+Country,0,2
+Country Code,0,1
+Country of Birth,0,1
+Country of Residence,0,1
+Crash Data,0,1
+Crash Reports,1,0
+Credit Card Details],0,1
+Credit Card Information,0,1
+Credit Card Information),0,1
+Current location estimation (if location services are enabled),0,1
+Customer Support Information,0,1
+Customer information,1,0
+Data Transferred,0,1
+Data for Advertising,1,0
+Data for Promoting,1,0
+Data for Providing Services,1,0
+Data for law enforcement requests,1,0
+Data for third-party service providers,1,0
+Data for usage statistics.,1,0
+Data from Cloud Services,1,1
+Data from Communication with the Church,0,1
+Data from Google Analytics and First and Third-Party Cookies.,0,1
+Data from Other Sources.,0,1
+Data from Other Users,0,1
+Data from Third-Party Sources.,0,1
+Data from Third-party Social Media Network (Facebook,0,1
+Data from product purchases,0,1
+Data from third-party services and organizations,0,1
+Data from third-party tools (Google Firebase Analytics),0,1
+Data necessary for protecting rights,1,0
+Data of individuals under 13,0,1
+Data on views and interactions with ads,0,1
+Data potentially shared with Third-Party Companies and Individuals,1,0
+Data such as location,0,1
+Data to Affiliates,1,0
+Data to Google Analytics.,1,0
+Data to Third-Party Service Providers,1,0
+Data with third-party applications (with user consent),1,0
+Data with trusted third-party companies,1,0
+Data you upload or download,0,1
+Date,0,2
+Date of Birth,0,7
+Date of Birth],0,1
+Date of Reporting,0,1
+Date of birth,0,1
+Date/Time Stamp,0,1
+Dating Preferences,0,1
+De-identified Data,1,0
+De-identified Information,1,0
+De-identified location data,0,1
+Demographic Data,0,1
+Demographic Data],0,1
+Demographic Information,1,1
+Demographic Information (Age,0,1
+Demographic data,0,1
+Demographic information,1,3
+Derivative Data (IP address,0,1
+Device Data,0,3
+Device Data (Operating System Type and Version,0,1
+Device Details,1,2
+Device ID,0,3
+Device IP Address,0,1
+Device Identifiers,1,1
+Device Identifiers.,0,1
+Device Info],0,1
+Device Information,2,14
+Device Information (IP address,0,1
+Device Information (Photo Library,0,1
+Device Language,0,1
+Device Manufacturer Information,0,1
+Device Model,0,1
+Device Model Details,0,1
+Device Model Number,0,1
+Device Model for Google Reviews,1,0
+Device Name,0,10
+Device OS Version,0,1
+Device Permissions (Camera,0,1
+Device Related Information (IMEI Number,0,1
+Device Sleep Prevention Status,0,1
+Device Type,0,2
+Device Type and ID Number,0,1
+Device Type.,0,1
+Device Unique Identification Numbers (Device ID or IMEI),0,1
+Device and App Access Details,0,1
+Device and Other ID (IP Address,0,1
+Device and Usage Information,0,1
+Device and other ID,0,1
+Device identifiers,0,1
+Device information,1,4
+Device or System Data,0,1
+Device or System Information,1,0
+Device or System Information (Mobile Device Identifier,0,1
+Device's Camera and Microphone Access,0,1
+Device's IP Address,0,2
+Device's Name,0,1
+Device's Photos,0,1
+Device-Specific Information [Device Model,0,1
+Device-specific information,0,2
+Diagnostic Data,1,1
+Digital Receipt Program Participants Information,0,1
+Direct Information,0,1
+Discussions),0,1
+Driver’s License Number,0,1
+Economic,0,1
+Education details,0,1
+Educational level,0,1
+Electricity Usage),1,1
+Email,2,15
+Email Address,2,21
+Email Addresses,0,2
+Email Communication Information (with appropriate consent),1,0
+Email Notification Data,0,1
+Email address,1,3
+Email addresses,0,1
+Email content,0,1
+Email),0,2
+Email.,0,1
+Email],0,1
+Emails,1,3
+Embedded Data within Photos and Videos,1,0
+Employment History,0,1
+Employment details,0,1
+Enquiry Data,1,0
+Enquiry Details,0,1
+Entry Data (Text/comment entry,0,1
+Equipment Version,0,1
+Error Log Data,0,1
+Ethnicity,0,1
+Evaluting performance of content,1,0
+Event-related Information,0,1
+External SD Card,0,1
+External SD Card Data,0,1
+External SD Card),0,1
+FTP server hostname or IP address,0,1
+Face or Hand Geometry,0,1
+Facebook,1,1
+Facebook Audience Network),1,0
+Facebook account information,0,1
+Facebook-Plugin,0,1
+Favourite Locations,0,1
+Feedback,0,1
+Feedback or Correspondence,0,1
+Feedback through online survey,0,1
+Files,1,1
+Files Stored on Device,1,0
+Financial Data,0,1
+Financial Data (Payment method information),0,1
+Financial Details,0,2
+Financial Information,1,2
+Financial Records,0,1
+Financial and Insurance Data,0,1
+Financial and Tax-related Information,0,1
+Financial data,0,1
+Firebase,2,0
+Firebase Crashlytics),1,0
+First Name,0,1
+First and Last Name,0,1
+First and third-party cookies,0,1
+Flurry Analytics by Yahoo,1,0
+Followers),0,1
+For Legal Requirements,1,0
+Form Registration Data,0,1
+Fraud Investigation,1,0
+Friend lists,0,1
+Friends’ ID,0,1
+Full Name,0,1
+Full Name (when making a purchase),0,1
+Full Truthful and Accurate Information.,0,1
+Full names,0,1
+Functional,0,1
+Game Interaction Details),1,0
+Game-related information,0,1
+Gaming Preferences],0,1
+Gender,1,11
+Gender Expression and Identity,0,1
+Gender),0,2
+General Location Information),0,1
+Geographic Location,1,1
+Geographic Position,0,1
+Geographical Information,0,1
+Geographical Location,0,1
+Geographical location),0,1
+Geolocation,0,1
+Geolocation Data,0,2
+Geolocation Information),0,1
+Geolocation information,1,1
+Geolocation),0,1
+Glen Dimplex Quantum Tariff Data,1,1
+Google Analytics,2,0
+Google Analytics Data,1,1
+Google Analytics Data.,0,1
+Google Analytics for Firebase,0,1
+Google Drive Permission,0,1
+Google Fonts,0,1
+Google Library Ajax and jQuery,0,1
+Google Maps,0,1
+Google Maps APIs Data.,0,1
+Google Play Services Identifiers.,1,0
+Google Services (DV360,1,0
+Google Tag Manager),1,0
+Google products content,0,1
+Google reCAPTCHA,0,1
+Google),0,1
+Government Requests,1,0
+Hardware Information.,0,1
+Hardware and Software Data,1,1
+Health Data],0,1
+Health Information,0,1
+Health Information [Name,0,1
+Hobbies,0,1
+Home Phone Numbers,0,1
+Household Details (Heating type,1,1
+Hyper-local weather data,0,1
+ID,0,1
+ID Forms Data,0,1
+IP,0,1
+IP Address,1,20
+IP Address and Mobile Advertising ID for ad-supported apps.,0,1
+IP Address),0,2
+IP Address],1,0
+IP Address]),0,1
+IP Addresses,0,1
+IP Location,0,1
+IP address,0,6
+IP address),0,1
+IP addresses,0,4
+IP addresses),0,1
+IP derived location information.,0,1
+ISP,0,1
+Identifiable Information,0,1
+Identifiable Information.,1,0
+Identifiable Personal Information,0,1
+Identifiable user information by third-party services.,0,1
+Identifiable user information through Google Play Services and AdMob.,0,1
+Identification Data,0,1
+Identification Information (Account Information,0,1
+Identifier Information,0,1
+Identifiers,0,2
+Identity Verification Data,0,1
+Identity Verification Documents,0,1
+Identity verification data (identity document and images),0,1
+Image Gallery (if user authorizes),0,1
+Images,0,1
+In-App Advertisement Interactions,1,0
+Income,0,1
+Inference Data,1,0
+Information Across Match Group Companies,1,0
+Information Inferred),0,1
+Information Outside the European Union,1,0
+Information Related to Site Visit and Usage.,0,1
+Information about User's Inquiries,0,1
+Information about users from other users and companies.,0,1
+Information at the Event of a Business Transfer,1,0
+Information collected via Google Analytics Opt-out Browser Add-on,0,1
+Information during a merger or acquisition.,1,0
+Information during business transactions,1,0
+Information during legal processes,1,0
+Information for Advertising Purposes,0,1
+Information for Legal Compliance,1,0
+Information for Safety Improvement,0,1
+Information for Service Enhancement,0,1
+Information for legal purposes,1,0
+Information from Dyson's websites,0,1
+Information from Other Users,0,1
+Information from Partners,0,1
+Information from Third Party Social Media Accounts,0,1
+Information from Third-Party Devices,0,1
+Information from Third-Party Services,0,1
+Information from Third-Party Sites,0,1
+Information from business partners (with consent): Account Information,0,1
+Information from public or commercially-available sources,0,1
+Information from third Parties [Google,0,1
+Information from third parties,0,1
+Information related to company's business transactions,1,0
+Information related to misuse or violation of Kijiji's rules,1,0
+Information related to user invites,0,1
+Information shared for legal compliance,1,0
+Information shared to protect company's rights,1,0
+Information shared with user consent,1,0
+Information to Legal Authorities,1,0
+Information to Legal Authorities.,1,0
+Information to Parent Companies,1,0
+Information to other Match Group Companies,1,0
+Information to third-parties,1,0
+Information via Third-Party SDKs [Google LLC,0,1
+Information with Advertisers,1,0
+Information with Affiliates,1,0
+Information with Business Partners,1,0
+Information with KYC validators,1,0
+Information with Law Enforcement Authorities,1,0
+Information with Related Companies,1,0
+Information with Third Party Advertising Networks (anonymized),1,0
+Information with Third-Party Applications and Users,1,0
+Information with Third-Party Service Providers,2,0
+Information with Third-party Service Providers,1,0
+Information with affiliates,1,0
+Information with business partners,2,0
+Information with general public,1,0
+Information with other approved companies or entities.,1,0
+Information with service providers,2,0
+Information with specific third parties for service fulfillment,1,0
+Information with third parties,1,0
+Information with third parties (Service providers,1,0
+Insights from Shopping History,1,0
+Installed Application List,0,1
+Instructions,0,1
+Interaction Data,0,2
+Interaction Information with the Application (via Google Analytics),0,1
+Interaction details with the application and the ads on the device,0,1
+Interaction files,0,1
+Interactions with Vodafone,0,1
+Interactions with Website Features.,0,1
+Interests,0,3
+Interests),1,1
+Intermediary Bank Information,0,1
+Internet Browser Type,0,1
+Internet Connection Information,0,1
+Internet Data,0,1
+Internet Permissions,0,1
+Internet Service Provider,0,2
+Invoice,0,1
+Job Title,0,1
+Know Your Customer Verification Information,0,1
+LINE ID,1,1
+Language,0,1
+Language Settings,0,1
+Language and Location,0,1
+Language settings,0,1
+Last Name,0,1
+Last Name),0,1
+Law Obligations],1,0
+Leanplum Inc.],0,1
+Legal Circumstances,1,0
+Legal Compliances,1,0
+Legal Guardian's Name and Contact Details (in case of children),0,1
+Legal Obligations,1,0
+Legal Reasons,1,0
+Legal Requirements,1,0
+Legal authorities),1,0
+Legal circumstance-related data,1,0
+Legal requirements,1,0
+Legal requirements),1,0
+Lifestyle details.,0,1
+Limited Information to Third Parties,1,0
+Limited Personal Information to third-party companies.,1,0
+Links to Organizations or Friends],0,1
+List of Installed Applications,0,1
+List of Installed Apps,0,1
+Living space,1,1
+Local Backup Data,0,1
+Location,1,6
+Location Data,2,6
+Location Data.,1,1
+Location Details,0,4
+Location Information,0,4
+Location Information (from user's device),0,1
+Location Information (if geo-fencing is enabled),0,1
+Location data,0,2
+Location data from photos and videos,0,1
+Location information,0,1
+Location.,0,1
+Log Data,0,1
+Log Data (Device IP address,0,1
+Log Data (IP Address,0,3
+Log Data (IP address,0,3
+Log Data (device IP address,0,1
+Log Data (including Device's IP Address,0,1
+Log Data [Device IP Address,0,1
+Log Data [IP Address,0,1
+Log Data and Device Information (Time,0,1
+Log Files,0,1
+Log and Device Information (time,0,1
+Log and Device Information.,0,1
+Log information,0,1
+Log information from website use.,0,1
+Login Credentials (Username and Password),0,1
+Login Data,0,1
+Loyalty Programs Information,0,1
+Mailchimp,1,0
+Mailing Address,0,1
+Mandrill,1,0
+Manufacturer,0,1
+Market Research Data (Marital Status,0,1
+Marketing Data,0,1
+Marketing and Advertising Data,1,0
+Marketing and Communication Data,0,1
+Marketing information,0,1
+Marketing interest,0,1
+Marketing or Advertising Data.,1,0
+Master data (Name),0,1
+Media Content [Photos,0,1
+Media Files],0,1
+Medical Information,0,1
+Message Data,1,1
+Messages Sent to App Users,0,1
+Messages to other users,0,1
+Messages to sellers,0,1
+Meta,0,1
+Meta data (IP address),0,1
+Microphone,0,1
+Microphone Access Data.,0,1
+Mintegral,1,0
+Mobile Advertising ID,1,0
+Mobile App Data (Geolocation information and mobile device data),0,1
+Mobile Device Identifiers,0,1
+Mobile Device and Application Usage Data,0,1
+Mobile Number,1,3
+Mobile OS,0,1
+Mobile Operating System,0,2
+Mobile Phone Number,0,1
+Mobile Phone Numbers,0,1
+Mobile carrier,0,1
+Mobile device information,1,1
+Mobile operating system,0,1
+Model,0,1
+Mortgage information,0,1
+Most visited pages,0,1
+Motions,0,1
+My Vodafone App Usage Details,0,1
+Name,2,18
+Name or Alias,0,1
+Nationality,0,3
+Navigational Information,0,1
+Network Connections,0,1
+Network Status,0,1
+Network and Services Improvement Information,1,0
+Network transaction information,0,1
+Newsletter Preference),0,1
+Newsletter Subscription Data.,0,1
+No data collected,0,1
+No data shared,1,0
+No explicit data shared mentioned.,1,0
+No personal data shared without express consent,1,0
+Nominations,0,1
+Non-Personal Data (Application Properties,1,1
+Non-Personal Data (Device Identifier),0,1
+Non-Personal Data (Number of website users,1,0
+Non-Personal Information,2,1
+Non-Personal Information [Location,0,1
+Non-Personally Identifiable Information (User Clicks,0,1
+Non-Personally-Identifiable Information,1,0
+Non-Photo Information,1,0
+Non-personal Identification Information (browser name,0,1
+Non-personal Information (Device technical details,0,1
+Non-personal and Personal Information (For advertising,1,0
+Non-personal data,1,0
+None,5,2
+None.,1,0
+Not Disclosed to Third Parties Unless Consent is Given,1,0
+Not Explicitly Stated,1,0
+Not Provided,0,1
+Not Specified,3,1
+Not specified,4,0
+Not specified.,1,1
+Number of Shares,0,1
+OS Information,0,1
+OS Version,0,2
+OS version,0,1
+Objections.,0,1
+Occupation,0,1
+Occupational Data,0,1
+Occupational Details,0,1
+Office Phone Numbers,0,1
+Online Activity Data,1,1
+Online Activity Data.,0,1
+Online Behavior Data,0,1
+Online Identifier,0,1
+Online Identifiers),1,0
+OpenID Login,0,1
+OpenStreetMap,0,1
+Operating System,0,5
+Operating System Version,0,11
+Operating system,0,1
+Operating system Name,0,1
+Operational Data,0,1
+Order Data,0,1
+Order Records.,0,1
+Other BBC Family Companies,1,0
+Other Information,0,1
+Other Personal Data,0,1
+Other Personal Identifiers,0,1
+Other Related Information],0,1
+Other Statistics,0,1
+Other Statistics (through third-party products in case of an app error),0,1
+Other Statistics.,0,1
+PRIME Account Information,0,1
+PRIME Smart Device Activation Data,0,1
+PRIME Smart Device ID),0,1
+Page Access Event),0,1
+Pages Viewed,0,1
+Pangle,1,0
+Participating Brands Information,1,0
+Password,0,3
+Password),0,1
+Payment Card Information,0,1
+Payment Details,0,1
+Payment Details (credit or debit card details or PayPal account information),0,1
+Payment History,0,1
+Payment Information,0,1
+Payment Record,0,1
+Payment card information,0,1
+Payment details via third-party payment processors,1,0
+Payment information,1,1
+Performance Info of Device,0,1
+Personal Assistance Data,1,0
+Personal Biometric Information,0,1
+Personal Contact Details,1,0
+Personal Data,24,5
+Personal Data (User's name,0,1
+Personal Data (for order processing,0,1
+Personal Data (photographs,1,1
+Personal Data (which can identify a user),0,1
+Personal Data (with affiliates,1,0
+Personal Data (with user consent),1,0
+Personal Data for EU users.,0,1
+Personal Data from Various Services/Products,0,1
+Personal Data in Legal or Administrative Contexts or in Changes in Corporate Ownership,1,0
+Personal Data on Registration,0,1
+Personal Data stored on user's device,0,1
+Personal Data upon Legal Request,1,0
+Personal Data with Google Inc.,1,0
+"Personal Data,",2,0
+Personal Details during Registration,0,1
+Personal Identifiable Information (PII) (Age,0,1
+Personal Identification Information (voluntarily submitted by users),0,1
+Personal Information,37,14
+Personal Information (IP Address,1,0
+Personal Information (Identification and Contact Information,0,1
+Personal Information (If user chooses to provide),0,1
+Personal Information (Name,1,4
+Personal Information (anonymity-based),0,1
+Personal Information (as needed to manage bookings,0,1
+Personal Information (for communication,0,1
+Personal Information (including Contact Details),0,1
+Personal Information (through Google,0,1
+Personal Information (through public postings,1,0
+Personal Information (under legal or public interest circumstances,1,0
+Personal Information (when legally required or aligns with usage purposes),1,0
+Personal Information (with third parties under certain circumstances),1,0
+Personal Information (with third-party service providers),1,0
+Personal Information (within group,1,0
+Personal Information [Facebook ID,0,1
+Personal Information [Name,0,5
+Personal Information [Names,0,1
+Personal Information [Revealed to third parties for direct marketing purposes],1,0
+Personal Information [Transferred to other countries],1,0
+Personal Information from Other Platforms,0,1
+Personal Information from surveys or app,0,1
+Personal Information given during service use,0,1
+Personal Information of Job Candidates,0,1
+Personal Information to Third Parties for marketing (for California residents),1,0
+Personal Information with third-party service providers.,1,0
+Personal Information.,1,0
+Personal contact details,0,1
+Personal data,3,2
+Personal data (with third party processors such as Amazon Web Services),1,0
+Personal data with competent law enforcement bodies,1,0
+Personal information,2,0
+Personal information (Account information,0,1
+Personal information (Name,0,1
+Personal information through Google Accounts,0,1
+Personal or Company Contact Information,0,1
+Personalised Recommendations,1,0
+Personality Traits,0,1
+Personalized ads info,0,1
+Personalized content and advertising information based on user visits on GM and non-GM websites,1,0
+Personally Identifiable Information,0,5
+Personally Identifiable Information (kept on device),0,1
+Personally Identifiable Information (requested but not directly collected by the app),0,1
+Pet listing data,0,1
+Pet reporting information,0,1
+Phone,0,1
+Phone Number,0,4
+Phone Number),0,2
+Phone Number.,0,1
+Phone number,1,3
+Phone numbers,0,1
+Photo,0,1
+Photographs,0,2
+Photos,0,3
+Physical Characteristics,0,1
+Pixel Tags,0,1
+Pixel Tags Data,0,1
+Platform,0,2
+Platform Type,0,1
+Platform Use Details,0,1
+Postal Address,0,2
+Potentially Identifying Information via Third-Party Services,0,1
+Precise Location Information,0,2
+Precise location information,0,1
+Predictive energy efficiency insights.,0,1
+Preferences,0,1
+Preferences),0,1
+Previous posts,1,0
+Privacy Settings,1,1
+Product Configuration,0,1
+Product Details,0,1
+Product Information,0,1
+Product Purchase Information,0,1
+Product Specifications,0,1
+Professional information,1,1
+Professional or Employment Data),0,1
+Professional or Employment Information,1,1
+Profile Data,1,0
+Profile Image,0,1
+Profile Photo,0,1
+Profile Picture,0,1
+Profile picture,0,1
+Promotional activity data,0,1
+Promotional communication data,0,1
+Property data,0,1
+Proprietary Questionnaire Answers,0,1
+Protection of Rights and Safety,1,0
+Province,0,1
+Public Personal Data,1,0
+Public User Data (Names,1,1
+Public profile information,1,1
+Publicly Available Data,0,1
+Publicly Available Information,0,1
+Published Content,0,1
+Purchase Details,0,1
+Purchase History,0,2
+Purchase Information,0,3
+Purchase details related to third-party services,0,1
+Purchase history,0,1
+Purchased Products and Services,0,1
+Purchases or Subscriptions,0,1
+Race,0,1
+Racial or Ethnic Origin,0,1
+Real-time user data reports,1,0
+Recent map searches,0,1
+Recognition Data through Cookies and Similar Technologies.,0,1
+Recorded interactions with the service,0,1
+Referral Program Information,1,0
+Referrer URL,0,1
+Referring and Exit Pages,0,1
+Registration Data,0,1
+Registration Number,0,1
+Relevant Information,1,0
+Religious Beliefs,0,1
+Representative,0,1
+Responses to Surveys,0,2
+Rightmove group members' information,1,0
+Road Segment Data Analytics,1,1
+SDK/API/JS code version,0,1
+SMS and MMS Messages,0,1
+SMS and MMS Messages.,1,0
+SMS and MMS messages.,0,1
+SNS ID,0,1
+SSL Encryption,0,1
+Safety Data,1,0
+Samsung Account Information,0,1
+Scheduled Alarms,0,1
+Search history,0,1
+Security Cookies,0,1
+Security data,0,1
+Sellers,1,0
+Sensitive Data,0,1
+Sensitive Data (with consent),0,1
+Sensitive Information,1,1
+Sensitive Information (If user chooses to provide),0,1
+Sensitive Information (Only with explicit consent),1,0
+Sensitive Information (Race or Ethnicity,0,1
+Sensitive Personal Information,0,1
+Sensitive User Data,0,1
+Sensitive personal data (racial or ethnic origin,0,1
+Sensory Data,1,0
+Server load data,0,1
+Service Data (Device Info and Operation Status,0,1
+Service Information,1,0
+Service Processing Data,0,1
+Service Provider Information,1,0
+Service Providers,2,1
+Service Providers Information,1,0
+Service Usage Data,0,1
+Service Usage Information,0,1
+Service Usage Records,0,1
+Service Usage Statistics,0,1
+Service Usage Time and Date,0,3
+Service Use History.,0,1
+Service history,0,1
+Service usage analysis data.,1,0
+Service usage information,0,1
+Session Timings,0,1
+Session and Available Data,0,1
+Settings,1,0
+Settings.,0,1
+Sex,0,1
+Sexual Orientation,0,2
+ShareThis Social Media Buttons,0,1
+Shared Data [Text,0,1
+Shared Device Storage,0,1
+Shared Device Storage Information,0,1
+Shared with Authorities,1,0
+Shared with Other Users,1,0
+Shared with Third-Party Service Providers,1,0
+Shipping Address,0,1
+Shopping Habits,0,1
+Signature,0,1
+Site Interaction Contact Information,1,1
+Site navigation patterns.,0,1
+Site visit history (via cookies),0,1
+Site visits,0,1
+Smart device data,1,1
+Snigeld Web Ltd. and 1337 UGC GmbH and various advertising partners,1,0
+Social Media Account Data,0,1
+Social Media Account Details,0,1
+Social Media Data,0,2
+Social Media Information,0,1
+Social Media Interactions,1,1
+Social Media Platforms,1,0
+Social Media Posts/Comments,0,1
+Social Network Data,0,1
+Social Network Information (User's name and contacts on platforms),0,1
+Social Network Information.,1,1
+Social Security Number,0,1
+Social media information,1,1
+Social network usernames,0,1
+Software Information,0,1
+Special Category Personal Data,0,1
+Specific Personal Identifiable Information,0,1
+Specific Search Queries,1,0
+Stack Trace Information,0,1
+State Identification Number,0,1
+Statements,0,1
+Statistical Cookies),0,1
+Statistical Data,1,0
+Statistics),0,1
+Stats),0,1
+Street Address,0,1
+Subcontractors in Technical or Analytics Providers,1,0
+Submitted Questions,0,1
+Subsidiaries information,1,0
+Subsidiary-required data,1,0
+Summary Information,0,1
+Support Contact Data,0,1
+Support Queries,0,1
+Support Requests,1,2
+Survey Participation Information,0,1
+Survey Responses,0,1
+Survey Responses (email address,0,1
+Survey Responses),1,1
+Survey participation details,0,1
+Survey responses,0,2
+Survey/Contest Data,0,1
+Suspicious Activity Data,0,1
+Synchronized Device Data,0,1
+System Logs,0,1
+System Usage Information,1,0
+System logs,0,1
+TV Licensing,1,0
+Technical Data,0,1
+Technical Details [SDK/API/JS Code Version,1,1
+Technical Diagnostics,0,1
+Technical Log Information,0,1
+Technical and Usage Data,0,1
+Technical data,0,1
+Technology Companies,1,0
+Telephone Number,0,3
+Telephone Numbers,0,1
+Telephone number,0,1
+Tenant references,0,1
+Terms of Service Enforcement Data,1,0
+The text does not provide specific information about data that is collected by Cisco.,0,1
+Third Parties (without identifying the user),1,0
+Third Party Data,0,1
+Third Party Identification Information,0,1
+Third Party Identity Verification Data,0,1
+Third Party Information,1,1
+Third Party Providers Information,1,0
+Third Party Social Network Accounts],0,1
+Third-Party App Profile Information (Profile Picture,0,1
+Third-Party Companies associated with the service,1,0
+Third-Party Data Sharing,1,0
+Third-Party Service Information,0,1
+"Third-Party Service Providers,",1,0
+Third-Party Sub-Suppliers for delivery.,1,0
+Third-party Application IDs),0,1
+Third-party Information (for money laundering,0,1
+Third-party Service and Ads Related Data,1,0
+Third-party Services Data,0,1
+Through Google AdSense/Doubleclick,0,1
+Time,0,1
+Time Spent Using Services),0,1
+Time Zone,0,1
+Time and Date of Service Usage,0,2
+Timestamp,0,1
+Timestamps,0,1
+Trackers,0,1
+Tracking and Cookies Data,0,1
+Traffic details,0,1
+Transaction Data,2,0
+Transaction Details,1,4
+Transaction Information,0,1
+Transaction details,0,1
+Trends (received likes,0,1
+Trusted Service Providers,1,0
+Twitter],0,1
+Type of Device,0,1
+Type of internet browser,0,1
+Type of mobile device,0,1
+USB Storage Access/Modifications,0,1
+Unique Advertising ID,1,0
+Unique Device ID,0,2
+Unique Device IDs.,0,1
+Unique Device Identifier,1,0
+Unique Device Identifiers,0,1
+Unique device ID,0,1
+Unique identifiers recognized by browser,0,1
+Unique identifiers through IP address or VIN,0,1
+Unity,1,0
+Usage Data,1,6
+Usage Data (Cookies,0,1
+Usage Data (Device Type,0,1
+Usage Data (anonymous),1,0
+Usage Data from the Service or its Infrastructure.,0,1
+Usage Data through Google Analytics and Google Firebase.,0,1
+Usage Date and Time),0,1
+Usage Details,0,1
+Usage Information,0,2
+Usage Information of Services,0,1
+Usage Information.,0,1
+Usage Patterns,0,2
+Usage Statistics],0,2
+Usage Time,0,2
+Usage Time and Date),0,1
+Usage data,1,3
+Usage data for internal analysis and service enhancement.,0,1
+Usage pattern of apps and games,0,1
+Use Context,1,1
+User Account Information,0,2
+User Accounts,0,1
+User Activity Information,0,1
+User Ads data,0,1
+User Alias,0,1
+User Chats,0,1
+User Coupon or Gift Card Number,0,1
+User Credentials,1,0
+User Credentials),0,1
+User Data,2,0
+User Data (Name,1,0
+User Data (shared with Third-party Advertising Partners,1,0
+User Data (via third-party cookies),1,0
+User Data for legal purposes,1,0
+User Data with Subsidiaries,1,0
+User Data with Third-Party Services (Google Play Services,1,0
+User Data with third parties,1,0
+User Engagement Data (via Google Analytics),0,1
+User ID,0,3
+User Identifiable Information (through third-party services and cookies),1,1
+User Identification,1,0
+User Identification Data,0,1
+User Identification Information,0,1
+User Identifier Information,0,1
+User Information,7,0
+User Information (Name,0,1
+User Information (not specified),1,0
+User Information (processed by Third-party entities),1,0
+User Information (with other users,1,0
+User Information (with third parties,1,0
+User Information Collected Through Pixels/Cookies,1,0
+User Information from other users or third parties.,0,1
+User Information through Third-Party Services,0,1
+User Information with Subsidiaries,1,0
+User Information),0,1
+User Inputs (Cell Phone Numbers of Beneficiaries),0,1
+User Interaction Data,0,1
+User Interactions,0,1
+User Locations,1,0
+User Number,0,1
+User Personal Data,0,1
+User Personal Information,1,0
+User Personal Information (In Case of Mergers and Acquisitions),1,0
+User Profile Data,0,2
+User Profile Information,0,1
+User Provided Information,1,0
+User Provided Information (personal details,0,1
+User Service Usage Information,0,1
+User Submitted Data,0,1
+User activity data,0,1
+User behavior data,0,1
+User behaviour data],0,1
+User content,0,1
+User data (Specific information not provided),0,1
+"User data (mentioned but not specified),",1,0
+User data for compliance enforcement,1,0
+User data for legal compliance,1,0
+User data for legal purposes,1,0
+User data for legal requirements,1,0
+User data for statutory or legal requirements,1,0
+User data for third-party functions.,1,0
+User data retained for legal obligations,0,1
+User data to service providers or vendors for service management and improvement,1,0
+User data with 3rd Party Affiliates: YieldLove,1,0
+User data with advertisers,1,0
+User demographics),1,0
+User feedback,1,1
+User identities,0,1
+User information,1,0
+User information (specifics not given),1,0
+User information across Kijiji's other classified sites,1,0
+User information for Legal Processes,1,0
+User information for Violation of Terms of Use,1,0
+User information for connection-making,1,0
+User information to Protect Rights and Properties of the Company,1,0
+User information with other users,1,0
+User information with third-party service providers,1,0
+User interaction information (web requests,0,1
+User interaction logs,0,1
+User name,0,1
+User profile information.,0,1
+User testimonials,0,1
+User's Data,1,0
+User's Data (Google Play Services,0,1
+User's Device Storage Data,1,0
+User's Email,0,1
+User's First Name,0,1
+User's Information,1,1
+User's Information with third-party services,1,0
+User's Name,1,1
+User's Name/Nickname,0,1
+User's Personal Data,2,1
+User's Personal Information [Public Cases,1,0
+User's favorite places,0,1
+User's information from third-party services,0,1
+User's preferred settings,0,1
+User's registration data (Name,0,1
+User-Generated Content,0,2
+User-Provided Information (Name,0,1
+User-customizable audio recordings during interactions with Google Search,0,1
+User-generated content,0,1
+User-generated content (text,1,1
+User-identifying information via third-party services (Google Play Services,1,0
+User-profile,1,0
+User-provided Data,0,1
+User-provided information for security threat notifications or product customization,1,0
+User-submitted information,1,1
+Username,0,3
+Username),0,1
+Usernames,0,1
+Users' Photos,1,0
+Various Services and Device Data (with consent),0,1
+Various Stats),0,1
+Various types of personal data,0,1
+Vehicle control and access data.,0,1
+Version,0,1
+Video,0,1
+Video Storing Data (name of cloud service provider,0,1
+Videos,0,2
+Visit Dates and Times.,0,1
+Visiting Statistics,0,1
+Voice Recordings,0,1
+Voice recordings,0,1
+Voting Behavior and Results,0,1
+Web Beacons,0,1
+Website Browsing Patterns,0,1
+Website Usage (via Cookies),0,1
+Website usage patterns.,0,1
+Windows ID,0,1
+With Affiliates,1,0
+With Consent,1,0
+With Third Parties.,1,0
+Work Information,0,1
+Yandex,1,0
+Your Activity (Deals,0,1
+Your Trends (Likes Received,0,1
+Zip Code,0,1
+access credentials),0,1
+accessed URLs.,0,1
+active filters,0,1
+activity details,0,1
+advertising partners,1,0
+affiliates,1,0
+age,0,1
+albums,1,1
+alerts,0,2
+and Consented data.,1,0
+and Corporate Affiliates,0,1
+and Data through Third-party SDKs.,0,1
+and Firebase Crashlytics),0,1
+and Liftoff),1,0
+and Maps.,0,1
+and Vendor Representatives,0,1
+and analysis purposes.,1,0
+and connected machines.,0,1
+and data analysis.,0,1
+and during company acquisition.,1,0
+and legal entities),1,0
+and marketing partners),1,0
+and merchants,1,0
+and messages,1,0
+and policies,0,1
+and third-party service providers.,1,0
+and using Third-party SDKs like Umeng,1,0
+app,0,1
+app configuration,0,5
+app usage time and date,0,1
+behavior data),0,1
+birthdates,1,1
+browser language,0,1
+browser type,0,2
+business partners,2,0
+camera,1,1
+clicks,0,2
+comments,1,1
+communications data),0,1
+contact details,0,1
+contact information),0,1
+cookies,0,1
+courts,1,0
+create accounts,0,1
+credit reference agencies' information,1,0
+data duration,0,1
+data for business development.,0,1
+data for website update,0,1
+data measured from email campaigns,0,1
+data related to customer feedback,0,1
+date,0,1
+date and time of request,0,1
+demographic data,0,1
+description),0,1
+device and interaction information),0,1
+device information,0,1
+device name,0,5
+discussions,0,1
+dispute resolutions,0,1
+during Business Transfer,1,0
+during corporate transactions,1,0
+email address,0,1
+email contacts,0,1
+etc.],0,1
+feature usage,0,1
+filters,0,1
+financial information),0,1
+followers,0,1
+fraud checks,0,1
+fraud prevention agencies' information,1,0
+gender,0,2
+government agencies,1,0
+group companies,1,0
+health condition,0,1
+health functions),1,1
+images,1,1
+information provided through the application or website,0,1
+interaction with websites or apps.,1,0
+interests),0,1
+job applications),0,1
+law enforcement,1,0
+law enforcement agencies' information,1,0
+legal agreements,0,1
+legal compliance,1,0
+likes,0,2
+locations),1,1
+login details,0,1
+low-accuracy location data,1,0
+measurement companies,1,0
+message boards,1,0
+microphone,1,1
+model,0,1
+moral beliefs,0,1
+name,0,1
+networking protocol),0,1
+newsletter subscription,0,1
+notifications,1,1
+offer statistics),0,1
+operating system,0,1
+operating system version,0,3
+or Apple's identity methods),0,1
+or device,0,1
+or other online public forums),1,0
+or safety,1,0
+other relevant statistics),0,1
+other statistics),0,2
+other third parties,1,0
+pages visited,0,1
+partners,1,0
+partners' information,1,0
+password),0,1
+payment processors,1,0
+philosophical beliefs,0,1
+phone number,0,1
+photos,0,1
+political opinions),0,1
+preferred naming,0,1
+previous activity,0,1
+private messages),0,1
+process payments,0,1
+profile picture,0,1
+property,1,0
+public authorities),1,0
+public web content,0,1
+purchase information,0,1
+purchase records,0,1
+referral websites,0,1
+religious beliefs,0,1
+saved posts,0,1
+searches,0,2
+searches),0,1
+security,0,1
+send marketing communications),0,1
+service improvement and law compliance),0,1
+service providers,4,0
+service providers' information.,1,0
+service usage time and date,0,1
+social networks,1,0
+storage,1,1
+stored searches,0,1
+street address,0,1
+surname,0,1
+technical information about the user's connection to the site),0,1
+the My Dyson app,0,1
+time and date of Service use,0,1
+to Government or Law Enforcement Officials,1,0
+transaction-related information,0,1
+transferred to other countries),1,0
+type of computer,0,1
+unique cookie ID),0,1
+usage time,0,1
+usage time),0,1
+username,0,1
+various statistics),0,1
+videos,0,1
+videos),1,1
+website provision,0,1
+with user consent).,1,0
