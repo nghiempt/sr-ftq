@@ -1,0 +1,63 @@
+Data Type,Category,App's Count
+User Information,User Personal Information,7
+User's Data,User Personal Information,1
+Personal Information,User Personal Information,37
+User Identification,User Personal Information,1
+Contact Information,User Personal Information,2
+Personal Contact Details,User Personal Information,1
+User Credentials,User Personal Information,1
+Use Context,Technical Data,1
+Technical Details [SDK/API/JS Code Version,Technical Data,1
+System Usage Information,Technical Data,1
+Device Identifiers,Technical Data,1
+User's Device Storage Data,Technical Data,1
+Device or System Information,Technical Data,1
+IP Address],Location Data,1
+low-accuracy location data,Location Data,1
+Geolocation information,Location Data,1
+User Locations,Location Data,1
+Legal Reasons,Legal and Safety,1
+Protection of Rights and Safety,Legal and Safety,1
+Fraud Investigation,Legal and Safety,1
+Government Requests,Legal and Safety,1
+User data for legal purposes,Legal and Safety,1
+Information for legal purposes,Legal and Safety,1
+Law Obligations],Legal and Safety,1
+Trusted Service Providers,Third-Party Data Sharing,1
+Company Merger or Sale,Third-Party Data Sharing,1
+Third-Party Companies associated with the service,Third-Party Data Sharing,1
+Third-Party Sub-Suppliers for delivery.,Third-Party Data Sharing,1
+User Data with Third-Party Services (Google Play Services,Third-Party Data Sharing,1
+Data to Third-Party Service Providers,Third-Party Data Sharing,1
+Advertising and Analytics.,Advertising and Analytics,1
+Marketing or Advertising Data.,Advertising and Analytics,1
+Google Play Services Identifiers.,Advertising and Analytics,1
+Unique Advertising ID,Advertising and Analytics,1
+Analytics Data,Advertising and Analytics,1
+Analytics data,Advertising and Analytics,1
+Users' Photos,User Provided Content,1
+User-submitted information,User Provided Content,1
+In-App Advertisement Interactions,User Provided Content,1
+Non-Personal Data (Application Properties,Non-Personal Data,1
+Non-Photo Information,Non-Personal Data,1
+Non-Personal Information,Non-Personal Data,2
+Anonymous,Non-Personal Data,1
+Cookies,Cookies and Online Identifiers,1
+Online Identifiers),Cookies and Online Identifiers,1
+User Data (via third-party cookies),Cookies and Online Identifiers,1
+Personal Data (with user consent),User Consent-Based Data,1
+Data for Promoting,User Consent-Based Data,1
+Data for Providing Services,User Consent-Based Data,1
+Personal Data in Legal or Administrative Contexts or in Changes in Corporate Ownership,Corporate Transactions,1
+Information during a merger or acquisition.,Corporate Transactions,1
+Social Network Information.,Social and Professional Data,1
+Professional or Employment Information,Social and Professional Data,1
+Professional information,Social and Professional Data,1
+Game Interaction Details),User Interaction Data,1
+Real-time user data reports,User Interaction Data,1
+Demographic Information,Demographic Data,1
+Demographic information,Demographic Data,1
+Financial Information,Financial Data,1
+Sensitive Information,Sensitive Information,1
+Cloud Storage Data,Cloud Data,1
+Data to Google Analytics.,Cloud Data,1

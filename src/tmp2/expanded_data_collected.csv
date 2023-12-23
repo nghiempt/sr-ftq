@@ -1,0 +1,1466 @@
+app_id,app_name,category_name,data_collected
+257,1Weather: Forecast & Radar,Weather,Account creation details
+257,1Weather: Forecast & Radar,Weather,Advertising identifiers
+257,1Weather: Forecast & Radar,Weather,App versions
+257,1Weather: Forecast & Radar,Weather,Business development data
+257,1Weather: Forecast & Radar,Weather,Communication with the company
+257,1Weather: Forecast & Radar,Weather,Data from third-party services and organizations
+257,1Weather: Forecast & Radar,Weather,Device information
+257,1Weather: Forecast & Radar,Weather,IP address
+257,1Weather: Forecast & Radar,Weather,Interaction details with the application and the ads on the device
+257,1Weather: Forecast & Radar,Weather,Language settings
+257,1Weather: Forecast & Radar,Weather,Mobile carrier
+257,1Weather: Forecast & Radar,Weather,Precise location information
+257,1Weather: Forecast & Radar,Weather,Purchase details related to third-party services
+257,1Weather: Forecast & Radar,Weather,Survey participation details
+70,2ndLine - Second Phone Number,Communication,Device Information
+70,2ndLine - Second Phone Number,Communication,Location Information
+70,2ndLine - Second Phone Number,Communication,Navigational Information
+70,2ndLine - Second Phone Number,Communication,Personal Information
+228,17TRACK Package Tracker,Shopping,Not Provided
+176,A+ Gallery - Photos & Videos,Photography,Contact Information [Email
+176,A+ Gallery - Photos & Videos,Photography,Customer Support Information
+176,A+ Gallery - Photos & Videos,Photography,Device's Camera and Microphone Access
+176,A+ Gallery - Photos & Videos,Photography,IP Address and Mobile Advertising ID for ad-supported apps.
+176,A+ Gallery - Photos & Videos,Photography,Internet Permissions
+176,A+ Gallery - Photos & Videos,Photography,Media Content [Photos
+176,A+ Gallery - Photos & Videos,Photography,Media Files]
+176,A+ Gallery - Photos & Videos,Photography,Third Party Social Network Accounts]
+176,A+ Gallery - Photos & Videos,Photography,Usage Information
+117,AQ STAR,House & Home,Accessory Names
+117,AQ STAR,House & Home,Age
+117,AQ STAR,House & Home,Billing and Shipping Address
+117,AQ STAR,House & Home,Country
+117,AQ STAR,House & Home,Crash Data
+117,AQ STAR,House & Home,Device Type and ID Number
+117,AQ STAR,House & Home,Email Address
+117,AQ STAR,House & Home,Full Name (when making a purchase)
+117,AQ STAR,House & Home,Gender
+117,AQ STAR,House & Home,IP Address
+117,AQ STAR,House & Home,Invoice
+117,AQ STAR,House & Home,Location Information (if geo-fencing is enabled)
+117,AQ STAR,House & Home,Order Records.
+117,AQ STAR,House & Home,Password
+117,AQ STAR,House & Home,Payment Information
+117,AQ STAR,House & Home,Product Configuration
+117,AQ STAR,House & Home,Product Specifications
+117,AQ STAR,House & Home,Telephone Number
+117,AQ STAR,House & Home,Usage Data
+117,AQ STAR,House & Home,User ID
+117,AQ STAR,House & Home,User's Name/Nickname
+151,ASTRO File Manager & Cleaner,Tools,AppsFlyer Ltd.
+151,ASTRO File Manager & Cleaner,Tools,Demographic Data]
+151,ASTRO File Manager & Cleaner,Tools,Device-Specific Information [Device Model
+151,ASTRO File Manager & Cleaner,Tools,Email Address
+151,ASTRO File Manager & Cleaner,Tools,Information via Third-Party SDKs [Google LLC
+151,ASTRO File Manager & Cleaner,Tools,Leanplum Inc.]
+151,ASTRO File Manager & Cleaner,Tools,Operating System
+151,ASTRO File Manager & Cleaner,Tools,Other Related Information]
+151,ASTRO File Manager & Cleaner,Tools,Personal Information [Name
+151,ASTRO File Manager & Cleaner,Tools,Usage Patterns
+116,ActiveBuilding,House & Home,Contact Details
+116,ActiveBuilding,House & Home,Employment History
+116,ActiveBuilding,House & Home,Financial Records
+116,ActiveBuilding,House & Home,Interactions with Website Features.
+116,ActiveBuilding,House & Home,Medical Information
+116,ActiveBuilding,House & Home,Name
+116,ActiveBuilding,House & Home,Other Personal Identifiers
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Audio and Visual Data
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Biometric Identifiers or Biometric Information.
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Contact Information
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Hardware and Software Data
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Identifier Information
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Interests)
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Public User Data (Names
+203,Adobe Acrobat Reader: Edit PDF,Productivity,Usage Data
+9,Adobe Express: Graphic Design,Art & Design,Not Provided
+44,"Adobe Scan: PDF Scanner, OCR",Business,Not Provided
+23,African Print fashion ideas,Beauty,Anonymous Data
+23,African Print fashion ideas,Beauty,Usage Data through Google Analytics and Google Firebase.
+93,AfroIntroductions: Afro Dating,Dating,Cookies and Other Tracking Technologies
+93,AfroIntroductions: Afro Dating,Dating,Full Truthful and Accurate Information.
+93,AfroIntroductions: Afro Dating,Dating,Personal Data
+93,AfroIntroductions: Afro Dating,Dating,Special Category Personal Data
+218,AfterShip Package Tracker - Tr,Shopping,Account credentials
+218,AfterShip Package Tracker - Tr,Shopping,Contact details
+218,AfterShip Package Tracker - Tr,Shopping,Cookies for website experience
+218,AfterShip Package Tracker - Tr,Shopping,Transaction details
+218,AfterShip Package Tracker - Tr,Shopping,and data analysis.
+218,AfterShip Package Tracker - Tr,Shopping,security
+14,Ai Anime Face Changer,Art & Design,App Configuration
+14,Ai Anime Face Changer,Art & Design,Device Name
+14,Ai Anime Face Changer,Art & Design,Log Data (including Device's IP Address
+14,Ai Anime Face Changer,Art & Design,Operating System Version
+14,Ai Anime Face Changer,Art & Design,Personal Data
+14,Ai Anime Face Changer,Art & Design,Usage Date and Time)
+14,Ai Anime Face Changer,Art & Design,User Identification Information
+34,Aldiko Next,Books & Reference,Book Rating Data
+34,Aldiko Next,Books & Reference,Comment and Post Data
+34,Aldiko Next,Books & Reference,Cookies Information (Process Cookies
+34,Aldiko Next,Books & Reference,Form Registration Data
+34,Aldiko Next,Books & Reference,ID Forms Data
+34,Aldiko Next,Books & Reference,Interaction Information with the Application (via Google Analytics)
+34,Aldiko Next,Books & Reference,Newsletter Subscription Data.
+34,Aldiko Next,Books & Reference,Security Cookies
+34,Aldiko Next,Books & Reference,Statistical Cookies)
+34,Aldiko Next,Books & Reference,User Number
+34,Aldiko Next,Books & Reference,User Profile Data
+158,Amaze File Manager,Tools,App Configuration
+158,Amaze File Manager,Tools,Authentication for Cloud Accounts
+158,Amaze File Manager,Tools,Device Manufacturer Information
+158,Amaze File Manager,Tools,Device Name
+158,Amaze File Manager,Tools,IP Address
+158,Amaze File Manager,Tools,Operating System Version
+158,Amaze File Manager,Tools,System Logs
+158,Amaze File Manager,Tools,Time and Date of Service Usage
+157,AnExplorer TV File Manager,Tools,App Configuration
+157,AnExplorer TV File Manager,Tools,Data of individuals under 13
+157,AnExplorer TV File Manager,Tools,Device and other ID
+157,AnExplorer TV File Manager,Tools,IP Address
+157,AnExplorer TV File Manager,Tools,Operating System Version
+157,AnExplorer TV File Manager,Tools,Personal Data stored on user's device
+157,AnExplorer TV File Manager,Tools,Potentially Identifying Information via Third-Party Services
+157,AnExplorer TV File Manager,Tools,Service Usage Statistics
+204,Apps Manager - Your Play Store,Productivity,App usage statistics)
+204,Apps Manager - Your Play Store,Productivity,App's Configuration
+204,Apps Manager - Your Play Store,Productivity,Device Name
+204,Apps Manager - Your Play Store,Productivity,Identifiable user information by third-party services.
+204,Apps Manager - Your Play Store,Productivity,Log Data (IP Address
+204,Apps Manager - Your Play Store,Productivity,OS Version
+204,Apps Manager - Your Play Store,Productivity,Personally Identifiable Information (kept on device)
+204,Apps Manager - Your Play Store,Productivity,Service Usage Time and Date
+222,AppsFree,Shopping,App Configuration
+222,AppsFree,Shopping,Cookies.
+222,AppsFree,Shopping,Device Name
+222,AppsFree,Shopping,IP address
+222,AppsFree,Shopping,Operating System Version
+222,AppsFree,Shopping,Other Statistics
+222,AppsFree,Shopping,Time and Date of Service Usage
+10,ArtFlow: Paint Draw Sketchbook,Art & Design,Not Provided
+122,AttaPoll - Paid Surveys,Lifestyle,Demographic information
+122,AttaPoll - Paid Surveys,Lifestyle,Device information
+122,AttaPoll - Paid Surveys,Lifestyle,Email content
+122,AttaPoll - Paid Surveys,Lifestyle,Location data
+122,AttaPoll - Paid Surveys,Lifestyle,Survey responses
+122,AttaPoll - Paid Surveys,Lifestyle,User profile information.
+122,AttaPoll - Paid Surveys,Lifestyle,User testimonials
+122,AttaPoll - Paid Surveys,Lifestyle,information provided through the application or website
+169,B612 AI Photo&Video Editor,Photography,Device Information
+169,B612 AI Photo&Video Editor,Photography,Location Information
+169,B612 AI Photo&Video Editor,Photography,Profile Image
+169,B612 AI Photo&Video Editor,Photography,SNS ID
+169,B612 AI Photo&Video Editor,Photography,User Profile Data
+258,BBC Weather,Weather,Contact Details
+258,BBC Weather,Weather,Date of Birth
+258,BBC Weather,Weather,Device Information
+258,BBC Weather,Weather,Financial Details
+258,BBC Weather,Weather,Location Information
+258,BBC Weather,Weather,Name
+258,BBC Weather,Weather,Service Usage Records
+94,BBWCupid: BBW Dating Plus Chat,Dating,Cookies and Tracking Technologies
+94,BBWCupid: BBW Dating Plus Chat,Dating,Personal Data on Registration
+94,BBWCupid: BBW Dating Plus Chat,Dating,Visiting Statistics
+100,BLK Dating: Meet Black Singles,Dating,Information for Advertising Purposes
+100,BLK Dating: Meet Black Singles,Dating,Information for Safety Improvement
+100,BLK Dating: Meet Black Singles,Dating,Information for Service Enhancement
+100,BLK Dating: Meet Black Singles,Dating,Sensitive Data (with consent)
+100,BLK Dating: Meet Black Singles,Dating,Third-Party Service Information
+100,BLK Dating: Meet Black Singles,Dating,User Activity Information
+100,BLK Dating: Meet Black Singles,Dating,User Profile Information
+180,Background Eraser,Photography,Not Provided
+135,Bagan - Myanmar Keyboard,Lifestyle,IP Address
+135,Bagan - Myanmar Keyboard,Lifestyle,Interaction files
+135,Bagan - Myanmar Keyboard,Lifestyle,System logs
+135,Bagan - Myanmar Keyboard,Lifestyle,User's Personal Data
+80,Bang Browser-All Video downloa,Communication,Category of Enquiry
+80,Bang Browser-All Video downloa,Communication,Company Name
+80,Bang Browser-All Video downloa,Communication,Cookies.
+80,Bang Browser-All Video downloa,Communication,Email Address
+80,Bang Browser-All Video downloa,Communication,Enquiry Details
+80,Bang Browser-All Video downloa,Communication,Job Title
+80,Bang Browser-All Video downloa,Communication,Name
+5,Bazaart Photo Editor & Design,Art & Design,Meta
+5,Bazaart Photo Editor & Design,Art & Design,Personal Information (through Google
+5,Bazaart Photo Editor & Design,Art & Design,Usage Information.
+5,Bazaart Photo Editor & Design,Art & Design,or Apple's identity methods)
+19,Beauty Makeup Editor & Camera,Beauty,App Usage History
+19,Beauty Makeup Editor & Camera,Beauty,Device Data
+19,Beauty Makeup Editor & Camera,Beauty,Online Activity Data
+19,Beauty Makeup Editor & Camera,Beauty,Photographs
+19,Beauty Makeup Editor & Camera,Beauty,Purchase History
+19,Beauty Makeup Editor & Camera,Beauty,Social Media Information
+181,Bestie - Camera360 Selfie,Photography,Bluetooth)
+181,Bestie - Camera360 Selfie,Photography,Cookies
+181,Bestie - Camera360 Selfie,Photography,Device Permissions (Camera
+181,Bestie - Camera360 Selfie,Photography,Microphone
+181,Bestie - Camera360 Selfie,Photography,Pixel Tags
+181,Bestie - Camera360 Selfie,Photography,Web Beacons
+38,Bible Gateway,Books & Reference,Behavioral Data (Pages Visited
+38,Bible Gateway,Books & Reference,Contact Details
+38,Bible Gateway,Books & Reference,Data from Third-party Social Media Network (Facebook
+38,Bible Gateway,Books & Reference,Geolocation Data
+38,Bible Gateway,Books & Reference,Google)
+38,Bible Gateway,Books & Reference,Time Spent Using Services)
+85,BiggerCity: Gay bears & chubs,Dating,Not Provided
+206,Boot Apps,Productivity,Identifiable user information through Google Play Services and AdMob.
+154,Box,Business,Not Provided
+66,"Brave Private Web Browser, VPN",Communication,Not Provided
+114,British Gas,House & Home,Glen Dimplex Quantum Tariff Data
+114,British Gas,House & Home,Personal Data from Various Services/Products
+189,"CamScanner- scanner, PDF maker",Productivity,Account Information
+189,"CamScanner- scanner, PDF maker",Productivity,Cookies
+189,"CamScanner- scanner, PDF maker",Productivity,Data from Third-Party Sources.
+189,"CamScanner- scanner, PDF maker",Productivity,Device Data
+189,"CamScanner- scanner, PDF maker",Productivity,Transaction Details
+189,"CamScanner- scanner, PDF maker",Productivity,User-Generated Content
+184,Camera360:Photo Editor&Selfie,Photography,Personal Information
+173,Camera Editor- Sweet Selfie,Photography,Ad campaign details
+173,Camera Editor- Sweet Selfie,Photography,Cookies and Similar Technologies used for Analytics and Advertising
+173,Camera Editor- Sweet Selfie,Photography,Data from Other Users
+173,Camera Editor- Sweet Selfie,Photography,Device Information
+173,Camera Editor- Sweet Selfie,Photography,Published Content
+173,Camera Editor- Sweet Selfie,Photography,Social Media Data
+173,Camera Editor- Sweet Selfie,Photography,Technical Log Information
+173,Camera Editor- Sweet Selfie,Photography,User Chats
+238,Chikii-Play PC Games,Social,Not Provided
+89,Chispa: Dating App for Latinos,Dating,Cookies and Similar Technologies
+89,Chispa: Dating App for Latinos,Dating,Personal Information
+8,Clip Studio Paint,Art & Design,Personal Information
+8,Clip Studio Paint,Art & Design,Site visit history (via cookies)
+142,Cloud Storage,Business,Not Provided
+96,ColombianCupid Colombia Dating,Dating,Address
+96,ColombianCupid Colombia Dating,Dating,Appearance Description
+96,ColombianCupid Colombia Dating,Dating,Browser Type
+96,ColombianCupid Colombia Dating,Dating,Email
+96,ColombianCupid Colombia Dating,Dating,Full Name
+96,ColombianCupid Colombia Dating,Dating,IP Address
+96,ColombianCupid Colombia Dating,Dating,Occupation
+96,ColombianCupid Colombia Dating,Dating,Pages Viewed
+96,ColombianCupid Colombia Dating,Dating,Phone Number
+96,ColombianCupid Colombia Dating,Dating,Racial or Ethnic Origin
+96,ColombianCupid Colombia Dating,Dating,Religious Beliefs
+96,ColombianCupid Colombia Dating,Dating,Sexual Orientation
+96,ColombianCupid Colombia Dating,Dating,Visit Dates and Times.
+212,ColorNote Notepad Notes,Productivity,Contacts)
+212,ColorNote Notepad Notes,Productivity,Cookies.
+212,ColorNote Notepad Notes,Productivity,Data you upload or download
+212,ColorNote Notepad Notes,Productivity,Email Address
+212,ColorNote Notepad Notes,Productivity,Personal information (Name
+212,ColorNote Notepad Notes,Productivity,Recorded interactions with the service
+87,CooMeet: Video Chat with Girls,Dating,Personal Data
+87,CooMeet: Video Chat with Girls,Dating,Trackers
+87,CooMeet: Video Chat with Girls,Dating,Usage Data
+249,Cx File Explorer,Tools,Age
+152,Cx File Explorer,Tools,Age
+152,Cx File Explorer,Tools,App Usage Information)
+152,Cx File Explorer,Tools,Automated Information (Device Type
+249,Cx File Explorer,Tools,Browser Information.
+152,Cx File Explorer,Tools,Browser Type
+152,Cx File Explorer,Tools,Cloud Service User Data
+249,Cx File Explorer,Tools,Credit Card Details]
+152,Cx File Explorer,Tools,Credit Card Information)
+152,Cx File Explorer,Tools,Device IP Address
+249,Cx File Explorer,Tools,Device Information
+152,Cx File Explorer,Tools,Device Information (Photo Library
+249,Cx File Explorer,Tools,Device's Photos
+249,Cx File Explorer,Tools,Email
+152,Cx File Explorer,Tools,Email
+249,Cx File Explorer,Tools,External SD Card Data
+152,Cx File Explorer,Tools,External SD Card)
+249,Cx File Explorer,Tools,Gender
+152,Cx File Explorer,Tools,Gender
+152,Cx File Explorer,Tools,List of Installed Applications
+249,Cx File Explorer,Tools,List of Installed Apps
+152,Cx File Explorer,Tools,Mobile Operating System
+249,Cx File Explorer,Tools,Personal Information [Name
+152,Cx File Explorer,Tools,Shared Device Storage
+152,Cx File Explorer,Tools,Support Contact Data
+249,Cx File Explorer,Tools,Support Queries
+249,Cx File Explorer,Tools,Transaction Details
+152,Cx File Explorer,Tools,Transaction Details
+152,Cx File Explorer,Tools,Unique Device ID
+249,Cx File Explorer,Tools,Usage Patterns
+152,Cx File Explorer,Tools,User-Provided Information (Name
+183,Cymera - Photo Editor Collage,Photography,Company Name
+183,Cymera - Photo Editor Collage,Photography,Contact Details
+183,Cymera - Photo Editor Collage,Photography,ID
+183,Cymera - Photo Editor Collage,Photography,Purchase History
+272,Dark Sky - Hyperlocal Weather,Weather,Not Provided
+143,Degoo: 20 GB Cloud Storage,Productivity,Email Address
+143,Degoo: 20 GB Cloud Storage,Productivity,Mobile Number
+143,Degoo: 20 GB Cloud Storage,Productivity,Password
+143,Degoo: 20 GB Cloud Storage,Productivity,Payment Details
+46,Docx Reader PDF Viewer Word,Business,App Configuration
+46,Docx Reader PDF Viewer Word,Business,Cookies.
+46,Docx Reader PDF Viewer Word,Business,Device Name
+46,Docx Reader PDF Viewer Word,Business,IP Address
+46,Docx Reader PDF Viewer Word,Business,Operating System Version
+46,Docx Reader PDF Viewer Word,Business,Personal Information
+46,Docx Reader PDF Viewer Word,Business,Service Usage Time and Date
+264,Doppler 9&10 Weather Team,Weather,Cookie data
+264,Doppler 9&10 Weather Team,Weather,Demographic information
+264,Doppler 9&10 Weather Team,Weather,Email addresses
+264,Doppler 9&10 Weather Team,Weather,Full names
+264,Doppler 9&10 Weather Team,Weather,Geolocation
+264,Doppler 9&10 Weather Team,Weather,IP addresses
+264,Doppler 9&10 Weather Team,Weather,User activity data
+251,DuckDuckGo Private Browser,Tools,Not Provided
+48,Duo Mobile,Business,The text does not provide specific information about data that is collected by Cisco.
+163,ESuper File Explorer,Tools,Not Provided
+162,EX File Manager :File Explorer,Tools,App Configuration
+162,EX File Manager :File Explorer,Tools,Cookie Data
+162,EX File Manager :File Explorer,Tools,Device Name
+162,EX File Manager :File Explorer,Tools,Log Data [Device IP Address
+162,EX File Manager :File Explorer,Tools,Operating System Version
+162,EX File Manager :File Explorer,Tools,Personal Information
+162,EX File Manager :File Explorer,Tools,Usage Statistics]
+162,EX File Manager :File Explorer,Tools,User Identifier Information
+4,Easy Pose - 3D pose making app,Art & Design,Not Provided
+18,Easy fun hairstyles for girls,Beauty,Personally Identifiable Information (requested but not directly collected by the app)
+18,Easy fun hairstyles for girls,Beauty,User Identifiable Information (through third-party services and cookies)
+54,EverConnect,Business,First and Last Name
+54,EverConnect,Business,Login Credentials (Username and Password)
+54,EverConnect,Business,Windows ID
+131,Every Timer-WiFi/Bluetooth/Sou,Lifestyle,Carrier
+131,Every Timer-WiFi/Bluetooth/Sou,Lifestyle,Country
+131,Every Timer-WiFi/Bluetooth/Sou,Lifestyle,Device Type.
+131,Every Timer-WiFi/Bluetooth/Sou,Lifestyle,Payment Record
+131,Every Timer-WiFi/Bluetooth/Sou,Lifestyle,Version
+52,Expedia Group Partner Central,Business,Financial and Tax-related Information
+52,Expedia Group Partner Central,Business,Personal Information (as needed to manage bookings
+52,Expedia Group Partner Central,Business,create accounts
+52,Expedia Group Partner Central,Business,process payments
+52,Expedia Group Partner Central,Business,send marketing communications)
+155,FX File Explorer,Business,Not Provided
+58,FX File Explorer,Business,Not Provided
+219,"Fetch: Have Fun, Save Money",Shopping,Account or Email Log-in Credentials
+219,"Fetch: Have Fun, Save Money",Shopping,Billing Address
+219,"Fetch: Have Fun, Save Money",Shopping,Birth Date
+219,"Fetch: Have Fun, Save Money",Shopping,Cookie Data
+219,"Fetch: Have Fun, Save Money",Shopping,Digital Receipt Program Participants Information
+219,"Fetch: Have Fun, Save Money",Shopping,Email Address
+219,"Fetch: Have Fun, Save Money",Shopping,Google Analytics Data.
+219,"Fetch: Have Fun, Save Money",Shopping,Location Data
+219,"Fetch: Have Fun, Save Money",Shopping,Name
+219,"Fetch: Have Fun, Save Money",Shopping,Pixel Tags Data
+219,"Fetch: Have Fun, Save Money",Shopping,Profile Photo
+219,"Fetch: Have Fun, Save Money",Shopping,Publicly Available Data
+219,"Fetch: Have Fun, Save Money",Shopping,Shipping Address
+219,"Fetch: Have Fun, Save Money",Shopping,Telephone Numbers
+219,"Fetch: Have Fun, Save Money",Shopping,Third Party Information
+150,File Manager,Tools,Access Files
+150,File Manager,Tools,Access Storage
+198,File Manager,Productivity,Access to Photo Library
+164,File Manager,Tools,Account Details
+145,File Manager,Tools,Account Information
+198,File Manager,Productivity,Age
+164,File Manager,Tools,Age
+164,File Manager,Tools,Basic Personal Information (Phone Number
+164,File Manager,Tools,Birthday
+145,File Manager,Tools,Browsing Behaviors
+164,File Manager,Tools,City
+198,File Manager,Productivity,Contact Details)
+164,File Manager,Tools,Cookie Information
+150,File Manager,Tools,Cookies
+198,File Manager,Productivity,Credit Card Information
+198,File Manager,Productivity,Data from Cloud Services
+144,File Manager,Productivity,Device Information
+198,File Manager,Productivity,Email
+145,File Manager,Tools,Email Addresses
+198,File Manager,Productivity,External SD Card
+198,File Manager,Productivity,Gender
+150,File Manager,Tools,Google Drive Permission
+145,File Manager,Tools,IP addresses)
+198,File Manager,Productivity,Installed Application List
+164,File Manager,Tools,Location
+198,File Manager,Productivity,Mobile Device and Application Usage Data
+164,File Manager,Tools,Name
+164,File Manager,Tools,Nationality
+145,File Manager,Tools,Non-Personally Identifiable Information (User Clicks
+145,File Manager,Tools,Page Access Event)
+198,File Manager,Productivity,Personal Information (Name
+150,File Manager,Tools,Personal Information (for communication
+164,File Manager,Tools,Product Details
+164,File Manager,Tools,Service Data (Device Info and Operation Status
+144,File Manager,Productivity,Shared Device Storage Information
+164,File Manager,Tools,Third-party Application IDs)
+198,File Manager,Productivity,Transaction Details
+144,File Manager,Productivity,Unique Device IDs.
+145,File Manager,Tools,Usage Data (Cookies
+164,File Manager,Tools,User Information)
+144,File Manager,Productivity,User Provided Information (personal details
+144,File Manager,Productivity,contact information)
+150,File Manager,Tools,service improvement and law compliance)
+144,File Manager,Productivity,transaction-related information
+160,File Manager - File Explorer,Productivity,App Configuration
+160,File Manager - File Explorer,Productivity,Cookies Usage Information
+160,File Manager - File Explorer,Productivity,Device Name
+160,File Manager - File Explorer,Productivity,Identifiable Personal Information
+160,File Manager - File Explorer,Productivity,Information from Third-Party Services
+160,File Manager - File Explorer,Productivity,Log Data (IP Address
+160,File Manager - File Explorer,Productivity,Operating System
+160,File Manager - File Explorer,Productivity,Stats)
+160,File Manager - File Explorer,Productivity,Usage Time
+159,File Manager File Explorer,Tools,Application Specific Data
+159,File Manager File Explorer,Tools,Email Address
+159,File Manager File Explorer,Tools,Financial Details
+159,File Manager File Explorer,Tools,Geographical Location
+159,File Manager File Explorer,Tools,IP Address
+159,File Manager File Explorer,Tools,Name
+159,File Manager File Explorer,Tools,Usage Details
+186,Film Maker Pro - Movie Maker,Photography,Not Provided
+99,"Fotka - dating, chat and flirt",Dating,Not Provided
+247,GeForce NOW Cloud Gaming,Entertainment,Not Provided
+84,Getcontact,Communication,Address
+84,Getcontact,Communication,Email.
+84,Getcontact,Communication,Name
+84,Getcontact,Communication,Payment information
+84,Getcontact,Communication,Telephone number
+84,Getcontact,Communication,Username
+61,Google Chrome: Fast & Secure,Communication,Assistant
+61,Google Chrome: Fast & Secure,Communication,Data on views and interactions with ads
+61,Google Chrome: Fast & Secure,Communication,Data such as location
+61,Google Chrome: Fast & Secure,Communication,Google products content
+61,Google Chrome: Fast & Secure,Communication,IP address
+61,Google Chrome: Fast & Secure,Communication,IP address
+61,Google Chrome: Fast & Secure,Communication,IP addresses
+61,Google Chrome: Fast & Secure,Communication,Personal information through Google Accounts
+61,Google Chrome: Fast & Secure,Communication,Unique identifiers recognized by browser
+61,Google Chrome: Fast & Secure,Communication,User interaction information (web requests
+61,Google Chrome: Fast & Secure,Communication,User-customizable audio recordings during interactions with Google Search
+61,Google Chrome: Fast & Secure,Communication,and Maps.
+61,Google Chrome: Fast & Secure,Communication,app
+61,Google Chrome: Fast & Secure,Communication,browser language
+61,Google Chrome: Fast & Secure,Communication,browser type
+61,Google Chrome: Fast & Secure,Communication,cookies
+61,Google Chrome: Fast & Secure,Communication,date and time of request
+61,Google Chrome: Fast & Secure,Communication,device information
+61,Google Chrome: Fast & Secure,Communication,email contacts
+61,Google Chrome: Fast & Secure,Communication,or device
+61,Google Chrome: Fast & Secure,Communication,photos
+61,Google Chrome: Fast & Secure,Communication,previous activity
+61,Google Chrome: Fast & Secure,Communication,public web content
+61,Google Chrome: Fast & Secure,Communication,purchase information
+61,Google Chrome: Fast & Secure,Communication,stored searches
+61,Google Chrome: Fast & Secure,Communication,unique cookie ID)
+61,Google Chrome: Fast & Secure,Communication,videos
+121,Google Home,Lifestyle,Not Provided
+32,Google Play Books & Audiobooks,Books & Reference,Not Provided
+207,Google Slides,Productivity,Not Provided
+33,Gospel Library,Books & Reference,Data from Communication with the Church
+33,Gospel Library,Books & Reference,Third Party Data
+33,Gospel Library,Books & Reference,User Submitted Data
+223,Gumtree: local classified ads,Shopping,User Personal Data
+239,HOLLA - Live Random Video Chat,Social,Browser information
+239,HOLLA - Live Random Video Chat,Social,Date of birth
+239,HOLLA - Live Random Video Chat,Social,Device-specific information
+239,HOLLA - Live Random Video Chat,Social,Email address
+239,HOLLA - Live Random Video Chat,Social,Facebook account information
+239,HOLLA - Live Random Video Chat,Social,Friend lists
+239,HOLLA - Live Random Video Chat,Social,Gender
+239,HOLLA - Live Random Video Chat,Social,Log information from website use.
+239,HOLLA - Live Random Video Chat,Social,Messages to other users
+239,HOLLA - Live Random Video Chat,Social,Name
+239,HOLLA - Live Random Video Chat,Social,Phone number
+239,HOLLA - Live Random Video Chat,Social,Profile picture
+239,HOLLA - Live Random Video Chat,Social,Service usage information
+239,HOLLA - Live Random Video Chat,Social,Social network usernames
+239,HOLLA - Live Random Video Chat,Social,Usage data
+239,HOLLA - Live Random Video Chat,Social,User content
+239,HOLLA - Live Random Video Chat,Social,User interaction logs
+213,HP Smart,Productivity,User data (Specific information not provided)
+20,Haircuts Men 2023,Beauty,Educational level
+20,Haircuts Men 2023,Beauty,Geographical location)
+20,Haircuts Men 2023,Beauty,Nationality
+20,Haircuts Men 2023,Beauty,Non-personal Information (Device technical details
+20,Haircuts Men 2023,Beauty,Password)
+20,Haircuts Men 2023,Beauty,Personal Identifiable Information (PII) (Age
+20,Haircuts Men 2023,Beauty,Username
+86,Hinge Dating App: Meet & Date,Dating,Date of Birth
+86,Hinge Dating App: Meet & Date,Dating,Device Information
+86,Hinge Dating App: Meet & Date,Dating,Gender
+86,Hinge Dating App: Meet & Date,Dating,Service Usage Data
+86,Hinge Dating App: Meet & Date,Dating,Sexual Orientation
+86,Hinge Dating App: Meet & Date,Dating,Social Media Account Data
+86,Hinge Dating App: Meet & Date,Dating,Suspicious Activity Data
+86,Hinge Dating App: Meet & Date,Dating,User Interactions
+111,Home Security Camera WardenCam,House & Home,Cookies Information
+111,Home Security Camera WardenCam,House & Home,Non-personal Identification Information (browser name
+111,Home Security Camera WardenCam,House & Home,Personal Identification Information (voluntarily submitted by users)
+111,Home Security Camera WardenCam,House & Home,technical information about the user's connection to the site)
+111,Home Security Camera WardenCam,House & Home,type of computer
+104,Homestyler-Room Realize design,House & Home,"""Know Your Customer"" checks)"
+104,Homestyler-Room Realize design,House & Home,Complaints
+104,Homestyler-Room Realize design,House & Home,Contact Details
+104,Homestyler-Room Realize design,House & Home,Correspondences with Homestyler
+104,Homestyler-Room Realize design,House & Home,Event-related Information
+104,Homestyler-Room Realize design,House & Home,Income
+104,Homestyler-Room Realize design,House & Home,Market Research Data (Marital Status
+104,Homestyler-Room Realize design,House & Home,Nationality
+104,Homestyler-Room Realize design,House & Home,Platform Use Details
+104,Homestyler-Room Realize design,House & Home,Preferences)
+104,Homestyler-Room Realize design,House & Home,Purchase Information
+104,Homestyler-Room Realize design,House & Home,Social Media Account Details
+104,Homestyler-Room Realize design,House & Home,Social Media Posts/Comments
+104,Homestyler-Room Realize design,House & Home,Support Requests
+104,Homestyler-Room Realize design,House & Home,Third-party Information (for money laundering
+104,Homestyler-Room Realize design,House & Home,fraud checks
+107,Houzz - Home Design & Remodel,House & Home,Account and Profile Information
+107,Houzz - Home Design & Remodel,House & Home,Communications and Information Provided for Surveys and Contests
+107,Houzz - Home Design & Remodel,House & Home,Content Submitted
+107,Houzz - Home Design & Remodel,House & Home,Information from Other Users
+107,Houzz - Home Design & Remodel,House & Home,Information from Partners
+107,Houzz - Home Design & Remodel,House & Home,Information from Third-Party Sites
+107,Houzz - Home Design & Remodel,House & Home,Personal Information from Other Platforms
+107,Houzz - Home Design & Remodel,House & Home,Publicly Available Information
+107,Houzz - Home Design & Remodel,House & Home,Purchase Information
+107,Houzz - Home Design & Remodel,House & Home,Service Providers
+107,Houzz - Home Design & Remodel,House & Home,and Corporate Affiliates
+6,How to Draw Anime Eyes,Art & Design,App Usage Information.
+6,How to Draw Anime Eyes,Art & Design,Device Type
+6,How to Draw Anime Eyes,Art & Design,IP Address
+6,How to Draw Anime Eyes,Art & Design,Internet Browser Type
+6,How to Draw Anime Eyes,Art & Design,Mobile OS
+6,How to Draw Anime Eyes,Art & Design,Unique Device ID
+40,How to Draw XXXTentacion,Books & Reference,App Configuration
+40,How to Draw XXXTentacion,Books & Reference,Cookies
+40,How to Draw XXXTentacion,Books & Reference,Date
+40,How to Draw XXXTentacion,Books & Reference,Device's Name
+40,How to Draw XXXTentacion,Books & Reference,Log Data [IP Address
+40,How to Draw XXXTentacion,Books & Reference,Operating System Version
+40,How to Draw XXXTentacion,Books & Reference,Personally Identifiable Information
+40,How to Draw XXXTentacion,Books & Reference,Time
+40,How to Draw XXXTentacion,Books & Reference,Usage Statistics]
+140,Icedrive #Secure Cloud Storage,Productivity,Not Provided
+7,Infinite Design,Art & Design,Cookies or similar data files by third-party code and libraries.
+7,Infinite Design,Art & Design,Log Data (IP address
+7,Infinite Design,Art & Design,Personal Information
+7,Infinite Design,Art & Design,app configuration
+7,Infinite Design,Art & Design,device name
+7,Infinite Design,Art & Design,operating system version
+7,Infinite Design,Art & Design,other statistics)
+7,Infinite Design,Art & Design,usage time
+2,Infinite Painter,Art & Design,App Configuration
+2,Infinite Painter,Art & Design,Cookies (third-party code and libraries)
+2,Infinite Painter,Art & Design,Device Name
+2,Infinite Painter,Art & Design,Google Analytics for Firebase
+2,Infinite Painter,Art & Design,Log Data (IP address
+2,Infinite Painter,Art & Design,OS Version
+2,Infinite Painter,Art & Design,Service Usage Time and Date
+2,Infinite Painter,Art & Design,Specific Personal Identifiable Information
+2,Infinite Painter,Art & Design,User's Data (Google Play Services
+2,Infinite Painter,Art & Design,Various Stats)
+2,Infinite Painter,Art & Design,and Firebase Crashlytics)
+43,Intune Company Portal,Business,Aggregated User Account Data
+43,Intune Company Portal,Business,Calendar Items
+43,Intune Company Portal,Business,Contacts
+43,Intune Company Portal,Business,Emails
+43,Intune Company Portal,Business,Favourite Locations
+43,Intune Company Portal,Business,Files
+43,Intune Company Portal,Business,Location Data
+43,Intune Company Portal,Business,SMS and MMS Messages
+43,Intune Company Portal,Business,Search history
+43,Intune Company Portal,Business,Settings.
+29,JW Library,Books & Reference,Personal Information (including Contact Details)
+240,Jack’d - Gay Chat & Dating,Social,Not Provided
+56,JobStack | Find a Job | Find T,Business,Not Provided
+262,KFVS12 First Alert Weather,Weather,Not Provided
+263,KRGV FIRST WARN 5 Weather,Weather,Identifiable Information
+263,KRGV FIRST WARN 5 Weather,Weather,Personal Information
+263,KRGV FIRST WARN 5 Weather,Weather,User Information through Third-Party Services
+270,KY3 Weather,Weather,Analytic Data
+270,KY3 Weather,Weather,Cookies and Similar Technologies for Advertising.
+270,KY3 Weather,Weather,Demographic Information
+270,KY3 Weather,Weather,Device or System Data
+270,KY3 Weather,Weather,Financial Data
+270,KY3 Weather,Weather,Geolocation Data
+270,KY3 Weather,Weather,Location Information (from user's device)
+270,KY3 Weather,Weather,Personal Information (Identification and Contact Information
+270,KY3 Weather,Weather,Professional or Employment Data)
+270,KY3 Weather,Weather,Sensitive Information
+270,KY3 Weather,Weather,Social Network Data
+229,Kijiji: Buy and sell local,Shopping,Email Address
+229,Kijiji: Buy and sell local,Shopping,Password
+229,Kijiji: Buy and sell local,Shopping,Personal Information given during service use
+229,Kijiji: Buy and sell local,Shopping,User's information from third-party services
+224,Kimovil,Shopping,Email Address
+224,Kimovil,Shopping,User Alias
+73,Kiwi Browser - Fast & Quiet,Communication,Cookies
+73,Kiwi Browser - Fast & Quiet,Communication,Usage Data
+73,Kiwi Browser - Fast & Quiet,Communication,Various Services and Device Data (with consent)
+13,Krita,Art & Design,Website Usage (via Cookies)
+78,LINE: Calls & Messages,Communication,Contacts
+78,LINE: Calls & Messages,Communication,Email address
+78,LINE: Calls & Messages,Communication,LINE ID
+78,LINE: Calls & Messages,Communication,Location information
+78,LINE: Calls & Messages,Communication,Phone number
+78,LINE: Calls & Messages,Communication,Public profile information
+78,LINE: Calls & Messages,Communication,Service history
+90,LatinAmericanCupid: Latin Chat,Dating,Not Provided
+36,"Librera Reader: for PDF, EPUB",Books & Reference,Cookies Information.
+36,"Librera Reader: for PDF, EPUB",Books & Reference,Log Data (IP address
+36,"Librera Reader: for PDF, EPUB",Books & Reference,Personally Identifiable Information
+36,"Librera Reader: for PDF, EPUB",Books & Reference,Third Party Identification Information
+36,"Librera Reader: for PDF, EPUB",Books & Reference,app configuration
+36,"Librera Reader: for PDF, EPUB",Books & Reference,app usage time and date
+36,"Librera Reader: for PDF, EPUB",Books & Reference,device name
+36,"Librera Reader: for PDF, EPUB",Books & Reference,operating system version
+36,"Librera Reader: for PDF, EPUB",Books & Reference,other statistics)
+168,Lightroom Photo & Video Editor,Photography,Not Provided
+51,LinkedIn: Jobs & Business News,Business,Not Provided
+25,Long Nail Designs,Beauty,Browser Type
+25,Long Nail Designs,Beauty,Click Numbers
+25,Long Nail Designs,Beauty,Date/Time Stamp
+25,Long Nail Designs,Beauty,IP Addresses
+25,Long Nail Designs,Beauty,ISP
+25,Long Nail Designs,Beauty,Platform Type
+25,Long Nail Designs,Beauty,Referring and Exit Pages
+24,LuLuApp,Beauty,Not Provided
+26,Luvme Hair,Beauty,Additional Information from other sources
+26,Luvme Hair,Beauty,Automatic Information (through cookies)
+26,Luvme Hair,Beauty,Device Identifiers
+26,Luvme Hair,Beauty,Direct Information
+26,Luvme Hair,Beauty,Location Data
+26,Luvme Hair,Beauty,Personal Data
+26,Luvme Hair,Beauty,Sensitive User Data
+191,MEGA,Productivity,Analytics Cookies
+146,MEGA,Productivity,Analytics Cookies Usage Data
+126,MY FamilyMart,Lifestyle,Account Management Data
+126,MY FamilyMart,Lifestyle,App Usage
+126,MY FamilyMart,Lifestyle,CCTV Footage
+126,MY FamilyMart,Lifestyle,Communication Information.
+126,MY FamilyMart,Lifestyle,Identity Verification Data
+126,MY FamilyMart,Lifestyle,Interaction Data
+126,MY FamilyMart,Lifestyle,Loyalty Programs Information
+126,MY FamilyMart,Lifestyle,Online Behavior Data
+126,MY FamilyMart,Lifestyle,Personal Information
+126,MY FamilyMart,Lifestyle,Purchased Products and Services
+126,MY FamilyMart,Lifestyle,Shopping Habits
+126,MY FamilyMart,Lifestyle,Website Browsing Patterns
+15,Maskot - Gaming Logo Maker,Art & Design,Ad engagement data
+15,Maskot - Gaming Logo Maker,Art & Design,App usage duration
+15,Maskot - Gaming Logo Maker,Art & Design,App usage frequency
+15,Maskot - Gaming Logo Maker,Art & Design,IP address
+15,Maskot - Gaming Logo Maker,Art & Design,Mobile operating system
+15,Maskot - Gaming Logo Maker,Art & Design,Type of internet browser
+15,Maskot - Gaming Logo Maker,Art & Design,Type of mobile device
+15,Maskot - Gaming Logo Maker,Art & Design,Unique device ID
+15,Maskot - Gaming Logo Maker,Art & Design,Usage pattern of apps and games
+88,Match: Dating App for singles,Dating,Basic Profile Details and Preferences
+88,Match: Dating App for singles,Dating,Contractors
+88,Match: Dating App for singles,Dating,Information from Third Party Social Media Accounts
+88,Match: Dating App for singles,Dating,Personal Information of Job Candidates
+88,Match: Dating App for singles,Dating,Recognition Data through Cookies and Similar Technologies.
+88,Match: Dating App for singles,Dating,Usage Information of Services
+88,Match: Dating App for singles,Dating,and Vendor Representatives
+55,Me@Walmart,Business,Personal Information
+55,Me@Walmart,Business,Sensitive Personal Information
+188,MediaFire,Productivity,Not Provided
+11,Meme Generator Meme Maker,Entertainment,Not Provided
+225,Mercari: Your Marketplace,Shopping,Access Logs
+225,Mercari: Your Marketplace,Shopping,Additional Personal Details
+225,Mercari: Your Marketplace,Shopping,Contact Information
+225,Mercari: Your Marketplace,Shopping,Cookies.
+225,Mercari: Your Marketplace,Shopping,Device ID
+225,Mercari: Your Marketplace,Shopping,Device Information
+225,Mercari: Your Marketplace,Shopping,Financial Information
+225,Mercari: Your Marketplace,Shopping,IP Address
+225,Mercari: Your Marketplace,Shopping,Language Settings
+225,Mercari: Your Marketplace,Shopping,Software Information
+225,Mercari: Your Marketplace,Shopping,Third Party Identity Verification Data
+82,Messenger Kids – The Messaging,Communication,Not Provided
+97,MexicanCupid: Mexican Dating,Dating,Browsing Data
+97,MexicanCupid: Mexican Dating,Dating,Personal Data
+17,Mi Pedido Arabela,Beauty,Email
+17,Mi Pedido Arabela,Beauty,Phone Number.
+17,Mi Pedido Arabela,Beauty,User's Name
+190,Microsoft 365 (Office),Productivity,Not Provided
+45,Microsoft Authenticator,Business,Calendar items
+45,Microsoft Authenticator,Business,Contacts from connected accounts
+45,Microsoft Authenticator,Business,De-identified location data
+45,Microsoft Authenticator,Business,Emails
+45,Microsoft Authenticator,Business,Location data from photos and videos
+45,Microsoft Authenticator,Business,Photos
+45,Microsoft Authenticator,Business,Recent map searches
+45,Microsoft Authenticator,Business,SMS and MMS messages.
+45,Microsoft Authenticator,Business,User's favorite places
+45,Microsoft Authenticator,Business,Videos
+193,Microsoft Excel: Spreadsheets,Productivity,Not Provided
+147,Microsoft OneDrive,Productivity,Not Provided
+210,Microsoft OneDrive,Productivity,Not Provided
+194,Microsoft Outlook,Productivity,Not Provided
+192,Microsoft PowerPoint,Productivity,Not Provided
+199,Microsoft SwiftKey AI Keyboard,Personalization,Not Provided
+41,Microsoft Teams,Business,Not Provided
+187,Microsoft Word: Edit Documents,Productivity,Not Provided
+27,Mirror - Zoom & Exposure -,Beauty,Account State Information
+27,Mirror - Zoom & Exposure -,Beauty,Cookies
+27,Mirror - Zoom & Exposure -,Beauty,Device Unique Identification Numbers (Device ID or IMEI)
+27,Mirror - Zoom & Exposure -,Beauty,Photographs
+27,Mirror - Zoom & Exposure -,Beauty,Service Use History.
+95,"Mobifriends: Date, meet people",Dating,Activity Data (login times
+95,"Mobifriends: Date, meet people",Dating,Birthdate
+95,"Mobifriends: Date, meet people",Dating,City
+95,"Mobifriends: Date, meet people",Dating,Email
+95,"Mobifriends: Date, meet people",Dating,Gender
+95,"Mobifriends: Date, meet people",Dating,Hobbies
+95,"Mobifriends: Date, meet people",Dating,Interests
+95,"Mobifriends: Date, meet people",Dating,Name or Alias
+95,"Mobifriends: Date, meet people",Dating,Payment Details (credit or debit card details or PayPal account information)
+95,"Mobifriends: Date, meet people",Dating,Personality Traits
+95,"Mobifriends: Date, meet people",Dating,Physical Characteristics
+95,"Mobifriends: Date, meet people",Dating,Province
+95,"Mobifriends: Date, meet people",Dating,clicks
+95,"Mobifriends: Date, meet people",Dating,communications data)
+95,"Mobifriends: Date, meet people",Dating,feature usage
+95,"Mobifriends: Date, meet people",Dating,referral websites
+95,"Mobifriends: Date, meet people",Dating,searches
+197,Mobizen Screen Recorder,Productivity,Activity Logs
+197,Mobizen Screen Recorder,Productivity,Contact Information
+197,Mobizen Screen Recorder,Productivity,Cookies
+197,Mobizen Screen Recorder,Productivity,Device Information
+197,Mobizen Screen Recorder,Productivity,Email
+197,Mobizen Screen Recorder,Productivity,IP Address
+197,Mobizen Screen Recorder,Productivity,Legal Guardian's Name and Contact Details (in case of children)
+197,Mobizen Screen Recorder,Productivity,Name
+197,Mobizen Screen Recorder,Productivity,OS Information
+197,Mobizen Screen Recorder,Productivity,Payment History
+16,"Mockup Creator, T-shirt Design",Art & Design,Log Data (device IP address
+16,"Mockup Creator, T-shirt Design",Art & Design,OS version
+16,"Mockup Creator, T-shirt Design",Art & Design,Personal Information (anonymity-based)
+16,"Mockup Creator, T-shirt Design",Art & Design,app configuration
+16,"Mockup Creator, T-shirt Design",Art & Design,device name
+16,"Mockup Creator, T-shirt Design",Art & Design,other relevant statistics)
+16,"Mockup Creator, T-shirt Design",Art & Design,service usage time and date
+234,Monkey - random video chat,Social,Not Provided
+37,Moon+ Reader,Books & Reference,App Configuration
+37,Moon+ Reader,Books & Reference,Device Name
+37,Moon+ Reader,Books & Reference,Log Data (IP Address
+37,Moon+ Reader,Books & Reference,Operating System Version
+37,Moon+ Reader,Books & Reference,Other Statistics.
+37,Moon+ Reader,Books & Reference,Personally Identifiable Information
+37,Moon+ Reader,Books & Reference,Usage Time and Date)
+201,My Vodafone,Productivity,Connectivity Services Usage Detail
+201,My Vodafone,Productivity,Device Information
+201,My Vodafone,Productivity,Interactions with Vodafone
+201,My Vodafone,Productivity,Location Details
+201,My Vodafone,Productivity,My Vodafone App Usage Details
+67,MyBell,Communication,Not Provided
+139,MyDyson™,Lifestyle,Information from Dyson's websites
+139,MyDyson™,Lifestyle,and connected machines.
+139,MyDyson™,Lifestyle,the My Dyson app
+268,MyRadar Weather Radar,Weather,Not Provided
+119,MySmartE,House & Home,Address
+119,MySmartE,House & Home,Electricity Usage)
+119,MySmartE,House & Home,Email Address
+119,MySmartE,House & Home,Geographic Location
+119,MySmartE,House & Home,Household Details (Heating type
+119,MySmartE,House & Home,Living space
+119,MySmartE,House & Home,Mobile Number
+119,MySmartE,House & Home,Name
+243,NGL: anonymous q&a,Social,Account Information
+243,NGL: anonymous q&a,Social,Device Data (Operating System Type and Version
+243,NGL: anonymous q&a,Social,Feedback or Correspondence
+243,NGL: anonymous q&a,Social,General Location Information)
+243,NGL: anonymous q&a,Social,IP Address
+243,NGL: anonymous q&a,Social,Messages Sent to App Users
+243,NGL: anonymous q&a,Social,Online Activity Data.
+243,NGL: anonymous q&a,Social,Usage Information
+253,Namso Gen,Tools,Not Provided
+202,New PDF Reader,Productivity,Not Provided
+182,NewProfilePic: Profile Picture,Photography,Not Provided
+103,Night Owl Protect,House & Home,Device and Usage Information
+103,Night Owl Protect,House & Home,User Account Information
+196,OPPO Clone Phone,Productivity,Marketing information
+196,OPPO Clone Phone,Productivity,Personal data
+196,OPPO Clone Phone,Productivity,Promotional activity data
+246,"Octopus - Gamepad, Keymapper",Tools,Login Data
+246,"Octopus - Gamepad, Keymapper",Tools,Non-Personal Information
+246,"Octopus - Gamepad, Keymapper",Tools,Session and Available Data
+246,"Octopus - Gamepad, Keymapper",Tools,Summary Information
+215,OfferUp: Buy. Sell. Letgo.,Shopping,Not Provided
+91,Once: Perfect Match and Dates,Dating,Content Preferences
+91,Once: Perfect Match and Dates,Dating,Email
+91,Once: Perfect Match and Dates,Dating,Interests
+91,Once: Perfect Match and Dates,Dating,Location
+91,Once: Perfect Match and Dates,Dating,Name
+91,Once: Perfect Match and Dates,Dating,Profile Picture
+170,Open Camera,Photography,Not Provided
+31,PDF Reader,Books & Reference,Browser Details
+31,PDF Reader,Books & Reference,Device Model Details
+31,PDF Reader,Books & Reference,Hardware Information.
+31,PDF Reader,Books & Reference,IP
+31,PDF Reader,Books & Reference,Identifiers
+31,PDF Reader,Books & Reference,Language and Location
+31,PDF Reader,Books & Reference,Network Status
+31,PDF Reader,Books & Reference,Platform
+31,PDF Reader,Books & Reference,Session Timings
+31,PDF Reader,Books & Reference,Timestamps
+112,"PRIME Wire and Cable, Inc.",House & Home,Anonymous Statistics Related to Product Use.
+112,"PRIME Wire and Cable, Inc.",House & Home,Content Shared
+112,"PRIME Wire and Cable, Inc.",House & Home,Device Related Information (IMEI Number
+112,"PRIME Wire and Cable, Inc.",House & Home,Email Address
+112,"PRIME Wire and Cable, Inc.",House & Home,Location Details
+112,"PRIME Wire and Cable, Inc.",House & Home,Mobile Phone Number
+112,"PRIME Wire and Cable, Inc.",House & Home,PRIME Account Information
+112,"PRIME Wire and Cable, Inc.",House & Home,PRIME Smart Device Activation Data
+112,"PRIME Wire and Cable, Inc.",House & Home,PRIME Smart Device ID)
+112,"PRIME Wire and Cable, Inc.",House & Home,Product Purchase Information
+112,"PRIME Wire and Cable, Inc.",House & Home,Service Processing Data
+112,"PRIME Wire and Cable, Inc.",House & Home,Synchronized Device Data
+3,PaperColor,Art & Design,Additional Information from Social Networking Sites [User name
+3,PaperColor,Art & Design,Email address
+3,PaperColor,Art & Design,Friends’ ID
+3,PaperColor,Art & Design,Gaming Preferences]
+3,PaperColor,Art & Design,Gender
+3,PaperColor,Art & Design,IP Address])
+3,PaperColor,Art & Design,Language
+3,PaperColor,Art & Design,Links to Organizations or Friends]
+3,PaperColor,Art & Design,Location
+3,PaperColor,Art & Design,Location
+3,PaperColor,Art & Design,Name
+3,PaperColor,Art & Design,Non-Personal Data (Application Properties
+3,PaperColor,Art & Design,Personal Information [Facebook ID
+3,PaperColor,Art & Design,Privacy Settings
+3,PaperColor,Art & Design,Technical Details [SDK/API/JS Code Version
+3,PaperColor,Art & Design,Time Zone
+3,PaperColor,Art & Design,Use Context
+3,PaperColor,Art & Design,User ID
+3,PaperColor,Art & Design,gender
+3,PaperColor,Art & Design,profile picture
+166,Parallel Space - app cloning,Personalization,Not Provided
+132,Pets4Homes,Lifestyle,Address
+132,Pets4Homes,Lifestyle,Cookies and similar data.
+132,Pets4Homes,Lifestyle,Email
+132,Pets4Homes,Lifestyle,Feedback through online survey
+132,Pets4Homes,Lifestyle,Identity verification data (identity document and images)
+132,Pets4Homes,Lifestyle,Messages to sellers
+132,Pets4Homes,Lifestyle,Newsletter Preference)
+132,Pets4Homes,Lifestyle,Pet listing data
+132,Pets4Homes,Lifestyle,Pet reporting information
+132,Pets4Homes,Lifestyle,Telephone Number
+132,Pets4Homes,Lifestyle,User's registration data (Name
+174,Phonto - Text on Photos,Photography,Cookies and Usage Data
+174,Phonto - Text on Photos,Photography,Personal Data (which can identify a user)
+174,Phonto - Text on Photos,Photography,Tracking and Cookies Data
+174,Phonto - Text on Photos,Photography,Usage Data from the Service or its Infrastructure.
+178,Photo Editor,Photography,Usage data for internal analysis and service enhancement.
+178,Photo Editor,Photography,User data retained for legal obligations
+178,Photo Editor,Photography,and policies
+178,Photo Editor,Photography,dispute resolutions
+178,Photo Editor,Photography,legal agreements
+175,Photo Editor Pro - Polish,Photography,Advertisements data (Google AdMob).
+175,Photo Editor Pro - Polish,Photography,App Usage Data
+175,Photo Editor Pro - Polish,Photography,Data from third-party tools (Google Firebase Analytics)
+175,Photo Editor Pro - Polish,Photography,Device Details
+175,Photo Editor Pro - Polish,Photography,Email Address
+175,Photo Editor Pro - Polish,Photography,Location
+175,Photo Editor Pro - Polish,Photography,Survey Responses)
+175,Photo Editor Pro - Polish,Photography,User Information (Name
+171,Photoshop Express Photo Editor,Photography,Not Provided
+231,Pi Network,Social,Contact and identity information
+231,Pi Network,Social,Information about users from other users and companies.
+231,Pi Network,Social,Know Your Customer Verification Information
+231,Pi Network,Social,Marketing interest
+231,Pi Network,Social,Network transaction information
+231,Pi Network,Social,Survey responses
+231,Pi Network,Social,User-generated content
+120,Pinterest,Lifestyle,Not Provided
+12,Pixel Studio: pixel art editor,Art & Design,Ad ID
+12,Pixel Studio: pixel art editor,Art & Design,App usage data
+12,Pixel Studio: pixel art editor,Art & Design,Device ID
+12,Pixel Studio: pixel art editor,Art & Design,Email
+12,Pixel Studio: pixel art editor,Art & Design,Game-related information
+12,Pixel Studio: pixel art editor,Art & Design,Location.
+12,Pixel Studio: pixel art editor,Art & Design,User name
+179,PixelLab - Text on pictures,Photography,Cookies
+179,PixelLab - Text on pictures,Photography,Email Address
+179,PixelLab - Text on pictures,Photography,Geographic Position
+179,PixelLab - Text on pictures,Photography,Unique Device Identifiers
+179,PixelLab - Text on pictures,Photography,Usage Data
+179,PixelLab - Text on pictures,Photography,User's First Name
+233,Plenty of Fish Dating App,Social,Date of Birth
+233,Plenty of Fish Dating App,Social,Device Information
+233,Plenty of Fish Dating App,Social,Email Address
+233,Plenty of Fish Dating App,Social,Gender
+233,Plenty of Fish Dating App,Social,Images
+233,Plenty of Fish Dating App,Social,Interests
+233,Plenty of Fish Dating App,Social,Phone Number
+233,Plenty of Fish Dating App,Social,User Information from other users or third parties.
+233,Plenty of Fish Dating App,Social,User Service Usage Information
+233,Plenty of Fish Dating App,Social,Videos
+216,PromoDescuentos: ofertas,Shopping,Account Information (email address
+216,PromoDescuentos: ofertas,Shopping,Activity data (offers
+216,PromoDescuentos: ofertas,Shopping,Additional Information (name
+216,PromoDescuentos: ofertas,Shopping,Behavior Data
+216,PromoDescuentos: ofertas,Shopping,Behavior Data (page views
+216,PromoDescuentos: ofertas,Shopping,IP address)
+216,PromoDescuentos: ofertas,Shopping,Information from business partners (with consent): Account Information
+216,PromoDescuentos: ofertas,Shopping,Log and Device Information (time
+216,PromoDescuentos: ofertas,Shopping,Log and Device Information.
+216,PromoDescuentos: ofertas,Shopping,Order Data
+216,PromoDescuentos: ofertas,Shopping,Phone number
+216,PromoDescuentos: ofertas,Shopping,Survey Responses
+216,PromoDescuentos: ofertas,Shopping,Survey Responses (email address
+216,PromoDescuentos: ofertas,Shopping,Trends (received likes
+216,PromoDescuentos: ofertas,Shopping,active filters
+216,PromoDescuentos: ofertas,Shopping,alerts
+216,PromoDescuentos: ofertas,Shopping,alerts
+216,PromoDescuentos: ofertas,Shopping,behavior data)
+216,PromoDescuentos: ofertas,Shopping,clicks
+216,PromoDescuentos: ofertas,Shopping,comments
+216,PromoDescuentos: ofertas,Shopping,data duration
+216,PromoDescuentos: ofertas,Shopping,date
+216,PromoDescuentos: ofertas,Shopping,description)
+216,PromoDescuentos: ofertas,Shopping,discussions
+216,PromoDescuentos: ofertas,Shopping,filters
+216,PromoDescuentos: ofertas,Shopping,followers
+216,PromoDescuentos: ofertas,Shopping,likes
+216,PromoDescuentos: ofertas,Shopping,likes
+216,PromoDescuentos: ofertas,Shopping,offer statistics)
+216,PromoDescuentos: ofertas,Shopping,password)
+216,PromoDescuentos: ofertas,Shopping,private messages)
+216,PromoDescuentos: ofertas,Shopping,saved posts
+216,PromoDescuentos: ofertas,Shopping,searches
+216,PromoDescuentos: ofertas,Shopping,searches)
+216,PromoDescuentos: ofertas,Shopping,surname
+216,PromoDescuentos: ofertas,Shopping,username
+156,Proton Drive: Cloud Storage,Productivity,Not Provided
+75,Psiphon,Communication,Not Provided
+68,Psiphon Pro,Communication,Not Provided
+133,Puffco Connect,Lifestyle,Identifiers
+133,Puffco Connect,Lifestyle,Location Details
+133,Puffco Connect,Lifestyle,Purchase Information
+133,Puffco Connect,Lifestyle,Technical and Usage Data
+76,Puffin Cloud Browser,Tools,Not Provided
+81,QQ,Communication,Not Provided
+195,Quick Settings for Android,Productivity,Ads Data
+195,Quick Settings for Android,Productivity,Advertising ID
+195,Quick Settings for Android,Productivity,Application Version
+195,Quick Settings for Android,Productivity,Device Type
+195,Quick Settings for Android,Productivity,Information related to user invites
+195,Quick Settings for Android,Productivity,Mobile Operating System
+195,Quick Settings for Android,Productivity,Personal Information from surveys or app
+165,RAR,Tools,Not Provided
+250,RAR,Tools,Not Provided
+245,REALITY-Become an Anime Avatar,Social,Not Provided
+259,Radar Doppler Jalisco,Weather,User's Email
+35,ReadEra – book reader pdf epub,Books & Reference,Anonymous Technical Data (Error Reports
+35,ReadEra – book reader pdf epub,Books & Reference,Anonymous User-Interaction Statistics)
+35,ReadEra – book reader pdf epub,Books & Reference,Technical Diagnostics
+113,Real Estate sale & rent Trovit,House & Home,User Ads data
+211,RecargaMarcas TAE,Productivity,Device Model
+211,RecargaMarcas TAE,Productivity,Equipment Version
+211,RecargaMarcas TAE,Productivity,IP Location
+211,RecargaMarcas TAE,Productivity,Image Gallery (if user authorizes)
+211,RecargaMarcas TAE,Productivity,Operating system Name
+49,Recargas tu Cell,Business,Advertising Number
+49,Recargas tu Cell,Business,Analytical Information)
+49,Recargas tu Cell,Business,Billing Address
+49,Recargas tu Cell,Business,Cookies (Strictly Necessary
+49,Recargas tu Cell,Business,Device and Other ID (IP Address
+49,Recargas tu Cell,Business,Email
+49,Recargas tu Cell,Business,Functional
+49,Recargas tu Cell,Business,Geolocation)
+49,Recargas tu Cell,Business,Personal Information (Name
+49,Recargas tu Cell,Business,Phone Number)
+49,Recargas tu Cell,Business,User Inputs (Cell Phone Numbers of Beneficiaries)
+232,Reddit,Social,Audience Measurement services from Nielsen and Quantcast
+232,Reddit,Social,First and third-party cookies
+232,Reddit,Social,IP derived location information.
+232,Reddit,Social,Information collected via Google Analytics Opt-out Browser Add-on
+232,Reddit,Social,Personal Information
+232,Reddit,Social,Personalized ads info
+118,Remote Control for Roku TV,House & Home,Application Version
+118,Remote Control for Roku TV,House & Home,Browser Type
+118,Remote Control for Roku TV,House & Home,Device Identifiers.
+118,Remote Control for Roku TV,House & Home,IP Address
+118,Remote Control for Roku TV,House & Home,Internet Service Provider
+118,Remote Control for Roku TV,House & Home,Platform
+118,Remote Control for Roku TV,House & Home,SDK/API/JS code version
+118,Remote Control for Roku TV,House & Home,Timestamp
+177,Remove BG - Background Eraser,Photography,Not Provided
+57,"Resume Builder App, CV maker",Business,Cookies.
+57,"Resume Builder App, CV maker",Business,Device Information (IP address
+57,"Resume Builder App, CV maker",Business,Log Data
+57,"Resume Builder App, CV maker",Business,Third-party Services Data
+57,"Resume Builder App, CV maker",Business,User's Information
+57,"Resume Builder App, CV maker",Business,app configuration
+57,"Resume Builder App, CV maker",Business,device name
+57,"Resume Builder App, CV maker",Business,operating system
+57,"Resume Builder App, CV maker",Business,usage time)
+185,Retrica,Photography,Birthdate or Age
+185,Retrica,Photography,Cookies
+185,Retrica,Photography,Email Address
+185,Retrica,Photography,First Name
+185,Retrica,Photography,Last Name
+185,Retrica,Photography,Sex
+185,Retrica,Photography,Usage Data
+124,Rightmove Property Search,Lifestyle,Education details
+124,Rightmove Property Search,Lifestyle,Employment details
+124,Rightmove Property Search,Lifestyle,Financial data
+124,Rightmove Property Search,Lifestyle,Lifestyle details.
+124,Rightmove Property Search,Lifestyle,Mortgage information
+124,Rightmove Property Search,Lifestyle,Personal contact details
+124,Rightmove Property Search,Lifestyle,Property data
+124,Rightmove Property Search,Lifestyle,Technical data
+124,Rightmove Property Search,Lifestyle,Tenant references
+242,"SKOUT - Meet, Chat, Go Live",Social,Not Provided
+106,SURE - Smart Home and TV Unive,House & Home,Browser Type
+106,SURE - Smart Home and TV Unive,House & Home,Cookies and IP Address (through Google Analytics)
+106,SURE - Smart Home and TV Unive,House & Home,Date of Birth
+106,SURE - Smart Home and TV Unive,House & Home,Device Info]
+106,SURE - Smart Home and TV Unive,House & Home,Email
+106,SURE - Smart Home and TV Unive,House & Home,Email]
+106,SURE - Smart Home and TV Unive,House & Home,Gender
+106,SURE - Smart Home and TV Unive,House & Home,Health Data]
+106,SURE - Smart Home and TV Unive,House & Home,Health Information [Name
+106,SURE - Smart Home and TV Unive,House & Home,IP Address
+106,SURE - Smart Home and TV Unive,House & Home,Non-Personal Information [Location
+106,SURE - Smart Home and TV Unive,House & Home,Operating System
+106,SURE - Smart Home and TV Unive,House & Home,Personal Information [Name
+106,SURE - Smart Home and TV Unive,House & Home,Phone
+106,SURE - Smart Home and TV Unive,House & Home,Photo
+71,Samsung Internet Browser,Communication,Automatically Generated Data
+71,Samsung Internet Browser,Communication,Chat Session Records
+71,Samsung Internet Browser,Communication,Contact Information
+71,Samsung Internet Browser,Communication,Date of Birth
+71,Samsung Internet Browser,Communication,Demographic Data
+71,Samsung Internet Browser,Communication,Information from Third-Party Devices
+71,Samsung Internet Browser,Communication,Location Data
+71,Samsung Internet Browser,Communication,Payment Card Information
+71,Samsung Internet Browser,Communication,Purchase Details
+71,Samsung Internet Browser,Communication,Samsung Account Information
+71,Samsung Internet Browser,Communication,User Coupon or Gift Card Number
+71,Samsung Internet Browser,Communication,User-Generated Content
+71,Samsung Internet Browser,Communication,Voice Recordings
+148,Samsung My Files,Tools,Automated data generation.
+148,Samsung My Files,Tools,Contact information
+148,Samsung My Files,Tools,Demographic data
+148,Samsung My Files,Tools,Device-specific information
+148,Samsung My Files,Tools,Information from public or commercially-available sources
+148,Samsung My Files,Tools,Information from third parties
+148,Samsung My Files,Tools,Location data
+254,Samsung My Files,Tools,Not Provided
+148,Samsung My Files,Tools,Payment card information
+148,Samsung My Files,Tools,Voice recordings
+125,Santa Biblia Reina Valera,Lifestyle,Country Code
+125,Santa Biblia Reina Valera,Lifestyle,Device Model Number
+125,Santa Biblia Reina Valera,Lifestyle,Device Sleep Prevention Status
+125,Santa Biblia Reina Valera,Lifestyle,Email
+125,Santa Biblia Reina Valera,Lifestyle,Internet Data
+125,Santa Biblia Reina Valera,Lifestyle,Network Connections
+125,Santa Biblia Reina Valera,Lifestyle,Operating System Version
+125,Santa Biblia Reina Valera,Lifestyle,USB Storage Access/Modifications
+125,Santa Biblia Reina Valera,Lifestyle,User Accounts
+127,Santa Biblia Reina Valera 1960,Lifestyle,Activity Information
+127,Santa Biblia Reina Valera 1960,Lifestyle,Personal Information (If user chooses to provide)
+127,Santa Biblia Reina Valera 1960,Lifestyle,Sensitive Information (If user chooses to provide)
+248,Secure VPN－Safer Internet,Tools,App Version
+248,Secure VPN－Safer Internet,Tools,Connection Time
+248,Secure VPN－Safer Internet,Tools,Data Transferred
+248,Secure VPN－Safer Internet,Tools,Device Language
+248,Secure VPN－Safer Internet,Tools,Device OS Version
+248,Secure VPN－Safer Internet,Tools,Internet Service Provider
+248,Secure VPN－Safer Internet,Tools,Manufacturer
+248,Secure VPN－Safer Internet,Tools,Model
+226,Shopee PH: Shop this 12.12,Shopping,Contact Details
+226,Shopee PH: Shop this 12.12,Shopping,Cookies Information.
+226,Shopee PH: Shop this 12.12,Shopping,Date of Birth
+226,Shopee PH: Shop this 12.12,Shopping,Device Data
+226,Shopee PH: Shop this 12.12,Shopping,Email Address
+226,Shopee PH: Shop this 12.12,Shopping,Identity Verification Documents
+226,Shopee PH: Shop this 12.12,Shopping,Marketing and Communication Data
+226,Shopee PH: Shop this 12.12,Shopping,Name
+226,Shopee PH: Shop this 12.12,Shopping,Precise Location Information
+226,Shopee PH: Shop this 12.12,Shopping,User Interaction Data
+60,Side - flex jobs & temp work,Business,Not Provided
+1,Sketchbook,Art & Design,App Usage
+1,Sketchbook,Art & Design,Communication Requests
+1,Sketchbook,Art & Design,Contact Information
+1,Sketchbook,Art & Design,Cookies and Similar Technologies.
+1,Sketchbook,Art & Design,Country of Residence
+1,Sketchbook,Art & Design,Email
+1,Sketchbook,Art & Design,Feedback
+1,Sketchbook,Art & Design,IP Address
+1,Sketchbook,Art & Design,Name
+1,Sketchbook,Art & Design,Occupational Details
+1,Sketchbook,Art & Design,Responses to Surveys
+74,Skype,Communication,Not Provided
+130,Smart Life - Smart Living,Lifestyle,Account details
+130,Smart Life - Smart Living,Lifestyle,Additional function details (location information
+130,Smart Life - Smart Living,Lifestyle,Bluetooth
+130,Smart Life - Smart Living,Lifestyle,Log information
+130,Smart Life - Smart Living,Lifestyle,Mobile device information
+130,Smart Life - Smart Living,Lifestyle,Smart device data
+130,Smart Life - Smart Living,Lifestyle,Usage data
+130,Smart Life - Smart Living,Lifestyle,User feedback
+130,Smart Life - Smart Living,Lifestyle,albums
+130,Smart Life - Smart Living,Lifestyle,camera
+130,Smart Life - Smart Living,Lifestyle,health functions)
+130,Smart Life - Smart Living,Lifestyle,microphone
+130,Smart Life - Smart Living,Lifestyle,notifications
+130,Smart Life - Smart Living,Lifestyle,storage
+220,"SmartCanucks - Flyers, Deals &",Shopping,Not Provided
+123,SmartThings,Lifestyle,Not Provided
+153,Solid Explorer File Manager,Productivity,Not Provided
+101,Spdate - meet singles nearby o,Dating,Anonymous information for advertising purposes
+101,Spdate - meet singles nearby o,Dating,Personal Data (photographs
+101,Spdate - meet singles nearby o,Dating,User-generated content (text
+101,Spdate - meet singles nearby o,Dating,birthdates
+101,Spdate - meet singles nearby o,Dating,images
+101,Spdate - meet singles nearby o,Dating,locations)
+101,Spdate - meet singles nearby o,Dating,videos)
+21,Spiral Photo & Video Editor,Beauty,App Usage Details
+21,Spiral Photo & Video Editor,Beauty,Cookie Data (through third-party code and libraries).
+21,Spiral Photo & Video Editor,Beauty,Device's IP Address
+21,Spiral Photo & Video Editor,Beauty,Operating System Version
+21,Spiral Photo & Video Editor,Beauty,Other Statistics (through third-party products in case of an app error)
+30,Stats Royale for Clash Royale,Books & Reference,User-submitted information
+134,SwingLifeStyle (SLS),Lifestyle,Aggregate Information
+134,SwingLifeStyle (SLS),Lifestyle,Personally Identifiable Information
+110,TV Remote for LG  (Smart TV Re,House & Home,Microphone Access Data.
+110,TV Remote for LG  (Smart TV Re,House & Home,User Engagement Data (via Google Analytics)
+64,Talkatone: Texting & Calling,Communication,Not Provided
+208,TeamViewer QuickSupport,Productivity,Address
+208,TeamViewer QuickSupport,Productivity,Counter-Motions
+208,TeamViewer QuickSupport,Productivity,Email Addresses
+208,TeamViewer QuickSupport,Productivity,Instructions
+208,TeamViewer QuickSupport,Productivity,Intermediary Bank Information
+208,TeamViewer QuickSupport,Productivity,Motions
+208,TeamViewer QuickSupport,Productivity,Name
+208,TeamViewer QuickSupport,Productivity,Nominations
+208,TeamViewer QuickSupport,Productivity,Number of Shares
+208,TeamViewer QuickSupport,Productivity,Objections.
+208,TeamViewer QuickSupport,Productivity,Registration Number
+208,TeamViewer QuickSupport,Productivity,Representative
+208,TeamViewer QuickSupport,Productivity,Statements
+208,TeamViewer QuickSupport,Productivity,Submitted Questions
+208,TeamViewer QuickSupport,Productivity,Voting Behavior and Results
+69,Telegram,Communication,Not Provided
+141,TeraBox: Cloud Storage Space,Tools,Not Provided
+128,Tesla,Lifestyle,Autopilot Analytics & Improvements
+128,Tesla,Lifestyle,Data from product purchases
+128,Tesla,Lifestyle,Personal data
+128,Tesla,Lifestyle,Promotional communication data
+128,Tesla,Lifestyle,Road Segment Data Analytics
+128,Tesla,Lifestyle,Vehicle control and access data.
+235,Text Free: Call & Texting App,Social,Addresses
+235,Text Free: Call & Texting App,Social,App Data [Period of usage
+235,Text Free: Call & Texting App,Social,Audio
+235,Text Free: Call & Texting App,Social,Billing information]
+235,Text Free: Call & Texting App,Social,Browser-specific data
+235,Text Free: Call & Texting App,Social,Contacts]
+235,Text Free: Call & Texting App,Social,Device identifiers
+235,Text Free: Call & Texting App,Social,Emails
+235,Text Free: Call & Texting App,Social,IP addresses
+235,Text Free: Call & Texting App,Social,Personal Information [Names
+235,Text Free: Call & Texting App,Social,Phone numbers
+235,Text Free: Call & Texting App,Social,Photos
+235,Text Free: Call & Texting App,Social,Shared Data [Text
+235,Text Free: Call & Texting App,Social,User behaviour data]
+235,Text Free: Call & Texting App,Social,Video
+138,The Badass App,Lifestyle,Cookie Data
+138,The Badass App,Lifestyle,Data from Google Analytics and First and Third-Party Cookies.
+138,The Badass App,Lifestyle,IP addresses
+138,The Badass App,Lifestyle,Information about User's Inquiries
+138,The Badass App,Lifestyle,Personal or Company Contact Information
+138,The Badass App,Lifestyle,Purchases or Subscriptions
+138,The Badass App,Lifestyle,User Account Information
+172,ToonMe - cartoons from photos,Photography,Not Provided
+241,"Tumblr—Fandom, Art, Chaos",Social,Not Provided
+136,Tuya Smart,Lifestyle,Communication Records and Contents
+136,Tuya Smart,Lifestyle,Health Information
+136,Tuya Smart,Lifestyle,Personal Biometric Information
+136,Tuya Smart,Lifestyle,Precise Location Information
+136,Tuya Smart,Lifestyle,Transaction Information
+65,"UC Browser-Safe, Fast, Private",Communication,Not Provided
+77,UC Mini-Download Video Status ,Communication,Not Provided
+22,Ulta Beauty: Makeup & Skincare,Beauty,Account Login
+22,Ulta Beauty: Makeup & Skincare,Beauty,Address
+22,Ulta Beauty: Makeup & Skincare,Beauty,Age
+22,Ulta Beauty: Makeup & Skincare,Beauty,Bank Account Information
+22,Ulta Beauty: Makeup & Skincare,Beauty,Driver’s License Number
+22,Ulta Beauty: Makeup & Skincare,Beauty,Email Address
+22,Ulta Beauty: Makeup & Skincare,Beauty,Ethnicity
+22,Ulta Beauty: Makeup & Skincare,Beauty,Face or Hand Geometry
+22,Ulta Beauty: Makeup & Skincare,Beauty,Gender Expression and Identity
+22,Ulta Beauty: Makeup & Skincare,Beauty,IP Address
+22,Ulta Beauty: Makeup & Skincare,Beauty,Information Inferred)
+22,Ulta Beauty: Makeup & Skincare,Beauty,Online Identifier
+22,Ulta Beauty: Makeup & Skincare,Beauty,Personal Information (Name
+22,Ulta Beauty: Makeup & Skincare,Beauty,Race
+22,Ulta Beauty: Makeup & Skincare,Beauty,Signature
+22,Ulta Beauty: Makeup & Skincare,Beauty,Social Security Number
+22,Ulta Beauty: Makeup & Skincare,Beauty,State Identification Number
+22,Ulta Beauty: Makeup & Skincare,Beauty,Telephone Number
+22,Ulta Beauty: Makeup & Skincare,Beauty,Zip Code
+22,Ulta Beauty: Makeup & Skincare,Beauty,purchase records
+108,Universal TV Remote Control,House & Home,Device and App Access Details
+108,Universal TV Remote Control,House & Home,Interaction Data
+108,Universal TV Remote Control,House & Home,Internet Connection Information
+102,Universal TV Remote Control,House & Home,Most visited pages
+102,Universal TV Remote Control,House & Home,Site navigation patterns.
+102,Universal TV Remote Control,House & Home,Site visits
+108,Universal TV Remote Control,House & Home,Survey Participation Information
+102,Universal TV Remote Control,House & Home,Traffic details
+108,Universal TV Remote Control,House & Home,User-provided Data
+108,Universal TV Remote Control,House & Home,and Data through Third-party SDKs.
+47,"Vault - Hide Pics, App Lock",Business,Account Information
+47,"Vault - Hide Pics, App Lock",Business,Address
+47,"Vault - Hide Pics, App Lock",Business,Cookies Information
+47,"Vault - Hide Pics, App Lock",Business,Device Information
+47,"Vault - Hide Pics, App Lock",Business,IP Address
+47,"Vault - Hide Pics, App Lock",Business,Location Details
+47,"Vault - Hide Pics, App Lock",Business,Name
+47,"Vault - Hide Pics, App Lock",Business,Phone Number
+47,"Vault - Hide Pics, App Lock",Business,Product Information
+47,"Vault - Hide Pics, App Lock",Business,User ID
+167,Video Editor & Maker - InShot,Photography,Not Provided
+105,Vivint,House & Home,Not Provided
+115,Vivitar Smart Home Security,House & Home,Cookies (User behavior on the site)
+115,Vivitar Smart Home Security,House & Home,Derivative Data (IP address
+115,Vivitar Smart Home Security,House & Home,Financial Data (Payment method information)
+115,Vivitar Smart Home Security,House & Home,Google Maps APIs Data.
+115,Vivitar Smart Home Security,House & Home,Mobile App Data (Geolocation information and mobile device data)
+115,Vivitar Smart Home Security,House & Home,Personal Data (User's name
+115,Vivitar Smart Home Security,House & Home,Social Network Information (User's name and contacts on platforms)
+115,Vivitar Smart Home Security,House & Home,Survey/Contest Data
+115,Vivitar Smart Home Security,House & Home,age
+115,Vivitar Smart Home Security,House & Home,contact details
+115,Vivitar Smart Home Security,House & Home,device and interaction information)
+115,Vivitar Smart Home Security,House & Home,gender
+115,Vivitar Smart Home Security,House & Home,interests)
+72,VozApp,Communication,Academic and Professional Data
+72,VozApp,Communication,Commercial Information
+72,VozApp,Communication,Economic
+72,VozApp,Communication,Financial and Insurance Data
+72,VozApp,Communication,Identification Data
+72,VozApp,Communication,Occupational Data
+72,VozApp,Communication,Sensitive Data
+83,WAMR: Undelete messages!,Communication,App Configuration
+83,WAMR: Undelete messages!,Communication,Device Name
+83,WAMR: Undelete messages!,Communication,Device's IP Address
+83,WAMR: Undelete messages!,Communication,Error Log Data
+83,WAMR: Undelete messages!,Communication,Google Analytics Data
+83,WAMR: Undelete messages!,Communication,Local Backup Data
+83,WAMR: Undelete messages!,Communication,Operating System Version
+83,WAMR: Undelete messages!,Communication,Personal Information
+83,WAMR: Undelete messages!,Communication,Usage Time
+261,WBKO First Alert Weather,Weather,Analytics Data (Usage Activity
+261,WBKO First Alert Weather,Weather,Contact Information (Email Address
+261,WBKO First Alert Weather,Weather,Demographic Information (Age
+261,WBKO First Alert Weather,Weather,Device or System Information (Mobile Device Identifier
+261,WBKO First Alert Weather,Weather,Financial Information
+261,WBKO First Alert Weather,Weather,Gender)
+261,WBKO First Alert Weather,Weather,Geolocation Information)
+261,WBKO First Alert Weather,Weather,IP Address)
+261,WBKO First Alert Weather,Weather,Identification Information (Account Information
+261,WBKO First Alert Weather,Weather,Name
+261,WBKO First Alert Weather,Weather,Operating System
+261,WBKO First Alert Weather,Weather,Phone Number)
+261,WBKO First Alert Weather,Weather,Professional or Employment Information
+261,WBKO First Alert Weather,Weather,Sensitive Information (Race or Ethnicity
+261,WBKO First Alert Weather,Weather,Social Network Information.
+261,WBKO First Alert Weather,Weather,Statistics)
+261,WBKO First Alert Weather,Weather,Street Address
+261,WBKO First Alert Weather,Weather,Type of Device
+261,WBKO First Alert Weather,Weather,User Credentials)
+266,WKYC Weather,Weather,Not Provided
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Aggregate Web Traffic Routing Data.
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Cookies and Web Beacons Usage Data
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Email Address
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Location Data
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Non-Personal Data (Device Identifier)
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Operational Data
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Other Personal Data
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Postal Address
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,Technical Data
+267,WSFA First Alert Weather,Weather,Analytics data
+267,WSFA First Alert Weather,Weather,Demographic information
+267,WSFA First Alert Weather,Weather,Device information
+267,WSFA First Alert Weather,Weather,Geolocation information
+267,WSFA First Alert Weather,Weather,Personal information (Account information
+267,WSFA First Alert Weather,Weather,Professional information
+267,WSFA First Alert Weather,Weather,Social media information
+267,WSFA First Alert Weather,Weather,email address
+267,WSFA First Alert Weather,Weather,financial information)
+267,WSFA First Alert Weather,Weather,name
+267,WSFA First Alert Weather,Weather,phone number
+267,WSFA First Alert Weather,Weather,street address
+271,WVLT Weather,Weather,Not Provided
+273,WZZM 13 Weather,Weather,Communications
+273,WZZM 13 Weather,Weather,Contact Data
+273,WZZM 13 Weather,Weather,Data from Other Sources.
+273,WZZM 13 Weather,Weather,Marketing Data
+273,WZZM 13 Weather,Weather,Other Information
+273,WZZM 13 Weather,Weather,Registration Data
+217,Walmart: Shopping & Savings,Shopping,Not Provided
+28,Wattpad - Read & Write Stories,Books & Reference,Personal Information
+260,Weather,Weather,Activity data
+260,Weather,Weather,Cookies
+260,Weather,Weather,Current location estimation (if location services are enabled)
+260,Weather,Weather,Location
+260,Weather,Weather,Usage data
+260,Weather,Weather,User behavior data
+269,Weather & Clock Widget,Weather,Advertising ID
+269,Weather & Clock Widget,Weather,Calendar Events
+269,Weather & Clock Widget,Weather,Cookies
+269,Weather & Clock Widget,Weather,Device Information
+269,Weather & Clock Widget,Weather,Geographical Information
+269,Weather & Clock Widget,Weather,IP Address
+269,Weather & Clock Widget,Weather,Performance Info of Device
+269,Weather & Clock Widget,Weather,Personal Data for EU users.
+269,Weather & Clock Widget,Weather,Scheduled Alarms
+269,Weather & Clock Widget,Weather,Social Media Data
+255,Weather by WeatherBug,Weather,Hyper-local weather data
+255,Weather by WeatherBug,Weather,Predictive energy efficiency insights.
+39,WebNovel,Books & Reference,Billing Details
+39,WebNovel,Books & Reference,Birth Date
+39,WebNovel,Books & Reference,Email Address
+39,WebNovel,Books & Reference,Facebook
+39,WebNovel,Books & Reference,Gender
+39,WebNovel,Books & Reference,Information from third Parties [Google
+39,WebNovel,Books & Reference,Personal Information [Name
+39,WebNovel,Books & Reference,Phone Number
+39,WebNovel,Books & Reference,Postal Address
+39,WebNovel,Books & Reference,Preferences
+39,WebNovel,Books & Reference,Twitter]
+39,WebNovel,Books & Reference,etc.]
+59,Webex Meetings,Business,Combined Information (from different sources)
+59,Webex Meetings,Business,Personal Data (for order processing
+59,Webex Meetings,Business,job applications)
+59,Webex Meetings,Business,newsletter subscription
+59,Webex Meetings,Business,website provision
+200,WhatTheFont,Productivity,IP Address
+200,WhatTheFont,Productivity,Information Related to Site Visit and Usage.
+200,WhatTheFont,Productivity,Mobile Device Identifiers
+200,WhatTheFont,Productivity,Personal Details during Registration
+209,WiFi Passwords Map Instabridge,Productivity,Country of Birth
+209,WiFi Passwords Map Instabridge,Productivity,Date of Birth
+209,WiFi Passwords Map Instabridge,Productivity,Device ID
+209,WiFi Passwords Map Instabridge,Productivity,Diagnostic Data
+209,WiFi Passwords Map Instabridge,Productivity,Email Address
+209,WiFi Passwords Map Instabridge,Productivity,Gender)
+209,WiFi Passwords Map Instabridge,Productivity,IP Address
+209,WiFi Passwords Map Instabridge,Productivity,Service Usage Information
+209,WiFi Passwords Map Instabridge,Productivity,Third-Party App Profile Information (Profile Picture
+209,WiFi Passwords Map Instabridge,Productivity,Username
+50,WipRecargas,Business,Address
+50,WipRecargas,Business,Any other necessary data for company's services
+50,WipRecargas,Business,Email
+50,WipRecargas,Business,Home Phone Numbers
+50,WipRecargas,Business,Mobile Phone Numbers
+50,WipRecargas,Business,Name
+50,WipRecargas,Business,Office Phone Numbers
+50,WipRecargas,Business,Sensitive personal data (racial or ethnic origin
+50,WipRecargas,Business,Work Information
+50,WipRecargas,Business,health condition
+50,WipRecargas,Business,moral beliefs
+50,WipRecargas,Business,philosophical beliefs
+50,WipRecargas,Business,political opinions)
+50,WipRecargas,Business,religious beliefs
+230,X,Social,Not Provided
+161,X-plore File Manager,Tools,App Version
+161,X-plore File Manager,Tools,Date of Reporting
+161,X-plore File Manager,Tools,Device Details
+161,X-plore File Manager,Tools,Stack Trace Information
+53,Xodo PDF Reader & Editor,Productivity,Not Provided
+62,Yahoo Mail – Organized Email,Communication,Not Provided
+256,Yahoo Weather,Weather,Personal Information
+79,Zello PTT Walkie Talkie,Communication,Account Information
+79,Zello PTT Walkie Talkie,Communication,Device Information
+79,Zello PTT Walkie Talkie,Communication,Location Data.
+79,Zello PTT Walkie Talkie,Communication,Site Interaction Contact Information
+79,Zello PTT Walkie Talkie,Communication,Social Media Interactions
+79,Zello PTT Walkie Talkie,Communication,Support Requests
+98,buzzArab Arab & Muslim Dating,Dating,Not Provided
+221,eBay: Online Shopping Deals,Shopping,Not Provided
+92,eharmony dating & real love,Dating,Contact Number
+92,eharmony dating & real love,Dating,Date of Birth]
+92,eharmony dating & real love,Dating,Dating Preferences
+92,eharmony dating & real love,Dating,Email Address
+92,eharmony dating & real love,Dating,Mailing Address
+92,eharmony dating & real love,Dating,Personal Information [Name
+92,eharmony dating & real love,Dating,Photos
+92,eharmony dating & real love,Dating,Proprietary Questionnaire Answers
+252,fitpro,Tools,Advertising optimization data.
+252,fitpro,Tools,Analytics and research data
+252,fitpro,Tools,Security data
+252,fitpro,Tools,Server load data
+252,fitpro,Tools,User identities
+252,fitpro,Tools,User's preferred settings
+252,fitpro,Tools,Usernames
+137,happn - Dating App,Lifestyle,Not Provided
+227,hotukdeals - Deals & Discounts,Shopping,Account Information (Email Address
+227,hotukdeals - Deals & Discounts,Shopping,Additional Information (First Name
+227,hotukdeals - Deals & Discounts,Shopping,Cookies (Preferences and Login Information)
+227,hotukdeals - Deals & Discounts,Shopping,Date
+227,hotukdeals - Deals & Discounts,Shopping,Discussions)
+227,hotukdeals - Deals & Discounts,Shopping,Followers)
+227,hotukdeals - Deals & Discounts,Shopping,IP Address)
+227,hotukdeals - Deals & Discounts,Shopping,Last Name)
+227,hotukdeals - Deals & Discounts,Shopping,Log Data and Device Information (Time
+227,hotukdeals - Deals & Discounts,Shopping,Responses to Surveys
+227,hotukdeals - Deals & Discounts,Shopping,Username)
+227,hotukdeals - Deals & Discounts,Shopping,Your Activity (Deals
+227,hotukdeals - Deals & Discounts,Shopping,Your Trends (Likes Received
+214,iCECC,Productivity,Not Provided
+129,myChevrolet,Lifestyle,Unique identifiers through IP address or VIN
+129,myChevrolet,Lifestyle,accessed URLs.
+129,myChevrolet,Lifestyle,activity details
+129,myChevrolet,Lifestyle,browser type
+129,myChevrolet,Lifestyle,data measured from email campaigns
+129,myChevrolet,Lifestyle,demographic data
+129,myChevrolet,Lifestyle,pages visited
+265,myCuaca,Weather,Cookies
+265,myCuaca,Weather,Log Data (Device IP address
+265,myCuaca,Weather,Personally Identifiable Information
+265,myCuaca,Weather,User Identification Data
+265,myCuaca,Weather,app configuration
+265,myCuaca,Weather,device name
+265,myCuaca,Weather,operating system version
+265,myCuaca,Weather,time and date of Service use
+265,myCuaca,Weather,various statistics)
+42,myJDW,Business,Various types of personal data
+42,myJDW,Business,data for business development.
+42,myJDW,Business,data for website update
+42,myJDW,Business,data related to customer feedback
+244,noteit widget - by sendit,Social,Not Provided
+149,pCloud: Cloud Storage,Productivity,Browser type
+149,pCloud: Cloud Storage,Productivity,Device information
+149,pCloud: Cloud Storage,Productivity,IP address
+149,pCloud: Cloud Storage,Productivity,Operating system
+149,pCloud: Cloud Storage,Productivity,Purchase history
+149,pCloud: Cloud Storage,Productivity,Website usage patterns.
+236,pixiv,Social,Not Provided
+63,tellows - Caller ID & Block,Communication,Access times)
+63,tellows - Caller ID & Block,Communication,Contact Data (Phone Number
+63,tellows - Caller ID & Block,Communication,Email)
+63,tellows - Caller ID & Block,Communication,Entry Data (Text/comment entry
+63,tellows - Caller ID & Block,Communication,Log Files
+63,tellows - Caller ID & Block,Communication,Master data (Name)
+63,tellows - Caller ID & Block,Communication,Meta data (IP address)
+63,tellows - Caller ID & Block,Communication,Referrer URL
+237,textPlus: Text Message + Call,Social,Browsing Habits)
+237,textPlus: Text Message + Call,Social,Contacts on Device
+237,textPlus: Text Message + Call,Social,Cookies and Web Beacons Data
+237,textPlus: Text Message + Call,Social,Email)
+237,textPlus: Text Message + Call,Social,IP Address
+237,textPlus: Text Message + Call,Social,Location Data
+237,textPlus: Text Message + Call,Social,Location Information
+237,textPlus: Text Message + Call,Social,Message Data
+237,textPlus: Text Message + Call,Social,Mobile Number
+237,textPlus: Text Message + Call,Social,Operating System
+237,textPlus: Text Message + Call,Social,Personal Information (Name
+237,textPlus: Text Message + Call,Social,Usage Data (Device Type
+109,tinyCam Monitor,House & Home,App Settings.
+109,tinyCam Monitor,House & Home,Camera Access Information (hostname/IP address
+109,tinyCam Monitor,House & Home,Email Notification Data
+109,tinyCam Monitor,House & Home,FTP server hostname or IP address
+109,tinyCam Monitor,House & Home,Video Storing Data (name of cloud service provider
+109,tinyCam Monitor,House & Home,access credentials)
+109,tinyCam Monitor,House & Home,login details
+109,tinyCam Monitor,House & Home,model
+109,tinyCam Monitor,House & Home,networking protocol)
+109,tinyCam Monitor,House & Home,preferred naming

@@ -1,0 +1,274 @@
+app_id,app_name,category_name,data_collected
+269,Weather & Clock Widget,Weather,"Geographical Information, Device Information, Calendar Events, Scheduled Alarms, IP Address, Advertising ID, Performance Info of Device, Social Media Data, Cookies, Personal Data for EU users."
+78,LINE: Calls & Messages,Communication,"Public profile information, Phone number, Email address, LINE ID, Contacts, Service history, Location information"
+183,Cymera - Photo Editor Collage,Photography,"ID, Purchase History, Company Name, Contact Details"
+149,pCloud: Cloud Storage,Productivity,"IP address, Browser type, Operating system, Device information, Purchase history, Website usage patterns."
+19,Beauty Makeup Editor & Camera,Beauty,"Photographs, App Usage History, Purchase History, Social Media Information, Device Data, Online Activity Data"
+43,Intune Company Portal,Business,"Favourite Locations, Search history, Location Data, Aggregated User Account Data, SMS and MMS Messages, Emails, Calendar Items, Files, Contacts, Settings."
+45,Microsoft Authenticator,Business,"De-identified location data, User's favorite places, Recent map searches, Location data from photos and videos, Photos, Videos, Contacts from connected accounts, Emails, Calendar items, SMS and MMS messages."
+235,Text Free: Call & Texting App,Social,"Personal Information [Names, Addresses, Emails, Phone numbers, Billing information], App Data [Period of usage, IP addresses, Device identifiers, Browser-specific data, User behaviour data], Shared Data [Text, Audio, Video, Photos, Contacts]"
+150,File Manager,Tools,"Access Storage, Access Files, Google Drive Permission, Cookies, Personal Information (for communication, service improvement and law compliance)"
+227,hotukdeals - Deals & Discounts,Shopping,"Account Information (Email Address, Username), Additional Information (First Name, Last Name), Your Activity (Deals, Discussions), Responses to Surveys, Your Trends (Likes Received, Followers), Log Data and Device Information (Time, Date, IP Address), Cookies (Preferences and Login Information)"
+79,Zello PTT Walkie Talkie,Communication,"Account Information, Device Information, Support Requests, Site Interaction Contact Information, Social Media Interactions, Location Data."
+145,File Manager,Tools,"Account Information, Email Addresses, Usage Data (Cookies, IP addresses), Non-Personally Identifiable Information (User Clicks, Browsing Behaviors, Page Access Event)"
+243,NGL: anonymous q&a,Social,"Account Information, Messages Sent to App Users, Feedback or Correspondence, Usage Information, Device Data (Operating System Type and Version, IP Address, General Location Information), Online Activity Data."
+189,"CamScanner- scanner, PDF maker",Productivity,"Account Information, User-Generated Content, Transaction Details, Device Data, Cookies, Data from Third-Party Sources."
+107,Houzz - Home Design & Remodel,House & Home,"Account and Profile Information, Content Submitted, Purchase Information, Communications and Information Provided for Surveys and Contests, Personal Information from Other Platforms, Publicly Available Information, Information from Other Users, Information from Partners, Service Providers, and Corporate Affiliates, Information from Third-Party Sites"
+257,1Weather: Forecast & Radar,Weather,"Account creation details, Purchase details related to third-party services, Communication with the company, Survey participation details, Business development data, IP address, Mobile carrier, Advertising identifiers, Device information, Language settings, App versions, Interaction details with the application and the ads on the device, Precise location information, Data from third-party services and organizations"
+130,Smart Life - Smart Living,Lifestyle,"Account details, User feedback, Additional function details (location information, camera, albums, microphone, storage, notifications, Bluetooth, health functions), Mobile device information, Usage data, Log information, Smart device data"
+127,Santa Biblia Reina Valera 1960,Lifestyle,"Activity Information, Personal Information (If user chooses to provide), Sensitive Information (If user chooses to provide)"
+260,Weather,Weather,"Activity data, Cookies, Location, Usage data, User behavior data, Current location estimation (if location services are enabled)"
+191,MEGA,Productivity,Analytics Cookies
+146,MEGA,Productivity,Analytics Cookies Usage Data
+23,African Print fashion ideas,Beauty,"Anonymous Data, Usage Data through Google Analytics and Google Firebase."
+35,ReadEra – book reader pdf epub,Books & Reference,"Anonymous Technical Data (Error Reports, Technical Diagnostics, Anonymous User-Interaction Statistics)"
+12,Pixel Studio: pixel art editor,Art & Design,"App usage data, User name, Email, Game-related information, Ad ID, Device ID, Location."
+88,Match: Dating App for singles,Dating,"Basic Profile Details and Preferences, Usage Information of Services, Information from Third Party Social Media Accounts, Personal Information of Job Candidates, Contractors, and Vendor Representatives, Recognition Data through Cookies and Similar Technologies."
+31,PDF Reader,Books & Reference,"Browser Details, IP, Platform, Timestamps, Identifiers, Device Model Details, Session Timings, Language and Location, Network Status, Hardware Information."
+97,MexicanCupid: Mexican Dating,Dating,"Browsing Data, Personal Data"
+109,tinyCam Monitor,House & Home,"Camera Access Information (hostname/IP address, login details, model, preferred naming, networking protocol), Video Storing Data (name of cloud service provider, FTP server hostname or IP address, access credentials), Email Notification Data, App Settings."
+273,WZZM 13 Weather,Weather,"Contact Data, Registration Data, Communications, Marketing Data, Other Information, Data from Other Sources."
+38,Bible Gateway,Books & Reference,"Contact Details, Geolocation Data, Behavioral Data (Pages Visited, Time Spent Using Services), Data from Third-party Social Media Network (Facebook, Google)"
+104,Homestyler-Room Realize design,House & Home,"Contact Details, Purchase Information, Support Requests, Complaints, Event-related Information, Social Media Account Details, Market Research Data (Marital Status, Nationality, Income, Preferences), Correspondences with Homestyler, Platform Use Details, Social Media Posts/Comments, Third-party Information (for money laundering, fraud checks, ""Know Your Customer"" checks)"
+225,Mercari: Your Marketplace,Shopping,"Contact Information, Financial Information, Additional Personal Details, Third Party Identity Verification Data, Device Information, Software Information, Language Settings, Access Logs, IP Address, Device ID, Cookies."
+71,Samsung Internet Browser,Communication,"Contact Information, Payment Card Information, User Coupon or Gift Card Number, Date of Birth, Demographic Data, Samsung Account Information, Information from Third-Party Devices, User-Generated Content, Voice Recordings, Chat Session Records, Purchase Details, Location Data, Automatically Generated Data"
+231,Pi Network,Social,"Contact and identity information, User-generated content, Network transaction information, Survey responses, Marketing interest, Know Your Customer Verification Information, Information about users from other users and companies."
+218,AfterShip Package Tracker - Tr,Shopping,"Contact details, Account credentials, Transaction details, Cookies for website experience, security, and data analysis."
+148,Samsung My Files,Tools,"Contact information, Payment card information, Demographic data, Voice recordings, Location data, Device-specific information, Information from public or commercially-available sources, Information from third parties, Automated data generation."
+73,Kiwi Browser - Fast & Quiet,Communication,"Cookies, Usage Data, Various Services and Device Data (with consent)"
+176,A+ Gallery - Photos & Videos,Photography,"Customer Support Information, Contact Information [Email, Third Party Social Network Accounts], Media Content [Photos, Media Files], Device's Camera and Microphone Access, Usage Information, Internet Permissions, IP Address and Mobile Advertising ID for ad-supported apps."
+161,X-plore File Manager,Tools,"Date of Reporting, App Version, Device Details, Stack Trace Information"
+211,RecargaMarcas TAE,Productivity,"Device Model, Operating system Name, Equipment Version, IP Location, Image Gallery (if user authorizes)"
+181,Bestie - Camera360 Selfie,Photography,"Device Permissions (Camera, Microphone, Bluetooth), Cookies, Web Beacons, Pixel Tags"
+6,How to Draw Anime Eyes,Art & Design,"Device Type, Unique Device ID, IP Address, Mobile OS, Internet Browser Type, App Usage Information."
+27,Mirror - Zoom & Exposure -,Beauty,"Device Unique Identification Numbers (Device ID or IMEI), Account State Information, Photographs, Cookies, Service Use History."
+103,Night Owl Protect,House & Home,"Device and Usage Information, User Account Information"
+157,AnExplorer TV File Manager,Tools,"Device and other ID, IP Address, Operating System Version, App Configuration, Service Usage Statistics, Potentially Identifying Information via Third-Party Services, Personal Data stored on user's device, Data of individuals under 13"
+21,Spiral Photo & Video Editor,Beauty,"Device's IP Address, Operating System Version, App Usage Details, Other Statistics (through third-party products in case of an app error), Cookie Data (through third-party code and libraries)."
+125,Santa Biblia Reina Valera,Lifestyle,"Email, Device Model Number, Operating System Version, Country Code, User Accounts, Internet Data, Network Connections, USB Storage Access/Modifications, Device Sleep Prevention Status"
+264,Doppler 9&10 Weather Team,Weather,"Full names, Email addresses, Demographic information, Geolocation, IP addresses, User activity data, Cookie data"
+255,Weather by WeatherBug,Weather,"Hyper-local weather data, Predictive energy efficiency insights."
+200,WhatTheFont,Productivity,"IP Address, Mobile Device Identifiers, Personal Details during Registration, Information Related to Site Visit and Usage."
+25,Long Nail Designs,Beauty,"IP Addresses, Browser Type, ISP, Referring and Exit Pages, Platform Type, Date/Time Stamp, Click Numbers"
+222,AppsFree,Shopping,"IP address, Device Name, Operating System Version, App Configuration, Time and Date of Service Usage, Other Statistics, Cookies."
+160,File Manager - File Explorer,Productivity,"Identifiable Personal Information, Information from Third-Party Services, Log Data (IP Address, Device Name, Operating System, App Configuration, Usage Time, Stats), Cookies Usage Information"
+206,Boot Apps,Productivity,Identifiable user information through Google Play Services and AdMob.
+72,VozApp,Communication,"Identification Data, Academic and Professional Data, Occupational Data, Commercial Information, Economic, Financial and Insurance Data, Sensitive Data"
+133,Puffco Connect,Lifestyle,"Identifiers, Purchase Information, Technical and Usage Data, Location Details"
+139,MyDyson™,Lifestyle,"Information from Dyson's websites, the My Dyson app, and connected machines."
+201,My Vodafone,Productivity,"Interactions with Vodafone, Connectivity Services Usage Detail, Device Information, Location Details, My Vodafone App Usage Details"
+248,Secure VPN－Safer Internet,Tools,"Internet Service Provider, Device OS Version, Manufacturer, Model, App Version, Device Language, Connection Time, Data Transferred"
+57,"Resume Builder App, CV maker",Business,"Log Data, Device Information (IP address, device name, operating system, app configuration, usage time), User's Information, Third-party Services Data, Cookies."
+63,tellows - Caller ID & Block,Communication,"Master data (Name), Contact Data (Phone Number, Email), Entry Data (Text/comment entry, Access times), Meta data (IP address), Log Files, Referrer URL"
+95,"Mobifriends: Date, meet people",Dating,"Name or Alias, Birthdate, Province, City, Gender, Email, Physical Characteristics, Personality Traits, Hobbies, Interests, Activity Data (login times, feature usage, searches, clicks, referral websites, communications data), Payment Details (credit or debit card details or PayPal account information)"
+155,FX File Explorer,Business,Not Provided
+246,"Octopus - Gamepad, Keymapper",Tools,"Non-Personal Information, Session and Available Data, Login Data, Summary Information"
+20,Haircuts Men 2023,Beauty,"Non-personal Information (Device technical details, Geographical location), Personal Identifiable Information (PII) (Age, Nationality, Educational level, Username, Password)"
+142,Cloud Storage,Business,Not Provided
+58,FX File Explorer,Business,Not Provided
+217,Walmart: Shopping & Savings,Shopping,Not Provided
+137,happn - Dating App,Lifestyle,Not Provided
+214,iCECC,Productivity,Not Provided
+154,Box,Business,Not Provided
+53,Xodo PDF Reader & Editor,Productivity,Not Provided
+67,MyBell,Communication,Not Provided
+123,SmartThings,Lifestyle,Not Provided
+62,Yahoo Mail – Organized Email,Communication,Not Provided
+241,"Tumblr—Fandom, Art, Chaos",Social,Not Provided
+242,"SKOUT - Meet, Chat, Go Live",Social,Not Provided
+234,Monkey - random video chat,Social,Not Provided
+207,Google Slides,Productivity,Not Provided
+228,17TRACK Package Tracker,Shopping,Not Provided
+131,Every Timer-WiFi/Bluetooth/Sou,Lifestyle,"Payment Record, Country, Version, Carrier, Device Type."
+136,Tuya Smart,Lifestyle,"Personal Biometric Information, Communication Records and Contents, Health Information, Transaction Information, Precise Location Information"
+115,Vivitar Smart Home Security,House & Home,"Personal Data (User's name, age, gender, contact details, interests), Derivative Data (IP address, device and interaction information), Financial Data (Payment method information), Social Network Information (User's name and contacts on platforms), Mobile App Data (Geolocation information and mobile device data), Survey/Contest Data, Cookies (User behavior on the site), Google Maps APIs Data."
+59,Webex Meetings,Business,"Personal Data (for order processing, website provision, newsletter subscription, job applications), Combined Information (from different sources)"
+101,Spdate - meet singles nearby o,Dating,"Personal Data (photographs, birthdates, locations), User-generated content (text, images, videos), Anonymous information for advertising purposes"
+174,Phonto - Text on Photos,Photography,"Personal Data (which can identify a user), Cookies and Usage Data, Tracking and Cookies Data, Usage Data from the Service or its Infrastructure."
+114,British Gas,House & Home,"Personal Data from Various Services/Products, Glen Dimplex Quantum Tariff Data"
+26,Luvme Hair,Beauty,"Personal Data, Direct Information, Automatic Information (through cookies), Additional Information from other sources, Location Data, Device Identifiers, Sensitive User Data"
+93,AfroIntroductions: Afro Dating,Dating,"Personal Data, Special Category Personal Data, Cookies and Other Tracking Technologies, Full Truthful and Accurate Information."
+14,Ai Anime Face Changer,Art & Design,"Personal Data, User Identification Information, Log Data (including Device's IP Address, Device Name, Operating System Version, App Configuration, Usage Date and Time)"
+111,Home Security Camera WardenCam,House & Home,"Personal Identification Information (voluntarily submitted by users), Non-personal Identification Information (browser name, type of computer, technical information about the user's connection to the site), Cookies Information"
+184,Camera360:Photo Editor&Selfie,Photography,Personal Information
+28,Wattpad - Read & Write Stories,Books & Reference,Personal Information
+256,Yahoo Weather,Weather,Personal Information
+270,KY3 Weather,Weather,"Personal Information (Identification and Contact Information, Financial Data, Professional or Employment Data), Demographic Information, Sensitive Information, Geolocation Data, Analytic Data, Device or System Data, Location Information (from user's device), Social Network Data, Cookies and Similar Technologies for Advertising."
+198,File Manager,Productivity,"Personal Information (Name, Email, Age, Gender, Transaction Details, Credit Card Information, Contact Details), Access to Photo Library, Installed Application List, External SD Card, Data from Cloud Services, Mobile Device and Application Usage Data"
+49,Recargas tu Cell,Business,"Personal Information (Name, Email, Billing Address, Phone Number), User Inputs (Cell Phone Numbers of Beneficiaries), Device and Other ID (IP Address, Geolocation), Cookies (Strictly Necessary, Functional, Analytical Information), Advertising Number"
+237,textPlus: Text Message + Call,Social,"Personal Information (Name, Mobile Number, Email), Usage Data (Device Type, Operating System, IP Address, Location Information, Browsing Habits), Message Data, Contacts on Device, Cookies and Web Beacons Data, Location Data"
+16,"Mockup Creator, T-shirt Design",Art & Design,"Personal Information (anonymity-based), Log Data (device IP address, device name, OS version, app configuration, service usage time and date, other relevant statistics)"
+52,Expedia Group Partner Central,Business,"Personal Information (as needed to manage bookings, process payments, create accounts, send marketing communications), Financial and Tax-related Information"
+29,JW Library,Books & Reference,Personal Information (including Contact Details)
+5,Bazaart Photo Editor & Design,Art & Design,"Personal Information (through Google, Meta, or Apple's identity methods), Usage Information."
+249,Cx File Explorer,Tools,"Personal Information [Name, Email, Age, Gender, Transaction Details, Support Queries, Credit Card Details], Device's Photos, External SD Card Data, List of Installed Apps, Device Information, Usage Patterns, Browser Information."
+106,SURE - Smart Home and TV Unive,House & Home,"Personal Information [Name, Email], Health Information [Name, Email, Date of Birth, Gender, Photo, Phone, Health Data], Non-Personal Information [Location, IP Address, Browser Type, Operating System, Device Info], Cookies and IP Address (through Google Analytics)"
+195,Quick Settings for Android,Productivity,"Personal Information from surveys or app, Device Type, Application Version, Mobile Operating System, Advertising ID, Ads Data, Information related to user invites"
+126,MY FamilyMart,Lifestyle,"Personal Information, Account Management Data, Identity Verification Data, Loyalty Programs Information, App Usage, Interaction Data, Shopping Habits, Purchased Products and Services, Website Browsing Patterns, CCTV Footage, Online Behavior Data, Communication Information."
+89,Chispa: Dating App for Latinos,Dating,"Personal Information, Cookies and Similar Technologies"
+70,2ndLine - Second Phone Number,Communication,"Personal Information, Device Information, Navigational Information, Location Information"
+46,Docx Reader PDF Viewer Word,Business,"Personal Information, IP Address, Device Name, Operating System Version, App Configuration, Service Usage Time and Date, Cookies."
+263,KRGV FIRST WARN 5 Weather,Weather,"Personal Information, Identifiable Information, User Information through Third-Party Services"
+83,WAMR: Undelete messages!,Communication,"Personal Information, Local Backup Data, Error Log Data, Device's IP Address, Device Name, Operating System Version, App Configuration, Usage Time, Google Analytics Data"
+7,Infinite Design,Art & Design,"Personal Information, Log Data (IP address, device name, operating system version, app configuration, usage time, other statistics), Cookies or similar data files by third-party code and libraries."
+232,Reddit,Social,"Personal Information, Personalized ads info, First and third-party cookies, Information collected via Google Analytics Opt-out Browser Add-on, Audience Measurement services from Nielsen and Quantcast, IP derived location information."
+55,Me@Walmart,Business,"Personal Information, Sensitive Personal Information"
+8,Clip Studio Paint,Art & Design,"Personal Information, Site visit history (via cookies)"
+162,EX File Manager :File Explorer,Tools,"Personal Information, User Identifier Information, Log Data [Device IP Address, Device Name, Operating System Version, App Configuration, Usage Statistics], Cookie Data"
+128,Tesla,Lifestyle,"Personal data, Autopilot Analytics & Improvements, Road Segment Data Analytics, Data from product purchases, Promotional communication data, Vehicle control and access data."
+196,OPPO Clone Phone,Productivity,"Personal data, Marketing information, Promotional activity data"
+138,The Badass App,Lifestyle,"Personal or Company Contact Information, User Account Information, Information about User's Inquiries, Purchases or Subscriptions, IP addresses, Cookie Data, Data from Google Analytics and First and Third-Party Cookies."
+204,Apps Manager - Your Play Store,Productivity,"Personally Identifiable Information (kept on device), Log Data (IP Address, Device Name, OS Version, App's Configuration, Service Usage Time and Date, App usage statistics), Identifiable user information by third-party services."
+18,Easy fun hairstyles for girls,Beauty,"Personally Identifiable Information (requested but not directly collected by the app), User Identifiable Information (through third-party services and cookies)"
+134,SwingLifeStyle (SLS),Lifestyle,"Personally Identifiable Information, Aggregate Information"
+37,Moon+ Reader,Books & Reference,"Personally Identifiable Information, Log Data (IP Address, Device Name, Operating System Version, App Configuration, Usage Time and Date), Other Statistics."
+40,How to Draw XXXTentacion,Books & Reference,"Personally Identifiable Information, Log Data [IP Address, Device's Name, Operating System Version, App Configuration, Time, Date, Usage Statistics], Cookies"
+36,"Librera Reader: for PDF, EPUB",Books & Reference,"Personally Identifiable Information, Third Party Identification Information, Log Data (IP address, device name, operating system version, app configuration, app usage time and date, other statistics), Cookies Information."
+265,myCuaca,Weather,"Personally Identifiable Information, User Identification Data, Log Data (Device IP address, device name, operating system version, app configuration, time and date of Service use, various statistics), Cookies"
+124,Rightmove Property Search,Lifestyle,"Property data, Personal contact details, Technical data, Mortgage information, Tenant references, Financial data, Employment details, Education details, Lifestyle details."
+118,Remote Control for Roku TV,House & Home,"SDK/API/JS code version, Browser Type, Internet Service Provider, IP Address, Timestamp, Application Version, Platform, Device Identifiers."
+169,B612 AI Photo&Video Editor,Photography,"SNS ID, Profile Image, User Profile Data, Location Information, Device Information"
+102,Universal TV Remote Control,House & Home,"Site visits, Traffic details, Most visited pages, Site navigation patterns."
+2,Infinite Painter,Art & Design,"Specific Personal Identifiable Information, User's Data (Google Play Services, Google Analytics for Firebase, and Firebase Crashlytics), Log Data (IP address, Device Name, OS Version, App Configuration, Service Usage Time and Date, Various Stats), Cookies (third-party code and libraries)"
+122,AttaPoll - Paid Surveys,Lifestyle,"Survey responses, information provided through the application or website, Email content, Location data, Device information, User testimonials, Demographic information, User profile information."
+158,Amaze File Manager,Tools,"System Logs, Device Manufacturer Information, IP Address, Device Name, Operating System Version, App Configuration, Time and Date of Service Usage, Authentication for Cloud Accounts"
+48,Duo Mobile,Business,The text does not provide specific information about data that is collected by Cisco.
+87,CooMeet: Video Chat with Girls,Dating,"Trackers, Usage Data, Personal Data"
+15,Maskot - Gaming Logo Maker,Art & Design,"Type of mobile device, Unique device ID, IP address, Mobile operating system, Type of internet browser, Usage pattern of apps and games, App usage frequency, App usage duration, Ad engagement data"
+129,myChevrolet,Lifestyle,"Unique identifiers through IP address or VIN, demographic data, browser type, pages visited, activity details, data measured from email campaigns, accessed URLs."
+203,Adobe Acrobat Reader: Edit PDF,Productivity,"Usage Data, Contact Information, Identifier Information, Public User Data (Names, Interests), Audio and Visual Data, Hardware and Software Data, Biometric Identifiers or Biometric Information."
+113,Real Estate sale & rent Trovit,House & Home,User Ads data
+173,Camera Editor- Sweet Selfie,Photography,"User Chats, Published Content, Data from Other Users, Social Media Data, Technical Log Information, Device Information, Ad campaign details, Cookies and Similar Technologies used for Analytics and Advertising"
+110,TV Remote for LG  (Smart TV Re,House & Home,"User Engagement Data (via Google Analytics), Microphone Access Data."
+34,Aldiko Next,Books & Reference,"User Number, Cookies Information (Process Cookies, Security Cookies, Statistical Cookies), Interaction Information with the Application (via Google Analytics), Form Registration Data, ID Forms Data, User Profile Data, Comment and Post Data, Book Rating Data, Newsletter Subscription Data."
+223,Gumtree: local classified ads,Shopping,User Personal Data
+100,BLK Dating: Meet Black Singles,Dating,"User Profile Information, User Activity Information, Third-Party Service Information, Sensitive Data (with consent), Information for Service Enhancement, Information for Safety Improvement, Information for Advertising Purposes"
+144,File Manager,Productivity,"User Provided Information (personal details, transaction-related information, contact information), Device Information, Shared Device Storage Information, Unique Device IDs."
+33,Gospel Library,Books & Reference,"User Submitted Data, Third Party Data, Data from Communication with the Church"
+213,HP Smart,Productivity,User data (Specific information not provided)
+178,Photo Editor,Photography,"User data retained for legal obligations, dispute resolutions, legal agreements, and policies, Usage data for internal analysis and service enhancement."
+252,fitpro,Tools,"User identities, User's preferred settings, Security data, Usernames, Server load data, Analytics and research data, Advertising optimization data."
+259,Radar Doppler Jalisco,Weather,User's Email
+17,Mi Pedido Arabela,Beauty,"User's Name, Email, Phone Number."
+135,Bagan - Myanmar Keyboard,Lifestyle,"User's Personal Data, IP Address, Interaction files, System logs"
+152,Cx File Explorer,Tools,"User-Provided Information (Name, Email, Age, Gender, Transaction Details, Support Contact Data, Credit Card Information), Device Information (Photo Library, List of Installed Applications, External SD Card), Shared Device Storage, Cloud Service User Data, Automated Information (Device Type, Unique Device ID, Device IP Address, Mobile Operating System, Browser Type, App Usage Information)"
+108,Universal TV Remote Control,House & Home,"User-provided Data, Interaction Data, Survey Participation Information, Device and App Access Details, Internet Connection Information, and Data through Third-party SDKs."
+30,Stats Royale for Clash Royale,Books & Reference,User-submitted information
+42,myJDW,Business,"Various types of personal data, data related to customer feedback, data for website update, data for business development."
+94,BBWCupid: BBW Dating Plus Chat,Dating,"Visiting Statistics, Personal Data on Registration, Cookies and Tracking Technologies"
+13,Krita,Art & Design,Website Usage (via Cookies)
+54,EverConnect,Business,"Windows ID, First and Last Name, Login Credentials (Username and Password)"
+4,Easy Pose - 3D pose making app,Art & Design,Not Provided
+9,Adobe Express: Graphic Design,Art & Design,Not Provided
+10,ArtFlow: Paint Draw Sketchbook,Art & Design,Not Provided
+11,Meme Generator Meme Maker,Entertainment,Not Provided
+24,LuLuApp,Beauty,Not Provided
+32,Google Play Books & Audiobooks,Books & Reference,Not Provided
+41,Microsoft Teams,Business,Not Provided
+44,"Adobe Scan: PDF Scanner, OCR",Business,Not Provided
+51,LinkedIn: Jobs & Business News,Business,Not Provided
+56,JobStack | Find a Job | Find T,Business,Not Provided
+60,Side - flex jobs & temp work,Business,Not Provided
+64,Talkatone: Texting & Calling,Communication,Not Provided
+65,"UC Browser-Safe, Fast, Private",Communication,Not Provided
+66,"Brave Private Web Browser, VPN",Communication,Not Provided
+68,Psiphon Pro,Communication,Not Provided
+69,Telegram,Communication,Not Provided
+74,Skype,Communication,Not Provided
+75,Psiphon,Communication,Not Provided
+76,Puffin Cloud Browser,Tools,Not Provided
+77,UC Mini-Download Video Status ,Communication,Not Provided
+81,QQ,Communication,Not Provided
+82,Messenger Kids – The Messaging,Communication,Not Provided
+85,BiggerCity: Gay bears & chubs,Dating,Not Provided
+90,LatinAmericanCupid: Latin Chat,Dating,Not Provided
+98,buzzArab Arab & Muslim Dating,Dating,Not Provided
+99,"Fotka - dating, chat and flirt",Dating,Not Provided
+105,Vivint,House & Home,Not Provided
+120,Pinterest,Lifestyle,Not Provided
+121,Google Home,Lifestyle,Not Provided
+140,Icedrive #Secure Cloud Storage,Productivity,Not Provided
+141,TeraBox: Cloud Storage Space,Tools,Not Provided
+147,Microsoft OneDrive,Productivity,Not Provided
+153,Solid Explorer File Manager,Productivity,Not Provided
+156,Proton Drive: Cloud Storage,Productivity,Not Provided
+163,ESuper File Explorer,Tools,Not Provided
+165,RAR,Tools,Not Provided
+166,Parallel Space - app cloning,Personalization,Not Provided
+167,Video Editor & Maker - InShot,Photography,Not Provided
+168,Lightroom Photo & Video Editor,Photography,Not Provided
+170,Open Camera,Photography,Not Provided
+171,Photoshop Express Photo Editor,Photography,Not Provided
+172,ToonMe - cartoons from photos,Photography,Not Provided
+177,Remove BG - Background Eraser,Photography,Not Provided
+180,Background Eraser,Photography,Not Provided
+182,NewProfilePic: Profile Picture,Photography,Not Provided
+186,Film Maker Pro - Movie Maker,Photography,Not Provided
+187,Microsoft Word: Edit Documents,Productivity,Not Provided
+188,MediaFire,Productivity,Not Provided
+190,Microsoft 365 (Office),Productivity,Not Provided
+192,Microsoft PowerPoint,Productivity,Not Provided
+193,Microsoft Excel: Spreadsheets,Productivity,Not Provided
+194,Microsoft Outlook,Productivity,Not Provided
+199,Microsoft SwiftKey AI Keyboard,Personalization,Not Provided
+202,New PDF Reader,Productivity,Not Provided
+210,Microsoft OneDrive,Productivity,Not Provided
+215,OfferUp: Buy. Sell. Letgo.,Shopping,Not Provided
+220,"SmartCanucks - Flyers, Deals &",Shopping,Not Provided
+221,eBay: Online Shopping Deals,Shopping,Not Provided
+230,X,Social,Not Provided
+236,pixiv,Social,Not Provided
+238,Chikii-Play PC Games,Social,Not Provided
+240,Jack’d - Gay Chat & Dating,Social,Not Provided
+244,noteit widget - by sendit,Social,Not Provided
+245,REALITY-Become an Anime Avatar,Social,Not Provided
+247,GeForce NOW Cloud Gaming,Entertainment,Not Provided
+250,RAR,Tools,Not Provided
+251,DuckDuckGo Private Browser,Tools,Not Provided
+253,Namso Gen,Tools,Not Provided
+254,Samsung My Files,Tools,Not Provided
+262,KFVS12 First Alert Weather,Weather,Not Provided
+266,WKYC Weather,Weather,Not Provided
+268,MyRadar Weather Radar,Weather,Not Provided
+271,WVLT Weather,Weather,Not Provided
+272,Dark Sky - Hyperlocal Weather,Weather,Not Provided
+216,PromoDescuentos: ofertas,Shopping,"Account Information (email address, username, password), Additional Information (name, surname, description), Activity data (offers, discussions, comments, saved posts, likes, alerts, filters, searches, private messages), Survey Responses (email address, behavior data), Trends (received likes, followers, offer statistics), Behavior Data (page views, clicks, data duration, likes, active filters, alerts, searches), Log and Device Information (time, date, IP address), Information from business partners (with consent): Account Information, Phone number, Order Data, Survey Responses, Behavior Data, Log and Device Information."
+164,File Manager,Tools,"Basic Personal Information (Phone Number, Name, Birthday, Nationality, Age, City, Account Details, User Information), Service Data (Device Info and Operation Status, Location, Product Details, Cookie Information, Third-party Application IDs)"
+1,Sketchbook,Art & Design,"Contact Information, App Usage, Responses to Surveys, Communication Requests, Email, Name, IP Address, Feedback, Country of Residence, Occupational Details, Cookies and Similar Technologies."
+179,PixelLab - Text on pictures,Photography,"Cookies, Usage Data, Unique Device Identifiers, Geographic Position, Email Address, User's First Name"
+185,Retrica,Photography,"Email Address, First Name, Last Name, Cookies, Usage Data, Sex, Birthdate or Age"
+143,Degoo: 20 GB Cloud Storage,Productivity,"Email Address, Mobile Number, Password, Payment Details"
+112,"PRIME Wire and Cable, Inc.",House & Home,"Email Address, Mobile Phone Number, Device Related Information (IMEI Number, PRIME Smart Device ID), Location Details, PRIME Account Information, Product Purchase Information, PRIME Smart Device Activation Data, Synchronized Device Data, Content Shared, Service Processing Data, Anonymous Statistics Related to Product Use."
+229,Kijiji: Buy and sell local,Shopping,"Email Address, Password, Personal Information given during service use, User's information from third-party services"
+205,"WPS Office-PDF,Word,Sheet,PPT",Productivity,"Email Address, Postal Address, Other Personal Data, Non-Personal Data (Device Identifier), Location Data, Technical Data, Operational Data, Cookies and Web Beacons Usage Data, Aggregate Web Traffic Routing Data."
+96,ColombianCupid Colombia Dating,Dating,"Full Name, Email, Address, Phone Number, Occupation, Appearance Description, Racial or Ethnic Origin, Religious Beliefs, Sexual Orientation, Browser Type, IP Address, Pages Viewed, Visit Dates and Times."
+86,Hinge Dating App: Meet & Date,Dating,"Gender, Date of Birth, Sexual Orientation, User Interactions, Social Media Account Data, Suspicious Activity Data, Service Usage Data, Device Information"
+117,AQ STAR,House & Home,"IP Address, User ID, Device Type and ID Number, Usage Data, Crash Data, Product Specifications, Accessory Names, Location Information (if geo-fencing is enabled), User's Name/Nickname, Email Address, Password, Gender, Age, Country, Product Configuration, Full Name (when making a purchase), Payment Information, Billing and Shipping Address, Telephone Number, Invoice, Order Records."
+261,WBKO First Alert Weather,Weather,"Identification Information (Account Information, Name, User Credentials), Contact Information (Email Address, Street Address, Phone Number), Financial Information, Demographic Information (Age, Gender), Professional or Employment Information, Sensitive Information (Race or Ethnicity, Geolocation Information), Analytics Data (Usage Activity, Statistics), Device or System Information (Mobile Device Identifier, Type of Device, Operating System, IP Address), Social Network Information."
+208,TeamViewer QuickSupport,Productivity,"Name, Address, Email Addresses, Number of Shares, Intermediary Bank Information, Representative, Registration Number, Voting Behavior and Results, Submitted Questions, Statements, Motions, Counter-Motions, Nominations, Instructions, Objections."
+119,MySmartE,House & Home,"Name, Address, Mobile Number, Email Address, Household Details (Heating type, Living space, Electricity Usage), Geographic Location"
+84,Getcontact,Communication,"Name, Address, Payment information, Username, Telephone number, Email."
+47,"Vault - Hide Pics, App Lock",Business,"Name, Address, Phone Number, IP Address, Device Information, Location Details, Account Information, Product Information, User ID, Cookies Information"
+219,"Fetch: Have Fun, Save Money",Shopping,"Name, Birth Date, Email Address, Billing Address, Shipping Address, Telephone Numbers, Profile Photo, Digital Receipt Program Participants Information, Account or Email Log-in Credentials, Location Data, Publicly Available Data, Third Party Information, Cookie Data, Pixel Tags Data, Google Analytics Data."
+80,Bang Browser-All Video downloa,Communication,"Name, Company Name, Job Title, Email Address, Category of Enquiry, Enquiry Details, Cookies."
+258,BBC Weather,Weather,"Name, Contact Details, Date of Birth, Financial Details, Device Information, Location Information, Service Usage Records"
+116,ActiveBuilding,House & Home,"Name, Contact Details, Financial Records, Employment History, Medical Information, Other Personal Identifiers, Interactions with Website Features."
+226,Shopee PH: Shop this 12.12,Shopping,"Name, Email Address, Date of Birth, Contact Details, Identity Verification Documents, Marketing and Communication Data, Device Data, User Interaction Data, Precise Location Information, Cookies Information."
+159,File Manager File Explorer,Tools,"Name, Email Address, IP Address, Usage Details, Financial Details, Geographical Location, Application Specific Data"
+197,Mobizen Screen Recorder,Productivity,"Name, Email, Contact Information, OS Information, IP Address, Device Information, Cookies, Payment History, Legal Guardian's Name and Contact Details (in case of children), Activity Logs"
+50,WipRecargas,Business,"Name, Email, Home Phone Numbers, Office Phone Numbers, Mobile Phone Numbers, Address, Work Information, Any other necessary data for company's services, Sensitive personal data (racial or ethnic origin, health condition, religious beliefs, philosophical beliefs, moral beliefs, political opinions)"
+91,Once: Perfect Match and Dates,Dating,"Name, Email, Profile Picture, Location, Interests, Content Preferences"
+239,HOLLA - Live Random Video Chat,Social,"Name, Profile picture, Date of birth, Phone number, Email address, Gender, Facebook account information, Friend lists, Social network usernames, Messages to other users, Service usage information, Browser information, Usage data, User interaction logs, Device-specific information, User content, Log information from website use."
+3,PaperColor,Art & Design,"Non-Personal Data (Application Properties, Use Context, Privacy Settings, Technical Details [SDK/API/JS Code Version, IP Address]), Personal Information [Facebook ID, Name, Gender, Location, Friends’ ID, Gaming Preferences], Additional Information from Social Networking Sites [User name, profile picture, gender, User ID, Email address, Location, Language, Time Zone, Links to Organizations or Friends]"
+22,Ulta Beauty: Makeup & Skincare,Beauty,"Personal Information (Name, Signature, Address, Telephone Number, Online Identifier, IP Address, Account Login, Email Address, Social Security Number, Driver’s License Number, State Identification Number, Age, Gender Expression and Identity, Race, Ethnicity, Bank Account Information, Face or Hand Geometry, purchase records, Zip Code, Information Inferred)"
+151,ASTRO File Manager & Cleaner,Tools,"Personal Information [Name, Email Address, Demographic Data], Device-Specific Information [Device Model, Operating System, Usage Patterns, Other Related Information], Information via Third-Party SDKs [Google LLC, AppsFlyer Ltd., Leanplum Inc.]"
+39,WebNovel,Books & Reference,"Personal Information [Name, Gender, Email Address, Postal Address, Phone Number, Billing Details, Birth Date, Preferences, etc.], Information from third Parties [Google, Facebook, Twitter]"
+267,WSFA First Alert Weather,Weather,"Personal information (Account information, name, email address, street address, phone number, financial information), Demographic information, Professional information, Geolocation information, Analytics data, Device information, Social media information"
+212,ColorNote Notepad Notes,Productivity,"Personal information (Name, Email Address, Contacts), Data you upload or download, Recorded interactions with the service, Cookies."
+224,Kimovil,Shopping,"User Alias, Email Address"
+175,Photo Editor Pro - Polish,Photography,"User Information (Name, Email Address, Device Details, Location, Survey Responses), App Usage Data, Data from third-party tools (Google Firebase Analytics), Advertisements data (Google AdMob)."
+132,Pets4Homes,Lifestyle,"User's registration data (Name, Telephone Number, Address, Email, Newsletter Preference), Pet listing data, Messages to sellers, Pet reporting information, Feedback through online survey, Identity verification data (identity document and images), Cookies and similar data."
+209,WiFi Passwords Map Instabridge,Productivity,"Username, Email Address, Device ID, IP Address, Service Usage Information, Diagnostic Data, Third-Party App Profile Information (Profile Picture, Country of Birth, Date of Birth, Gender)"
+61,Google Chrome: Fast & Secure,Communication,"Personal information through Google Accounts, IP address, User interaction information (web requests, IP address, browser type, browser language, date and time of request, unique cookie ID), Unique identifiers recognized by browser, app, or device, Data such as location, public web content, Google products content, email contacts, stored searches, previous activity, IP addresses, cookies, photos, videos, purchase information, device information, Data on views and interactions with ads, User-customizable audio recordings during interactions with Google Search, Assistant, and Maps."
+92,eharmony dating & real love,Dating,"Personal Information [Name, Email Address, Contact Number, Mailing Address, Date of Birth], Dating Preferences, Proprietary Questionnaire Answers, Photos"
+233,Plenty of Fish Dating App,Social,"Phone Number, Email Address, Gender, Date of Birth, Interests, Images, Videos, User Service Usage Information, Device Information, User Information from other users or third parties."
