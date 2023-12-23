@@ -1,0 +1,48 @@
+Data Type,Category,Count
+name,Personal Information,2
+email address,Personal Information,3
+contact information,Personal Information,2
+profile data,Personal Information,1
+user's name,Personal Information,1
+account details,Personal Information,1
+location data,Location Data,2
+additional function details (location information,Location Data,1
+device information,Device Information,3
+mobile device information,Device Information,1
+hardware and software data,Device Information,1
+usage data,Usage Data,2
+app usage data,Usage Data,1
+service usage analysis data.,Usage Data,1
+contacts,Contact Data,2
+contact d,Contact Data,0
+transaction data,Transactional Data,2
+user data for legal purposes,Legal Data,2
+legal requirements,Legal Data,2
+information shared for legal compliance,Legal Data,1
+analytics data,Analytical Data,2
+data to google analytics.,Analytical Data,1
+app crash logs,Analytical Data,1
+user-generated content (text,Content Data,1
+videos),Content Data,1
+images,Content Data,1
+health functions),Health Data,1
+service providers,Service Provider Data,6
+information with service providers,Service Provider Data,2
+"third-party service providers,",Service Provider Data,1
+affiliates,Affiliate Data,3
+information with affiliates,Affiliate Data,2
+business partners,Business Partner Data,3
+information with business partners,Business Partner Data,3
+ads data,Advertising Data,1
+personalized content and advertising information based on user visits on gm and non-gm websites,Advertising Data,1
+information shared with user consent,Consent-based Data,1
+with consent,Consent-based Data,1
+non-personal information,Non-Personal Information,2
+anonymized aggregated data,Non-Personal Information,1
+with third parties.,Third-Party Data,1
+user data with third parties,Third-Party Data,1
+data from cloud services,Cloud Data,1
+cloudflare,Cloud Data,1
+payment processors,Payment Data,1
+demographic information,Demographic Data,2
+aggregated demographic information,Demographic Data,1

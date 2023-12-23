@@ -1,0 +1,1425 @@
+app_id,app_package_name,app_name,category_name,developer,number_of_downloads,privacy_policy_link,privacy_policy_content
+1,com.adsk.sketchbook,Sketchbook,Art & Design,Sketchbook,100M+,https://www.sketchbook.com/privacy,"Data Shared: User Information
+Data Collected: Contact Information, App Usage, Responses to Surveys, Communication Requests, Email, Name, IP Address, Feedback, Country of Residence, Occupational Details, Cookies and Similar Technologies."
+2,com.brakefield.painter,Infinite Painter,Art & Design,Infinite Studio LLC,10M+,http://www.infinitestudio.art/painter/privacy_policy.html,"Data Shared: User's Data
+Data Collected: Specific Personal Identifiable Information, User's Data (Google Play Services, Google Analytics for Firebase, and Firebase Crashlytics), Log Data (IP address, Device Name, OS Version, App Configuration, Service Usage Time and Date, Various Stats), Cookies (third-party code and libraries)"
+3,com.eyewind.paperone,PaperColor,Art & Design,Colorfit,10M+,http://incolor.cc/en/privacy.html,"Data Shared: Non-Personal Data (Application Properties, Use Context, Privacy Settings, Technical Details [SDK/API/JS Code Version, IP Address], Game Interaction Details), Personal Data in Legal or Administrative Contexts or in Changes in Corporate Ownership
+Data Collected: Non-Personal Data (Application Properties, Use Context, Privacy Settings, Technical Details [SDK/API/JS Code Version, IP Address]), Personal Information [Facebook ID, Name, Gender, Location, Friends’ ID, Gaming Preferences], Additional Information from Social Networking Sites [User name, profile picture, gender, User ID, Email address, Location, Language, Time Zone, Links to Organizations or Friends]"
+4,com.madcat.easyposer,Easy Pose - 3D pose making app,Art & Design,MadcatGames,10M+,https://madcatgames.tistory.com/22?category=870762,"Data Shared:
+- User Behavior Data
+Data Collected:
+- Personal Information (SNS registration, Email)
+- Mobile Device Identifiers
+- Payment Data"
+5,me.bazaart.app,Bazaart Photo Editor & Design,Art & Design,Bazaart Ltd.,1M+,https://bazaart.me/terms#privacy,"Data Shared: Users' Photos, User Information (processed by Third-party entities)
+Data Collected: Personal Information (through Google, Meta, or Apple's identity methods), Usage Information."
+6,com.sweefitstudios.draweyes,How to Draw Anime Eyes,Art & Design,Sweefit Studios,1M+,http://www.sweefitstudios.com/,"Data Shared: User information, Legal Reasons, Protection of Rights and Safety, Fraud Investigation, Government Requests, Trusted Service Providers, Company Merger or Sale, Advertising and Analytics.
+Data Collected: Device Type, Unique Device ID, IP Address, Mobile OS, Internet Browser Type, App Usage Information."
+7,com.brakefield.idfree,Infinite Design,Art & Design,Infinite Studio LLC,10M+,http://www.infinitestudio.art/design/privacy_policy.html,"Data Shared: Personal Data, User-identifying information via third-party services (Google Play Services, Google Analytics, Firebase Crashlytics), Limited Personal Information to third-party companies.
+Data Collected: Personal Information, Log Data (IP address, device name, operating system version, app configuration, usage time, other statistics), Cookies or similar data files by third-party code and libraries."
+8,jp.co.celsys.clipstudiopaint.googleplay,Clip Studio Paint,Art & Design,"CELSYS,Inc.",5M+,https://www.celsys.com/en/information/privacy/,"Data Shared: Personal Data
+Data Collected: Personal Information, Site visit history (via cookies)"
+9,com.adobe.spark.post,Adobe Express: Graphic Design,Art & Design,Adobe,10M+,https://www.adobe.com/privacy/policy.html,"Data Shared:
+- User data
+- Browser Information
+- Personal Information
+- Biometric Identifiers
+- Audio and Visual data
+Data Collected:
+- Feature usage data
+- Device and Application data (Google's reCAPTCHA Enterprise for spam prevention)
+- Name, Contact details, Basic demographic information (Social networking accounts)
+- Publicly available information (Interaction with Adobe's social networking pages)
+- Biometric Identifiers
+- Name, Company name, Email Address, Audio and Visual information (Visit to Adobe's physical offices)"
+10,com.bytestorm.artflow,ArtFlow: Paint Draw Sketchbook,Art & Design,Artflow Studio,5M+,http://artflowstudio.com/privacy.html,"Data Shared:
+- User data with third-party services like Google Play Services, AdMob, and Firebase Analytics
+- Personal Information with third-party entities that facilitate the Application
+Data Collected:
+- Personally identifiable information
+- Identifiable user data through third-party services like Google Play Services, AdMob, Firebase Analytics
+- Cookies stored on users' devices
+- Identifiable information from children below the age of 13 (inadvertently)"
+11,com.memegenerator.free.app.mememaker.grumpycat,Meme Generator Meme Maker,Entertainment,AppHooray,100K+,https://apphooray.com/privacy/memenow.html,"Data Shared:
+- Personal Information [through third-party services]
+- Personal Information [through third-party companies and individuals employed]
+Data Collected:
+- Personally Identifiable Information
+- Log Data [IP address, device name, OS version, etc.]
+- Cookies [through third-party code and libraries]"
+12,com.PixelStudio,Pixel Studio: pixel art editor,Art & Design,Hippo,5M+,https://github.com/hippogamesunity/GameParams/wiki/Privacy-Policy,"Data Shared: None
+Data Collected: App usage data, User name, Email, Game-related information, Ad ID, Device ID, Location."
+13,org.krita,Krita,Art & Design,Stichting Krita Foundation,1M+,https://krita.org/en/privacy-statement/,Data Collected: Website Usage (via Cookies)
+14,anime.face.changer.cartoon.photo_editor,Ai Anime Face Changer,Art & Design,RANOMA,5M+,https://sites.google.com/view/ranomapp,"Data Shared: Personal Information
+Data Collected: Personal Data, User Identification Information, Log Data (including Device's IP Address, Device Name, Operating System Version, App Configuration, Usage Date and Time)"
+15,com.articoapps.maskot,Maskot - Gaming Logo Maker,Art & Design,Artico Apps,1M+,http://www.articoapps.com,"Data Shared: User data (mentioned but not specified),
+Data Shared with third parties such as law enforcement (if mandated by law), trusted service providers, advertisers, third-party advertising networks and analytics companies, the government (respond to government requests)
+Data Collected: Type of mobile device, Unique device ID, IP address, Mobile operating system, Type of internet browser, Usage pattern of apps and games, App usage frequency, App usage duration, Ad engagement data"
+16,com.mockup.generator,"Mockup Creator, T-shirt Design",Art & Design,Video Marketing Apps,100K+,https://photoeditorlab.co.in/privacy-policy/,"Data Shared: Personal Information, Cookies
+Data Collected: Personal Information (anonymity-based), Log Data (device IP address, device name, OS version, app configuration, service usage time and date, other relevant statistics)"
+17,com.arabela.mobile,Mi Pedido Arabela,Beauty,Arabela S.A de C.V,500K+,https://www.arabela.com/aviso-de-privacidad,"Data Shared: User Identification, Statistical Data, Contact Information, Marketing or Advertising Data.
+Data Collected: User's Name, Email, Phone Number."
+18,com.belleza.peinados.ninas,Easy fun hairstyles for girls,Beauty,Klay11apps,500K+,https://www.misappsfrees.online/politicas/peinados_ninas.html,"Data Shared: User Identifiable Information (through third-party services and cookies)
+Data Collected: Personally Identifiable Information (requested but not directly collected by the app), User Identifiable Information (through third-party services and cookies)"
+19,com.lyrebirdstudio.beauty,Beauty Makeup Editor & Camera,Beauty,Lyrebird Studio,10M+,https://lyrebirdstudio.net/privacy_policy.htm,"Data Shared: System Usage Information, Device Identifiers, Non-Photo Information
+Data Collected: Photographs, App Usage History, Purchase History, Social Media Information, Device Data, Online Activity Data"
+20,com.andromo.dev759880.app845507,Haircuts Men 2023,Beauty,Estilos Tendencias & Moda,1M+,http://www.myappterms.com/reader.php?id=1,"Data Collected: Non-personal Information (Device technical details, Geographical location), Personal Identifiable Information (PII) (Age, Nationality, Educational level, Username, Password)
+Data Shared: Non-personal and Personal Information (For advertising, Evaluting performance of content, Legal requirements), Google Play Services Identifiers."
+21,maa.photo_editor.spiral_betty,Spiral Photo & Video Editor,Beauty,MAA FOR APPS,100K+,http://maaforapps.com/privacypolicy.html,"Data Shared: User Data with Third-Party Services (Google Play Services, AdMob, Firebase, Facebook Audience Network), Third-Party Companies associated with the service, Third-Party Sub-Suppliers for delivery.
+Data Collected: Device's IP Address, Operating System Version, App Usage Details, Other Statistics (through third-party products in case of an app error), Cookie Data (through third-party code and libraries)."
+22,com.ulta,Ulta Beauty: Makeup & Skincare,Beauty,ULTA,5M+,https://www.ulta.com/company/privacy,"Data Shared: Personal Information (IP Address, Online Identifiers)
+Data Collected: Personal Information (Name, Signature, Address, Telephone Number, Online Identifier, IP Address, Account Login, Email Address, Social Security Number, Driver’s License Number, State Identification Number, Age, Gender Expression and Identity, Race, Ethnicity, Bank Account Information, Face or Hand Geometry, purchase records, Zip Code, Information Inferred)"
+23,com.EricBROU.modele_tenue_pagne_africain,African Print fashion ideas,Beauty,Eric BROU,500K+,https://sites.google.com/view/regleconfidentialite,"Data Shared: Personal Information, Unique Advertising ID
+Data Collected: Anonymous Data, Usage Data through Google Analytics and Google Firebase."
+24,toys.lulu,LuLuApp,Beauty,Goldberg Imports,500+,http://lulu.toys/policies/privacy-policy,"Data Shared:
+- Personal Data
+Data Collected:
+- Name
+- Email Address
+- Phone Number
+- Device IDs
+- Certain Cookie and Network Identifiers
+- Location Data (Country)"
+25,smaartgr.longnail,Long Nail Designs,Beauty,Smartongroup,100K+,https://smartgroupapps.blogspot.com/2023/04/Privacy-policy.html,"Data Shared: User Data (via third-party cookies)
+Data Collected: IP Addresses, Browser Type, ISP, Referring and Exit Pages, Platform Type, Date/Time Stamp, Click Numbers"
+26,com.htwig.luvmehair,Luvme Hair,Beauty,HOT BEAUTY,100K+,https://shop.luvmehair.com/pages/privacy-policy-2?HT_IP_FORBIDDEN_CHANNEL=1,"Data Shared: Personal Data (with user consent)
+Data Collected: Personal Data, Direct Information, Automatic Information (through cookies), Additional Information from other sources, Location Data, Device Identifiers, Sensitive User Data"
+27,com.barilab.handmirror.googlemarket,Mirror - Zoom & Exposure -,Beauty,BariLab,5M+,https://docs.google.com/document/d/1hS-VON1fYqAUULrm4v5CwAnEpCkuChAjmavRsI-YUfA/pub,"Data Shared: Personal Information
+Data Collected: Device Unique Identification Numbers (Device ID or IMEI), Account State Information, Photographs, Cookies, Service Use History."
+28,wp.wattpad,Wattpad - Read & Write Stories,Books & Reference,Wattpad.com,100M+,http://www.wattpad.com/privacy,Data Collected: Personal Information
+29,org.jw.jwlibrary.mobile,JW Library,Books & Reference,Jehovah's Witnesses,10M+,https://www.jw.org/finder?prefer=content&wtlocale=E&docid=1011512,"Data Shared: Personal Contact Details
+Data Collected: Personal Information (including Contact Details)"
+30,com.overwolf.statsroyale,Stats Royale for Clash Royale,Books & Reference,Overwolf,10M+,http://www.overwolf.com/legal/#Privacy-policy,"Data Shared: User-submitted information
+Data Collected: User-submitted information"
+31,pdf.reader,PDF Reader,Books & Reference,pickwick santa,10M+,https://github.com/pickwicksanta/Policy/wiki/Privacy-Policy,"Data Shared: Personal Data
+Data Collected: Browser Details, IP, Platform, Timestamps, Identifiers, Device Model Details, Session Timings, Language and Location, Network Status, Hardware Information."
+32,com.google.android.apps.books,Google Play Books & Audiobooks,Books & Reference,Google LLC,1B+,https://play.google.com/books/intl/privacy.html,"Data Shared:
+- Content Removal Requests Data
+- Phone Number for Ad Personalization
+- Usage Statistics
+- Aggregated Reports to Advertisers
+Data Collected:
+- Personal Information (Name, Email Address, Billing Information)
+- Server Logs (Web Request, IP Address, Browser Type, Browser Language, Date and Time of Request, Cookies)
+- Device Location Data
+- Sensor Data
+- Nearby Cell Towers and Wi-Fi Access Points Data
+- Cookies
+- IP Addresses
+- Audio Recordings
+Security Practices Data:
+- Unique Identifiers
+- Information for Account Access
+- Information for Legal Orders"
+33,org.lds.ldssa,Gospel Library,Books & Reference,The Church of Jesus Christ of Latter-day Saints,5M+,https://www.churchofjesuschrist.org/services/platform/v4/resources/privacy-policy,"Data Shared: Personal Data, Third Party Providers Information
+Data Collected: User Submitted Data, Third Party Data, Data from Communication with the Church"
+34,com.aldiko.android,Aldiko Next,Books & Reference,De Marque,10M+,https://confluence.demarque.com/confluence/aldiko/?contentKey=privacy-policy-aldiko,"Data Shared: Personal Information
+Data Collected: User Number, Cookies Information (Process Cookies, Security Cookies, Statistical Cookies), Interaction Information with the Application (via Google Analytics), Form Registration Data, ID Forms Data, User Profile Data, Comment and Post Data, Book Rating Data, Newsletter Subscription Data."
+35,org.readera,ReadEra – book reader pdf epub,Books & Reference,READERA LLC,10M+,https://readera.org/en/book-reader/privacy,"Data Shared: None
+Data Collected: Anonymous Technical Data (Error Reports, Technical Diagnostics, Anonymous User-Interaction Statistics)"
+36,com.foobnix.pdf.reader,"Librera Reader: for PDF, EPUB",Books & Reference,Librera,10M+,http://librera.mobi/wiki/PrivacyPolicy/com.foobnix.pdf.reader,"Data Shared: Personal Information
+Data Collected: Personally Identifiable Information, Third Party Identification Information, Log Data (IP address, device name, operating system version, app configuration, app usage time and date, other statistics), Cookies Information."
+37,com.flyersoft.moonreader,Moon+ Reader,Books & Reference,Moon+,10M+,http://www.moondownload.com/privacymr.html,"Data Shared: Personal Information
+Data Collected: Personally Identifiable Information, Log Data (IP Address, Device Name, Operating System Version, App Configuration, Usage Time and Date), Other Statistics."
+38,com.csnmedia.android.bg,Bible Gateway,Books & Reference,HarperCollins Christian Publishing,1M+,http://www.biblegateway.com/legal/privacy.php,"Data Collected: Contact Details, Geolocation Data, Behavioral Data (Pages Visited, Time Spent Using Services), Data from Third-party Social Media Network (Facebook, Google)
+Data Shared: User Information with Subsidiaries, Affiliates, Service Providers, Business Partners, Third Parties (without identifying the user)"
+39,com.qidian.Int.reader,WebNovel,Books & Reference,Cloudary,10M+,https://www.webnovel.com/privacy_policy,"Data Shared: Personal Information [Transferred to other countries], Personal Information [Revealed to third parties for direct marketing purposes]
+Data Collected: Personal Information [Name, Gender, Email Address, Postal Address, Phone Number, Billing Details, Birth Date, Preferences, etc.], Information from third Parties [Google, Facebook, Twitter]"
+40,com.drawcola.xxxtentacions,How to Draw XXXTentacion,Books & Reference,Drawcola,100K+,https://toptrendapps.blogspot.com/2020/04/privacy-policy.html,"Data Shared: Personal Information
+Data Collected: Personally Identifiable Information, Log Data [IP Address, Device's Name, Operating System Version, App Configuration, Time, Date, Usage Statistics], Cookies"
+41,com.microsoft.teams,Microsoft Teams,Business,Microsoft Corporation,100M+,https://aka.ms/privacy,"Data Shared:
+- Searches and Location Data
+- Descriptive Data in Photos and Videos
+- Email
+- Calendar Items
+- Files
+- Contacts
+- SMS and MMS Messages
+- Images
+- URLs
+Data Collected:
+- Searches and Location Data
+- Descriptive Data in Photos and Videos
+- Location and Other Metadata in Photos and Videos
+- Contact Data
+- Email
+- Calendar Items
+- Files
+- Contacts
+- SMS and MMS Messages
+- Location Data for Weather Information and Outgoing Messages"
+42,com.wetherspoon.myjdw,myJDW,Business,JD Wetherspoon,50K+,https://www.jdwetherspoon.com/privacy-policy,"Data Shared: Personal data, interaction with websites or apps.
+Data Collected: Various types of personal data, data related to customer feedback, data for website update, data for business development."
+43,com.microsoft.windowsintune.companyportal,Intune Company Portal,Business,Microsoft Corporation,10M+,http://go.microsoft.com/fwlink/?linkid=316996,"Data Shared: De-identified Data, Location Data, Embedded Data within Photos and Videos, Emails, Calendar Items, Files, Contacts, Settings, SMS and MMS Messages.
+Data Collected: Favourite Locations, Search history, Location Data, Aggregated User Account Data, SMS and MMS Messages, Emails, Calendar Items, Files, Contacts, Settings."
+44,com.adobe.scan.android,"Adobe Scan: PDF Scanner, OCR",Business,Adobe,100M+,http://www.adobe.com/privacy/policy.html,"Data Shared:
+1. User interaction data to other company's services (example: Facebook)
+2. Prevention spam data to Google (via reCAPTCHA Enterprise)
+3. Biometric identifiers (when user uses specific features)
+Data Collected:
+1. User activity data on Adobe content
+2. Basic information from social networking accounts (when signing into Adobe services)
+3. Publicly available information from various social networking sites
+4. Personal information necessary for specific actions
+5. User identification and contact details
+6. Visual and audio information (during visits to Adobe offices)
+7. Biometric information (when using media editing and organizing features)"
+45,com.azure.authenticator,Microsoft Authenticator,Business,Microsoft Corporation,100M+,http://go.microsoft.com/fwlink/?linkid=282053,"Data Shared: Not specified
+Data Collected: De-identified location data, User's favorite places, Recent map searches, Location data from photos and videos, Photos, Videos, Contacts from connected accounts, Emails, Calendar items, SMS and MMS messages."
+46,com.gappstudio.docxread.docxreader,Docx Reader PDF Viewer Word,Business,Xonscious,5M+,https://docxreader.blogspot.com/2022/07/privacy-policy.html,"Data Shared: Personal Information
+Data Collected: Personal Information, IP Address, Device Name, Operating System Version, App Configuration, Service Usage Time and Date, Cookies."
+47,com.netqin.ps,"Vault - Hide Pics, App Lock",Business,Wafer Co.,100M+,https://lexing.tech/privacy.html,"Data Shared: Personal Information (within group, partners, service providers, public authorities), Email Communication Information (with appropriate consent)
+Data Collected: Name, Address, Phone Number, IP Address, Device Information, Location Details, Account Information, Product Information, User ID, Cookies Information"
+48,com.duosecurity.duomobile,Duo Mobile,Business,Duo Security LLC,10M+,https://duo.com/legal/privacy-notice-services,"Data Shared: Personal Data
+Data Collected: The text does not provide specific information about data that is collected by Cisco."
+49,mx.omesis.topo.topo,Recargas tu Cell,Business,HAZ,10K+,https://haz-qa-recargastucell-web-recargas.azurewebsites.net/legal/aviso-privacidad.aspx,"Data Shared: Non-Personal Data (Number of website users, User demographics)
+Data Collected: Personal Information (Name, Email, Billing Address, Phone Number), User Inputs (Cell Phone Numbers of Beneficiaries), Device and Other ID (IP Address, Geolocation), Cookies (Strictly Necessary, Functional, Analytical Information), Advertising Number"
+50,com.wiprecargas.mobile.v2.activity,WipRecargas,Business,Wubip S.A. de C.V.,50K+,https://www.wiprecargas.com/avisodeprivacidad,"Data Shared: Personal Data
+Data Collected: Name, Email, Home Phone Numbers, Office Phone Numbers, Mobile Phone Numbers, Address, Work Information, Any other necessary data for company's services, Sensitive personal data (racial or ethnic origin, health condition, religious beliefs, philosophical beliefs, moral beliefs, political opinions)"
+51,com.linkedin.android,LinkedIn: Jobs & Business News,Business,LinkedIn,1B+,https://www.linkedin.com/legal/privacy-policy,"Data Shared:
+- Profile Information
+- Contact List
+- Job Experiences
+- Engagement Data (Recommended or Ranked Content, Conversations)
+- Professional Contacts
+Data Collected:
+- Profile Information
+- Contact List
+- Job Experiences
+- Professional Interests
+- Engagement Data (Interaction with Content and Conversations)
+- User Choices (Connections, Invites and Shares)"
+52,com.expediapartnercentral,Expedia Group Partner Central,Business,Expedia,100K+,https://welcome.expediagroup.com/en/privacy-policy?mode=partner&experience=join,"Data Shared: Not Specified
+Data Collected: Personal Information (as needed to manage bookings, process payments, create accounts, send marketing communications), Financial and Tax-related Information"
+53,com.xodo.pdf.reader,Xodo PDF Reader & Editor,Productivity,Apryse Software Inc.,10M+,http://www.xodo.com/legal,"Based on the given privacy policy data, the application does not reference any data shared or collected. However, it indicates that they have security measures in place, such as encryption and restricted access, which relates to user files. Thus mentioning only this in our context:
+Data Handled:
+1. User Files (encrypted and with restricted access)."
+54,com.discoursesitel,EverConnect,Business,"Civilized Discourse Construction Kit, Inc.",50K+,https://maxconnect.sitel.com/,"Data Shared: Not specified
+Data Collected: Windows ID, First and Last Name, Login Credentials (Username and Password)"
+55,com.walmart.squiggly,Me@Walmart,Business,Walmart,1M+,https://corporate.walmart.com/privacy-security/walmart-associate-information-privacy-policy,"Data Shared: Not Explicitly Stated
+Data Collected: Personal Information, Sensitive Personal Information
+Additional User Information Managed: Identity Verification, Rights of California Residents (Access, Deletion, Correction, Limit Use or Disclosure of SPI), Authorized Agent Requests"
+56,com.swipejobs.jobstack.worker,JobStack | Find a Job | Find T,Business,"PeopleReady, Inc.",1M+,http://www.peopleready.com/privacy-policy,"Data Shared:
+- Information with subsidiaries
+- Information with service providers
+- Information with clients
+- Information with government regulators
+- Information during a merger or acquisition
+- Information with analytics providers
+Data Collected:
+- Contact information
+- Personal identification
+- Demographic details
+- Recruitment and candidate information
+- Sensitive information (race, ethnic origin, health, and disability information)
+- Analytics information
+- Geolocation data
+- Communication
+- Information provided by third parties"
+57,icv.resume.curriculumvitae,"Resume Builder App, CV maker",Business,Intelligent CV,10M+,https://sites.google.com/view/intelligentcv/home,"Data Shared: User's Personal Data
+Data Collected: Log Data, Device Information (IP address, device name, operating system, app configuration, usage time), User's Information, Third-party Services Data, Cookies."
+58,nextapp.fx,FX File Explorer,Business,"NextApp, Inc.",10M+,http://www.nextapp.com/fx/privacy.html,"Data Shared: None
+Data Collected: None"
+59,com.cisco.webex.meetings,Webex Meetings,Business,"Cisco Systems, Inc.",100M+,http://www.cisco.com/web/siteassets/legal/privacy.html,"Data Shared: Personal Data
+Data Collected: Personal Data (for order processing, website provision, newsletter subscription, job applications), Combined Information (from different sources)"
+60,side.side_android,Side - flex jobs & temp work,Business,Weslash SAS,100K+,https://weslash-static.s3.eu-central-1.amazonaws.com/privacy-policy.html,"Data Shared:
+- Foreign employees' residence permit authorizing employment
+- OFII stamp in passport
+- First page of passport
+- Visa authorizing employment
+- Degree for regulated professions
+- Information on previously completed training and experiences
+- Driving license
+- Extract of the criminal record only B3
+- User's IP address
+- Personal data for mission participation
+Data Collected:
+- Social Reason
+- Capital
+- APE Code
+- SIRET Number
+- Headquarters Address
+- RCS Location and registration number
+- Name, email, and phone of the representative and their status in the company
+- Name, email, and phone of the accountant
+- Billing address
+- Special pricing applicable to company employees according to agreements and conventions in place
+- User IP address
+- Credit card information (card number, expiration date, name on card, and cryptogram)
+- SEPA transfer information (RIB)"
+61,com.android.chrome,Google Chrome: Fast & Secure,Communication,Google LLC,10B+,https://policies.google.com/privacy,"Data Shared: User data with advertisers, measurement companies, and merchants, Payment information, User-provided information for security threat notifications or product customization
+Data Collected: Personal information through Google Accounts, IP address, User interaction information (web requests, IP address, browser type, browser language, date and time of request, unique cookie ID), Unique identifiers recognized by browser, app, or device, Data such as location, public web content, Google products content, email contacts, stored searches, previous activity, IP addresses, cookies, photos, videos, purchase information, device information, Data on views and interactions with ads, User-customizable audio recordings during interactions with Google Search, Assistant, and Maps."
+62,com.yahoo.mobile.client.android.mail,Yahoo Mail – Organized Email,Communication,Yahoo,100M+,https://policies.yahoo.com/xw/en/yahoo/privacy/directory/international/index.htm,"It seems like there was a misunderstanding with the provided task as no privacy policy data was given for analysis. If there are any privacy policies that need to be analyzed, please provide them."
+63,app.tellows,tellows - Caller ID & Block,Communication,tellows,1M+,https://www.tellows.co.uk/c/about-tellows-uk/privacy-policy/#apps,"Data Shared: User data with 3rd Party Affiliates: YieldLove, Snigeld Web Ltd. and 1337 UGC GmbH and various advertising partners
+Data Collected: Master data (Name), Contact Data (Phone Number, Email), Entry Data (Text/comment entry, Access times), Meta data (IP address), Log Files, Referrer URL
+Additional Data Collected: Through Google AdSense/Doubleclick, Facebook-Plugin, Conversion Tracking Pixel of Facebook and Facebook Custom Audience, Google Fonts, Google Library Ajax and jQuery, Google reCAPTCHA, Google Maps, OpenStreetMap, ShareThis Social Media Buttons, SSL Encryption, OpenID Login
+Data Procedures: Deletion of account and associated comments, Transmission to third countries, Advertising through third parties, Use of cookies."
+64,com.talkatone.android,Talkatone: Texting & Calling,Communication,"Talkatone, Llc",10M+,https://www.talkatone.com/privacy/,"Data Shared:
+- Personal Information (Demographic Details)
+- Keywords
+- Personal Information for Business-related Transactions
+- Customer Information in case of Business Transfer
+- Any Information Required for Compliance with Law or Court Orders
+- Information with Third Parties for Marketing Purposes
+Data Collected:
+- Personal Information (Email Address, In-app Messages, Voice Calls Data)
+- User-supplied Information via Website or Other Services
+- Third-party Account Credentials (Google Voice, Facebook)
+- Email Address for Promotional Purposes
+- IP Address
+- Geolocation
+- Device Identifier
+- Diagnostic Data
+- Cookie Information
+- Unique Device Identifiers (IDFA, UDID, Serial, IMEI)"
+65,com.UCMobile.intl,"UC Browser-Safe, Fast, Private",Communication,UCWeb Singapore Pte. Ltd.,1B+,https://img.ucweb.com/s/uae/g/3o/ucwebptc/suit_bu1_uc202007241608_71682_04.html,"Data Shared: User Information (with third parties, service providers, and legal entities)
+Data Collected:
+1. Personal Information (Name, Password, Email Address, Contact Information)
+2. Automatically Collected information (Software, Hardware, Network, Settings, Usage Information, and Location)
+3. Information Through Cookies
+4. Information from Business Partners, Contractors, and Third Parties"
+66,com.brave.browser,"Brave Private Web Browser, VPN",Communication,Brave Software,100M+,https://brave.com/privacy/,"Data Shared:
+- IP Address (on user approval)
+- Rewards Payment ID
+- Transaction Data for Decentralised Exchange Aggregators (only used for transactions)
+- BAT Transaction Details (if Brave Rewards is enabled)
+Data Collected:
+- User Data (when Rewards or Sync is switched on)
+- URL Hashes (via Google Safe Browsing)
+- Bookmarks, Passwords (via Brave Sync)
+- Minimal Necessary Information
+- Browsing Safety Data (protected against Google profiling or tracking by proxying through Brave’s servers)
+(Note: The policy states that browsing history and personal data of users is not collected or stored.)"
+67,ca.bell.selfserve.mybellmobile,MyBell,Communication,Bell Canada,10M+,http://bell.ca/privacypolicy,"Based on the privacy policy data given, it's impossible to determine if any user information is collected or shared as the text lacks specific details on the data collected or shared."
+68,com.psiphon3.subscription,Psiphon Pro,Communication,Psiphon Inc.,100M+,https://psiphon.ca/en/privacy.html,"Data Shared:
+- User data with Psiphon Client Advertising Networks
+- Personal information with Google through Google’s reCAPTCHA v3
+- Potentially aggregated data
+Data Collected:
+- VPN usage data
+- Protocol used for connection
+- Connection duration
+- Bytes transferred
+- Geographical and ISP information
+- Domains or server IP addresses visited
+- User's city, country from IP address
+- Usage data through cookies and web beacons
+- Usage information on certain websites through Google Analytics
+- Data for download patterns and threat detection from Amazon S3 access logs
+- PsiCash information (balance, last activity, earning and spending history)
+- Diagnostic data from feedback
+- Information about received emails on Amazon EC2 server
+- Additional statistics from app stores where Psiphon is downloaded
+- Aggregated user data
+- Cookies from My.psi.cash website"
+69,org.telegram.messenger,Telegram,Communication,Telegram FZ-LLC,1B+,https://telegram.org/privacy,"Data Shared:
+- User's Personal Data
+- Personal Data with Unidentified Entities
+Data Collected:
+- Basic Account Data
+- Mobile Number
+- Public Data (Screen Name, Profile Pictures, Username)
+- Email Addresses
+- Messages
+- Photos
+- Videos
+- Documents
+- Contacts
+- Phone Numbers
+- Location Data
+- Cookies"
+70,com.enflick.android.tn2ndLine,2ndLine - Second Phone Number,Communication,"TextNow, Inc.",10M+,https://www.2ndline.co/privacy,"Data Shared: Personal Information, Device Information
+Data Collected: Personal Information, Device Information, Navigational Information, Location Information"
+71,com.sec.android.app.sbrowser,Samsung Internet Browser,Communication,"Samsung Electronics Co.,  Ltd.",1B+,http://www.samsung.com/us/common/privacy.html,"Data Shared: Personal Information
+Data Collected: Contact Information, Payment Card Information, User Coupon or Gift Card Number, Date of Birth, Demographic Data, Samsung Account Information, Information from Third-Party Devices, User-Generated Content, Voice Recordings, Chat Session Records, Purchase Details, Location Data, Automatically Generated Data"
+72,com.altanredes.altanvoip,VozApp,Communication,Altan Redes,1M+,https://www.altanredes.com/aviso-de-privacidad/,"Data Shared: Personal Data
+Data Collected: Identification Data, Academic and Professional Data, Occupational Data, Commercial Information, Economic, Financial and Insurance Data, Sensitive Data"
+73,com.kiwibrowser.browser,Kiwi Browser - Fast & Quiet,Communication,Geometry OU,10M+,https://privacy.kiwibrowser.org/,"Data Shared: Specific Search Queries, Personal Data upon Legal Request
+Data Collected: Cookies, Usage Data, Various Services and Device Data (with consent)"
+74,com.skype.raider,Skype,Communication,Skype,1B+,http://www.skype.com/go/privacy,"Data Shared:
+- User image
+- URL of the site user is using
+- Synced data across devices and services
+Data Collected:
+- De-identified location data
+- Location data (if allowed by the user)
+- Contacts
+- Image descriptions and webpage summaries
+- Emails, Calendar items, files (including those from third-party providers)
+- Messages stored in Microsoft account."
+75,com.psiphon3,Psiphon,Communication,Psiphon Inc.,50M+,https://psiphon.ca/en/privacy.html,"Data Shared:
+- Aggregated Data
+- Shareable Aggregated Data
+- Data Collected by PsiCash
+- Feedback Data
+Data Collected:
+- User Activity Data
+- Aggregated Data
+- Data Collected by Google Analytics
+- Data Collected via Cookies and Web Beacons
+- PsiCash Data
+- my.psi.cash Website Data
+- Email Request Data
+- Third-party App Stores Data"
+76,com.cloudmosa.puffinFree,Puffin Cloud Browser,Tools,CloudMosa Inc,50M+,https://www.puffin.com/privacy/android/,"Data Shared:
+- Account Information (Name, Payment Details, Device, Usage data)
+- Personal Information (Name, Email, Credit Card)
+- Real IP Address
+- IP Address for Geo-targeted ads
+Data Collected:
+- Account Information (Name, Payment Details, Device, Usage data)
+- Cookies
+- Anonymous Activity Logs
+- Generic Device Data (App Version, Device Model, Location)
+- User Settings and Search History
+- Certain IP Address Information for Geo-targeted ads"
+77,com.uc.browser.en,"UC Mini-Download Video Status ",Communication,UCWeb Singapore Pte. Ltd.,100M+,http://terms.alicdn.com/legal-agreement/terms/suit_bu1_uc/suit_bu1_uc201906261439_98147.html,"Data Shared:
+- User Consent Based Information
+- Information with Third-party Advertisers (Google's AdMob, Facebook Audience Network, and Intowow)
+- Limited Personal Information (under legal obligations, corporate transactions, or user protection)
+Data Collected:
+- User Names
+- Passwords
+- Email Addresses
+- Threads and Comments on UCWeb
+- Software Information (browser version)
+- Hardware Information (IMEI)
+- Network Information (IP address)
+- Setting and Usage Data (language preference)
+- Location (if permitted)
+- Visit Time (via cookies)
+- Browsing History (via cookies)
+- Information from Business Partners, Contractors, and Third Parties"
+78,jp.naver.line.android,LINE: Calls & Messages,Communication,LINE (LY Corporation),500M+,https://terms.line.me/line_rules/,"Data Shared: Public profile information, Phone number, Email address, LINE ID, Contacts
+Data Collected: Public profile information, Phone number, Email address, LINE ID, Contacts, Service history, Location information"
+79,com.loudtalks,Zello PTT Walkie Talkie,Communication,Zello Inc,100M+,https://zello.com/legal/privacy-policy/,"Data Shared: Account Information, Device Information, Support Requests, Site Interaction Contact Information, Social Media Interactions, Location Data.
+Data Collected: Account Information, Device Information, Support Requests, Site Interaction Contact Information, Social Media Interactions, Location Data."
+80,com.tencent.bang,Bang Browser-All Video downloa,Communication,Tencent Technology (Shenzhen) Company Ltd.,100K+,https://www.tencent.com/en-us/privacy-policy.html,"Data Shared: Personal Information.
+Data Collected: Name, Company Name, Job Title, Email Address, Category of Enquiry, Enquiry Details, Cookies."
+81,com.tencent.mobileqq,QQ,Communication,Tencent Technology (Shenzhen) Company Ltd.,10M+,http://www.qq.com/privacy.htm,"Data Shared:
+- Usernames (Through Cookies)
+- Web Interaction Data (For Advertising Purposes)
+Data Collected:
+- Identity Verification Information (Through Cookies)
+- User Preferences (Through Cookies)
+- User Interaction Data (For Service Improvement)
+- User Response Time
+- Data Related to Time Spent on Each Login Step
+- Security Identifiers (Through Cookies)
+- Server Load Information"
+82,com.facebook.talk,Messenger Kids – The Messaging,Communication,"Meta Platforms, Inc.",10M+,https://www.facebook.com/legal/messengerkids/privacypolicy?version=2020,"Data Shared:
+1. Interaction details with your child via Messenger Kids
+2. Messages with photos and videos exchanged by the child on Messenger Kids
+Data Collected:
+1. Full name of the child
+2. Profile picture
+3. Login info
+4. Demographic information (gender, birthdate)
+5. Account-related details
+6. Messages sent and received (sticker types, gif files, images, videos)
+7. Contact details and interaction patterns
+8. Usage patterns
+9. Game progression
+10. Interaction with the app
+11. Completed app surveys or contact forms
+12. Device information (operating system, hardware and software versions, storage capacity, unique identifiers, device information, network and connection details)"
+83,com.drilens.wamr,WAMR: Undelete messages!,Communication,drilens,50M+,https://sites.google.com/view/wamr/home/privacy,"Data Shared: Third-party Service and Ads Related Data
+Data Collected: Personal Information, Local Backup Data, Error Log Data, Device's IP Address, Device Name, Operating System Version, App Configuration, Usage Time, Google Analytics Data"
+84,app.source.getcontact,Getcontact,Communication,Getverify LDA,100M+,https://getcontact.com/privacy,"Data Shared: Personal data with competent law enforcement bodies, government agencies, courts, and third-party service providers.
+Data Collected: Name, Address, Payment information, Username, Telephone number, Email."
+85,com.luzeon.BiggerCity,BiggerCity: Gay bears & chubs,Dating,BCPI,100K+,http://www.biggercityapp.com/privacy,"Data Shared:
+- Information with people and accounts you interact with
+- Information about your active status
+- Information with Moderators
+- Information with Payment Processors
+- Information with Advertisers
+- Information with New ownership
+- Information with Law enforcement
+Data Collected:
+- Registration Information
+- Profile Information
+- Content you provide
+- Purchase details
+- Customer support and feedback details
+- Response to surveys
+- Data from competitions and events
+- Usage Information
+- Device Information
+- Cookie Information
+- Content
+- Communications
+- Information others provide about you when using Services"
+86,co.hinge.app,Hinge Dating App: Meet & Date,Dating,"Hinge, Inc.",10M+,https://hinge.co/privacy,"Data Shared: User Information, Personal Data
+Data Collected: Gender, Date of Birth, Sexual Orientation, User Interactions, Social Media Account Data, Suspicious Activity Data, Service Usage Data, Device Information"
+87,com.coomeet.app,CooMeet: Video Chat with Girls,Dating,Gartwell LTD,1M+,https://coomeet.com/privacy-policy,"Data Shared: Google Services (DV360, Analytics, Ads remarketing, Google Tag Manager), Yandex, Akamai, Mailchimp, Mandrill, Cloudflare
+Data Collected: Trackers, Usage Data, Personal Data"
+88,net.ilius.android.match,Match: Dating App for singles,Dating,match.com International Limited,1M+,https://uk.match.com/misc/privacy_v.php,"Data Shared: Limited Information to Third Parties, Information to other Match Group Companies, Information to Legal Authorities.
+Data Collected: Basic Profile Details and Preferences, Usage Information of Services, Information from Third Party Social Media Accounts, Personal Information of Job Candidates, Contractors, and Vendor Representatives, Recognition Data through Cookies and Similar Technologies."
+89,com.affinityapps.chispa,Chispa: Dating App for Latinos,Dating,Chispa Dating,1M+,https://www.chispa-app.com/en/privacy-policy,"Data Shared: User's Information
+Data Collected: Personal Information, Cookies and Similar Technologies"
+90,com.cupidmedia.wrapper.latinamericancupid,LatinAmericanCupid: Latin Chat,Dating,Cupid Media,1M+,https://www.latinamericancupid.com/en/general/privacystatement,"Data Shared:
+- Data with third parties including authorized service providers, advertising companies, ad networks
+Data Collected:
+- Non-identifying data
+- Personal Data for providing services
+- Personal Data for enabling profile port or transfer
+- Personal Data for legitimate business purposes
+- Personal Data through use of cookies and other tracking technologies
+- Personal Data for law compliance"
+91,com.udates,Once: Perfect Match and Dates,Dating,Xeanco Ltd,1M+,https://www.getonce.com/policy/?mobile=true,"Data Shared: Personal Data (with affiliates, payment processors, and marketing partners), Public Personal Data
+Data Collected: Name, Email, Profile Picture, Location, Interests, Content Preferences"
+92,com.eharmony,eharmony dating & real love,Dating,eHarmony.com,5M+,https://www.eharmony.com/privacypolicy/,"Data Collected: Personal Information [Name, Email Address, Contact Number, Mailing Address, Date of Birth], Dating Preferences, Proprietary Questionnaire Answers, Photos
+Data Shared: Personal Information"
+93,com.cupidmedia.wrapper.afrointroductions,AfroIntroductions: Afro Dating,Dating,Cupid Media,1M+,https://www.afrointroductions.com/en/general/privacystatement,"Data Shared: Personal Data
+Data Collected: Personal Data, Special Category Personal Data, Cookies and Other Tracking Technologies, Full Truthful and Accurate Information."
+94,com.cupidmedia.wrapper.bbwcupid,BBWCupid: BBW Dating Plus Chat,Dating,Cupid Media,100K+,https://www.bbwcupid.com/en/general/privacystatement,"Data Shared: User Data, Relevant Information
+Data Collected: Visiting Statistics, Personal Data on Registration, Cookies and Tracking Technologies"
+95,com.mobifriends.app,"Mobifriends: Date, meet people",Dating,Mobifriends,1M+,https://www.mobifriends.com/web/legalext/privacy,"Data Shared: Personal Data, Shared with Other Users, Shared with Third-Party Service Providers, Shared with Authorities
+Data Collected: Name or Alias, Birthdate, Province, City, Gender, Email, Physical Characteristics, Personality Traits, Hobbies, Interests, Activity Data (login times, feature usage, searches, clicks, referral websites, communications data), Payment Details (credit or debit card details or PayPal account information)"
+96,com.cupidmedia.wrapper.colombiancupid,ColombianCupid Colombia Dating,Dating,Cupid Media,500K+,https://www.colombiancupid.com/en/general/privacystatement,"Data Shared: Personal Data, Profile Data
+Data Collected: Full Name, Email, Address, Phone Number, Occupation, Appearance Description, Racial or Ethnic Origin, Religious Beliefs, Sexual Orientation, Browser Type, IP Address, Pages Viewed, Visit Dates and Times."
+97,com.cupidmedia.wrapper.mexicancupid,MexicanCupid: Mexican Dating,Dating,Cupid Media,100K+,https://www.mexicancupid.com/en/general/privacystatement,"Data Shared: Personal Data, User's Name
+Data Collected: Browsing Data, Personal Data"
+98,com.buzzarab.buzzarab,buzzArab Arab & Muslim Dating,Dating,BUZZMEDIA INC,5M+,https://www.buzzarab.com/content/privacy.php,"Data Shared:
+- Information with other service users
+- Information with service partners and subsidiaries
+- Information during potential investigations or legal liabilities
+- Aggregated device data with Google Analytics
+- Location data with Google Analytics
+- Usage data with Google Analytics for advertising purposes and market research
+Data Collected:
+- Personal Information (Birthday, Gender, Location, Email)
+- Optional fields (Pictures, Gender Preferences, Other personal details)
+- User content (Text, Photos, Videos, Audio)
+- Aggregated device data
+- Location data
+- Usage data for advertising purposes and market research"
+99,pl.fotka.app,"Fotka - dating, chat and flirt",Dating,Fotka.com,1M+,https://android.fotka.com/polityka-prywatnosci,"Data Shared:
+- User data for statistics
+- Login data
+- Date of birth
+- Name
+- Gender
+- Location
+- Age
+- Data for payment services
+- Data for marketing and profiling
+- Customer data for audit purposes
+Data Collected:
+- User data for transactions
+- Name for complaint procedures
+- Contact information for complaint procedures
+- Reason for complaint
+- Phone number for user verification
+- Personal data for maintaining user contacts
+- Email address
+- Date of birth
+- Location for establishing and maintaining user contacts."
+100,com.affinityapps.blk,BLK Dating: Meet Black Singles,Dating,BLK Dating,1M+,https://www.blk-app.com/privacy-policy,"Data Shared: User information for connection-making, Service Provider Information, Information to Parent Companies, Information to Legal Authorities, Information for Legal Compliance, Information Across Match Group Companies, Personal Information to Third Parties for marketing (for California residents)
+Data Collected: User Profile Information, User Activity Information, Third-Party Service Information, Sensitive Data (with consent), Information for Service Enhancement, Information for Safety Improvement, Information for Advertising Purposes"
+101,spdate.online.girlsmeet.chat,Spdate - meet singles nearby o,Dating,SinglesPath Innovation,50K+,https://spdatechat.blogspot.com/p/spdate-policy.html?m=1,"Data Shared: Personal Data (photographs, birthdates, locations), User-generated content (text, images, videos)
+Data Collected: Personal Data (photographs, birthdates, locations), User-generated content (text, images, videos), Anonymous information for advertising purposes"
+102,codematics.universal.tv.remote.control,Universal TV Remote Control,House & Home,CodeMatics Media Solutions,100M+,https://www.codematics.co/privacy-policy/,"Data Shared: No explicit data shared mentioned.
+Data Collected: Site visits, Traffic details, Most visited pages, Site navigation patterns."
+103,com.nightowlsp.nop,Night Owl Protect,House & Home,"Night Owl SP, LLC",500K+,https://user-license.nightowlsp.com/,"Data Shared: Not specified
+Data Collected: Device and Usage Information, User Account Information"
+104,com.autodesk.homestyler,Homestyler-Room Realize design,House & Home,HomestylerApp,5M+,https://www.homestyler.com/about/privacy,"Data Shared: Personal Data
+Data Collected: Contact Details, Purchase Information, Support Requests, Complaints, Event-related Information, Social Media Account Details, Market Research Data (Marital Status, Nationality, Income, Preferences), Correspondences with Homestyler, Platform Use Details, Social Media Posts/Comments, Third-party Information (for money laundering, fraud checks, ""Know Your Customer"" checks)"
+105,com.vivint.vivintsky,Vivint,House & Home,Vivint Home,1M+,https://www.vivint.com/legal/privacy-policy,"Data Shared:
+- Data with Third-Party Affiliates
+- Personal Data (with Vivint Monitoring Services)
+- Personal Information (with Vivint representative)
+Data Collected:
+- Personal Data (for Eligibility and Credit Check)
+- Agreement Information (for Vivint Monitoring Services)
+- Personal Information (for Vivint Monitoring Services)"
+106,com.tekoia.sure.activities,SURE - Smart Home and TV Unive,House & Home,SURE Universal Ltd.,10M+,https://www.sureuniversal.com/privacy-policy/,"Data Shared: Personal data (with third party processors such as Amazon Web Services)
+Data Collected: Personal Information [Name, Email], Health Information [Name, Email, Date of Birth, Gender, Photo, Phone, Health Data], Non-Personal Information [Location, IP Address, Browser Type, Operating System, Device Info], Cookies and IP Address (through Google Analytics)"
+107,com.houzz.app,Houzz - Home Design & Remodel,House & Home,Houzz Inc.,10M+,http://www.houzz.com/privacyPolicy,"Data Shared: Personal Information
+Data Collected: Account and Profile Information, Content Submitted, Purchase Information, Communications and Information Provided for Surveys and Contests, Personal Information from Other Platforms, Publicly Available Information, Information from Other Users, Information from Partners, Service Providers, and Corporate Affiliates, Information from Third-Party Sites"
+108,com.universal.tv.remote.control.all.tv.controller,Universal TV Remote Control,House & Home,TV Master - Smart TV Remote Control,10M+,https://www.tvmaster.mobi/TV_Master.html,"Data Shared: User Data (shared with Third-party Advertising Partners, Service Providers, and using Third-party SDKs like Umeng, Applovin, Unity, Pangle, AdColony, Mintegral, and Liftoff)
+Data Collected: User-provided Data, Interaction Data, Survey Participation Information, Device and App Access Details, Internet Connection Information, and Data through Third-party SDKs."
+109,com.alexvas.dvr,tinyCam Monitor,House & Home,Tiny Solutions LLC,10M+,https://tinycammonitor.com/privacy.html,"Data Shared: App usage data, App crash logs, Ads data
+Data Collected: Camera Access Information (hostname/IP address, login details, model, preferred naming, networking protocol), Video Storing Data (name of cloud service provider, FTP server hostname or IP address, access credentials), Email Notification Data, App Settings."
+110,roid.spikesroid.tv_remote_for_lg,TV Remote for LG  (Smart TV Re,House & Home,Spikes Labs,1M+,https://www.spikesroidapps.com/privacy-policy/remotes/policy.html,"Data Collected: User Engagement Data (via Google Analytics), Microphone Access Data.
+Data Shared: None."
+111,com.warden.cam,Home Security Camera WardenCam,House & Home,"WardenCam360 - Home Security, Video Monitoring",10M+,https://wardencam-manual.readthedocs.io/en/latest/privacypolicy.html,"Data Shared: Aggregated Demographic Information
+Data Collected: Personal Identification Information (voluntarily submitted by users), Non-personal Identification Information (browser name, type of computer, technical information about the user's connection to the site), Cookies Information"
+112,com.prime.on,"PRIME Wire and Cable, Inc.",House & Home,"PRIME Wire and Cable, Inc.",100K+,https://primewirecable.com/pages/prime-smart-device-privacy-policy,"Data Shared: Personal Data
+Data Collected: Email Address, Mobile Phone Number, Device Related Information (IMEI Number, PRIME Smart Device ID), Location Details, PRIME Account Information, Product Purchase Information, PRIME Smart Device Activation Data, Synchronized Device Data, Content Shared, Service Processing Data, Anonymous Statistics Related to Product Use."
+113,es.roid.and.trovit,Real Estate sale & rent Trovit,House & Home,Trovit,10M+,https://corporate.trovit.com/privacy-policy/,"Based on the provided privacy policy data:
+Data Collected: User Ads data"
+114,com.bgmobilenga,British Gas,House & Home,British Gas Trading Ltd.,1M+,https://www.britishgas.co.uk/privacy-policy.html,"Data Shared: Personal Data, Glen Dimplex Quantum Tariff Data
+Data Collected: Personal Data from Various Services/Products, Glen Dimplex Quantum Tariff Data"
+115,itdim.shsm,Vivitar Smart Home Security,House & Home,"Sakar International, Inc.",100K+,https://www.sakar-software.com/smhshelp/privacy/,"Data Shared: User information with third-party service providers, affiliates, business partners, other third parties, and during company acquisition.
+Data Collected: Personal Data (User's name, age, gender, contact details, interests), Derivative Data (IP address, device and interaction information), Financial Data (Payment method information), Social Network Information (User's name and contacts on platforms), Mobile App Data (Geolocation information and mobile device data), Survey/Contest Data, Cookies (User behavior on the site), Google Maps APIs Data."
+116,com.activebuilding.residents,ActiveBuilding,House & Home,RealPage Incorporated,500K+,http://www.realpage.com/privacy-policy,"Data Shared: Personal Information with third-party service providers.
+Data Collected: Name, Contact Details, Financial Records, Employment History, Medical Information, Other Personal Identifiers, Interactions with Website Features."
+117,cn.com.moodlight.aqstar,AQ STAR,House & Home,LEDSTAR,1K+,http://aq.moodlight.com.cn/privacypolicy.html,"Data Shared: Not Specified
+Data Collected: IP Address, User ID, Device Type and ID Number, Usage Data, Crash Data, Product Specifications, Accessory Names, Location Information (if geo-fencing is enabled), User's Name/Nickname, Email Address, Password, Gender, Age, Country, Product Configuration, Full Name (when making a purchase), Payment Information, Billing and Shipping Address, Telephone Number, Invoice, Order Records."
+118,com.roku.tv.remote.control,Remote Control for Roku TV,House & Home,SoulApps Studio,1M+,https://www.soul-apps.com/SoulApps_Studio.html,"Data Shared: Personal Data
+Data Collected: SDK/API/JS code version, Browser Type, Internet Service Provider, IP Address, Timestamp, Application Version, Platform, Device Identifiers."
+119,io.eliq.e,MySmartE,House & Home,MySmartE,100K+,https://e.org/MySmartE_privacy-policy,"Data Shared: Name, Address, Mobile Number, Email Address, Household Details (Heating type, Living space, Electricity Usage), Geographic Location
+Data Collected: Name, Address, Mobile Number, Email Address, Household Details (Heating type, Living space, Electricity Usage), Geographic Location"
+120,com.pinterest,Pinterest,Lifestyle,Pinterest,500M+,https://policy.pinterest.com/privacy-policy,"Data Shared:
+1. Account Information
+2. Content
+3. Location Information
+4. Log Data
+5. Device Information
+6. Usage Data
+7. Legal Information
+8. User's Interests
+9. Cookie IDs
+10. IP Address
+11. Hashed Email Addresses
+Data Collected:
+1. Account Information
+2. Content
+3. Location Information
+4. Log Data
+5. Device Information
+6. Usage Data
+7. Third-Party Data
+8. User Activity
+9. Offsite Behavior
+10. User's Interests
+11. Aggregated Information related to ads performance"
+121,com.google.android.apps.chromecast.app,Google Home,Lifestyle,Google LLC,500M+,https://policies.google.com/privacy,"Data Shared:
+- Aggregated User Activity Reports
+- Information about Content Removal Requests
+Data Collected:
+- Personal Information (Name, Email Address, Password)
+- IP Addresses
+- Payment Processing Details
+- Age Verification Information
+- User Interaction Data (via cookies)
+- Browsing History (for certain services like Chrome)
+- Data from Interactions with Google Services or Partner Sites"
+122,com.requapp.requ,AttaPoll - Paid Surveys,Lifestyle,AttaPoll,10M+,http://docs.attapoll.com/privacy.html,"Data Shared: Personal data, Non-personal data
+Data Collected: Survey responses, information provided through the application or website, Email content, Location data, Device information, User testimonials, Demographic information, User profile information."
+123,com.samsung.android.oneconnect,SmartThings,Lifestyle,"Samsung Electronics Co.,  Ltd.",500M+,https://www.smartthings.com/privacypolicy,"Apologies, but without the actual privacy policy text, I can't provide the information you're asking for. Please provide the text of the privacy policy you want analyzed."
+124,com.rightmove.android,Rightmove Property Search,Lifestyle,Rightmove,5M+,https://www.rightmove.co.uk/this-site/privacy-policy.html,"Data Shared: Rightmove group members' information, partners' information, law enforcement agencies' information, fraud prevention agencies' information, credit reference agencies' information, service providers' information.
+Data Collected: Property data, Personal contact details, Technical data, Mortgage information, Tenant references, Financial data, Employment details, Education details, Lifestyle details."
+125,org.reyfasoft.reinavalera1960,Santa Biblia Reina Valera,Lifestyle,Reyfasoft,10M+,http://reyfasoft.com/apps/policy.html,"Data Shared: Location Data, Unique Device Identifier
+Data Collected: Email, Device Model Number, Operating System Version, Country Code, User Accounts, Internet Data, Network Connections, USB Storage Access/Modifications, Device Sleep Prevention Status"
+126,com.maxincome.fmcrm,MY FamilyMart,Lifestyle,QL Maxincome Sdn Bhd,1M+,https://familymart.qlecommapi.com/Privacy-Policy.html,"Data Collected: Personal Information, Account Management Data, Identity Verification Data, Loyalty Programs Information, App Usage, Interaction Data, Shopping Habits, Purchased Products and Services, Website Browsing Patterns, CCTV Footage, Online Behavior Data, Communication Information."
+127,lmontt.cl,Santa Biblia Reina Valera 1960,Lifestyle,l.montt,5M+,http://www.lmontt.com/mibiblia/privacidad.php,"Data Shared: Personal Information (through public postings, social networks, message boards, or other online public forums), Sensitive Information (Only with explicit consent)
+Data Collected: Activity Information, Personal Information (If user chooses to provide), Sensitive Information (If user chooses to provide)"
+128,com.teslamotors.tesla,Tesla,Lifestyle,"Tesla, Inc.",1M+,https://www.tesla.com/legal/privacy,"Data Shared: Autopilot Analytics & Improvements, Road Segment Data Analytics
+Data Collected: Personal data, Autopilot Analytics & Improvements, Road Segment Data Analytics, Data from product purchases, Promotional communication data, Vehicle control and access data."
+129,com.gm.chevrolet.nomad.ownership,myChevrolet,Lifestyle,General Motors (GM),5M+,https://www.onstar.com/legal/privacy-statement,"Data Shared: Personalized content and advertising information based on user visits on GM and non-GM websites
+Data Collected: Unique identifiers through IP address or VIN, demographic data, browser type, pages visited, activity details, data measured from email campaigns, accessed URLs."
+130,com.tuya.smartlife,Smart Life - Smart Living,Lifestyle,Volcano Technology Limited,10M+,https://developerapp.tuyaus.com/protocol/1479c88e9cc0101a?lang=en,"Data Shared: Account details, User feedback, Additional function details (location information, camera, albums, microphone, storage, notifications, Bluetooth, health functions), Mobile device information, Usage data, Smart device data
+Data Collected: Account details, User feedback, Additional function details (location information, camera, albums, microphone, storage, notifications, Bluetooth, health functions), Mobile device information, Usage data, Log information, Smart device data"
+131,com.handykim.nbit.everytimerfree,Every Timer-WiFi/Bluetooth/Sou,Lifestyle,nBit APP STUDIO,100K+,https://nbitapp.blogspot.com/2020/09/blog-post_6.html,"Data Shared: Personal Information
+Data Collected: Payment Record, Country, Version, Carrier, Device Type."
+132,uk.co.pets4homes,Pets4Homes,Lifestyle,Pets4Homes,500K+,https://www.pets4homes.co.uk/privacy-policy/,"Data Shared: No personal data shared without express consent
+Data Collected: User's registration data (Name, Telephone Number, Address, Email, Newsletter Preference), Pet listing data, Messages to sellers, Pet reporting information, Feedback through online survey, Identity verification data (identity document and images), Cookies and similar data."
+133,com.puffco.android,Puffco Connect,Lifestyle,Puff Corp,100K+,https://www.puffco.com/pages/privacy-policy,"Data Shared: Personal Information, Anonymized Aggregated Data, Legal Compliances
+Data Collected: Identifiers, Purchase Information, Technical and Usage Data, Location Details"
+134,com.swinglifestyle.and,SwingLifeStyle (SLS),Lifestyle,"Swing, LLC",100K+,https://www.sls.com/privacy.html,"Data Shared: Anonymous Information
+Data Collected: Personally Identifiable Information, Aggregate Information"
+135,com.bit.androsmart.kbinapp,Bagan - Myanmar Keyboard,Lifestyle,Bagan Innovation Technology,10M+,https://bagankeyboard.com/privacy.html,"Data Shared: Personal Data,
+IP Address
+Data Collected: User's Personal Data, IP Address, Interaction files, System logs
+Additional possible Data Collected/Shared based on detailed policies: Storage details, Contents of Personal Data, Origin of Personal Data"
+136,com.tuya.smart,Tuya Smart,Lifestyle,Tuya Smart Inc.,10M+,https://developerapp.tuyaus.com/protocol/1479c8096cc01001?lang=en,"Data Shared: Personal Data,
+Data Collected: Personal Biometric Information, Communication Records and Contents, Health Information, Transaction Information, Precise Location Information"
+137,com.ftw_and_co.happn,happn - Dating App,Lifestyle,happn,50M+,http://www.happn.fr/privacy-policy,"The text provided does not contain any privacy policy related data. Consequently, there's no information regarding data collection or data sharing by the application."
+138,com.bizooku.prospectingapp,The Badass App,Lifestyle,Bizooku,100+,http://bizooku.com/privacy/,"Data Shared: Personal Information, User information for Legal Processes, User information to Protect Rights and Properties of the Company, User information for Violation of Terms of Use
+Data Collected: Personal or Company Contact Information, User Account Information, Information about User's Inquiries, Purchases or Subscriptions, IP addresses, Cookie Data, Data from Google Analytics and First and Third-Party Cookies."
+139,com.dyson.mobile.android,MyDyson™,Lifestyle,Dyson Ltd,1M+,http://privacy.dyson.com/en/homepage.aspx,"Data Collected: Information from Dyson's websites, the My Dyson app, and connected machines."
+140,com.icedrive.app,Icedrive #Secure Cloud Storage,Productivity,Icedrive,100K+,https://icedrive.net/legal/android-privacy-policy,"Data Shared: Name, Email
+Data Collected:
+- Read and Write Access
+- Internet Access
+- Access to Phone & Network State
+- Wake Lock Permission
+- Foreground Service & Vibrate Permission
+- Download Without Notification Permission
+- Modify Audio Settings
+- Usage and Log Information
+- Cookies"
+141,com.dubox.drive,TeraBox: Cloud Storage Space,Tools,Flextech Inc.,100M+,https://www.terabox.com/box-static/disk-system/html/wap_privacy.html,"Data Shared:
+- Personal Information
+- Information shared with third parties
+- Information shared with Flextech affiliates
+- Data shared in cases of reorganization, merger, or acquisition
+Data Collected:
+- Account Information (email, phone number)
+- User Data (for operations)
+- Usage Information
+- Device Information
+- Cookies (for username identification)
+- Contact information (for data sharing and invitations)
+- Label Information (for personalization)"
+142,hr.telekomcloud.storage,Cloud Storage,Business,Hrvatski Telekom,10K+,https://digitalno-poslovanje.hrvatskitelekom.hr/Business/Cloud_Storage_Uvjeti_koristenja_v3.0.html,"Data Shared: None
+Data Collected: None
+Additional Information Collected: Service Usage and Charges, Non-Payment Consequences"
+143,com.degoo.android,Degoo: 20 GB Cloud Storage,Productivity,Degoo Backup AB - Cloud,10M+,https://degoo.com/privacy,"Data Shared: Personal Data, Non-Personally-Identifiable Information
+Data Collected: Email Address, Mobile Number, Password, Payment Details"
+144,com.alphainventor.filemanager,File Manager,Productivity,File Manager Plus,100M+,https://www.alphainventor.com/file-manager-plus-privacy-policy,"Data Shared: Information with specific third parties for service fulfillment, legal compliance, and analysis purposes.
+Data Collected: User Provided Information (personal details, transaction-related information, contact information), Device Information, Shared Device Storage Information, Unique Device IDs."
+145,com.mi.android.globalFileexplorer,File Manager,Tools,Xiaomi Inc.,1B+,http://www.mi.com/en/about/privacy/,"Data Shared: Personal Information, User Information
+Data Collected: Account Information, Email Addresses, Usage Data (Cookies, IP addresses), Non-Personally Identifiable Information (User Clicks, Browsing Behaviors, Page Access Event)"
+146,mega.privacy.android.app,MEGA,Productivity,Mega Ltd,100M+,https://mega.nz/privacy,Data Collected: Analytics Cookies Usage Data
+147,com.microsoft.skydrive,Microsoft OneDrive,Productivity,Microsoft Corporation,1B+,http://go.microsoft.com/fwlink/p/?LinkId=253457,"Data Shared:
+- Anonymized Location Data (Maps app)
+- Location Data, Date, and Camera Model (Camera app)
+- Location Data, Date, and Camera Model (Photos app)
+- Contacts Information (People app)
+- SMS and MMS Messages (Messaging app)
+- Image and Website Page Descriptions (Narrator app)
+Data Collected:
+- Search History and Favorited Locations (Maps app)
+- Location Data, Date, and Camera Model (Camera app)
+- Location Data, Date, and Camera Model (Photos app)
+- Interaction History with Contacts (People app)
+- Location Data (Mail and Calendar app)
+- SMS and MMS Data (Messaging app)"
+148,com.sec.android.app.myfiles,Samsung My Files,Tools,"Samsung Electronics Co.,  Ltd.",1B+,http://www.samsung.com/us/common/privacy.html,"Data Shared: Customer information, Subsidiaries information, Affiliates information, Information with service providers, Information with business partners, Information with third parties
+Data Collected: Contact information, Payment card information, Demographic data, Voice recordings, Location data, Device-specific information, Information from public or commercially-available sources, Information from third parties, Automated data generation."
+149,com.pcloud.pcloud,pCloud: Cloud Storage,Productivity,pCloud LTD,1M+,https://www.pcloud.com/privacy_policy.html,"Data Shared: User data for legal compliance, Card details with user's consent.
+Data Collected: IP address, Browser type, Operating system, Device information, Purchase history, Website usage patterns."
+150,files.fileexplorer.filemanager,File Manager,Tools,InShot Inc.,5M+,https://inshotapp.com/website/policy/XFolder/PrivacyPolicy.html,"Data Shared: Personal Information (with third parties under certain circumstances)
+Data Collected: Access Storage, Access Files, Google Drive Permission, Cookies, Personal Information (for communication, service improvement and law compliance)"
+151,com.metago.astro,ASTRO File Manager & Cleaner,Tools,data.ai Basics,50M+,https://www.astrofilemanagerapp.com/pp-en/,"Data Shared: Information with Related Companies, Information with Third-Party Service Providers, Information with Law Enforcement Authorities, Information at the Event of a Business Transfer
+Data Collected: Personal Information [Name, Email Address, Demographic Data], Device-Specific Information [Device Model, Operating System, Usage Patterns, Other Related Information], Information via Third-Party SDKs [Google LLC, AppsFlyer Ltd., Leanplum Inc.]"
+152,com.cxinventor.file.explorer,Cx File Explorer,Tools,Cx File Explorer,10M+,https://www.alphainventor.com/cx-file-explorer-privacy-policy,"Data Shared: Legal Obligations, Transaction Data, User Personal Information (In Case of Mergers and Acquisitions)
+Data Collected: User-Provided Information (Name, Email, Age, Gender, Transaction Details, Support Contact Data, Credit Card Information), Device Information (Photo Library, List of Installed Applications, External SD Card), Shared Device Storage, Cloud Service User Data, Automated Information (Device Type, Unique Device ID, Device IP Address, Mobile Operating System, Browser Type, App Usage Information)"
+153,pl.solidexplorer2,Solid Explorer File Manager,Productivity,NeatBytes,10M+,https://neatbytes.com/solidexplorer/index.php/legal/,"Data Shared:
+1. User data (entered in forms, gathered via cookies, and from server logs)
+2. Data disclosed to authorized entities in accordance with lawful parameters and user consent
+3. Automatically collected data for Solid Explorer Classic and Solid Explorer File Manager shared with analytics and ad serving companies.
+Data Collected:
+1. User data via forms, cookies, and web server logs
+2. Email-based data
+3. Device information
+4. Application logs
+5. IP addresses
+6. Details about device usage and crash logs for Solid Explorer Classic and Solid Explorer File Manager."
+154,com.box.android,Box,Business,Box,10M+,https://www.box.com/static/html/privacy.html,"Based on the privacy policy data provided, it's not mentioned whether the application collects or shares any user information. The information given only refers to the security practices of the business."
+155,nextapp.fx,FX File Explorer,Business,"NextApp, Inc.",10M+,http://www.nextapp.com/fx/privacy.html,"Data Shared: No data shared
+Data Collected: No data collected"
+156,me.proton.android.drive,Proton Drive: Cloud Storage,Productivity,Proton AG,100K+,https://proton.me/legal/privacy,"Data Shared:
+1. User data to Swiss authorities (only if legally required)
+2. User data through third-party networks
+3. Referral program data
+4. Account activity data
+5. IP logs (only in cases related to fraudulent behavior or service protection)
+6. User correspondence
+7. Business customer data
+8. User's name and last four credit card digits (payment information)
+9. Data to mobile app platform providers
+10. User interactions on social media platforms
+Data Collected:
+1. Anonymized analytics from Proton website visit
+2. Proton or external email addresses
+3. Referral program data
+4. Account activity data
+5. IP logs (only in cases related to fraudulent behavior or service protection)
+6. User correspondence
+7. Business customer data
+8. User's name and last four credit card digits (payment information)
+9. Data from mobile app platform providers
+10. User interactions on social media platforms"
+157,dev.dworks.apps.anexplorer,AnExplorer TV File Manager,Tools,DWorkS,1M+,https://dworks.io/policies/privacy.html,"Data Shared: Personal Information, Data potentially shared with Third-Party Companies and Individuals
+Data Collected: Device and other ID, IP Address, Operating System Version, App Configuration, Service Usage Statistics, Potentially Identifying Information via Third-Party Services, Personal Data stored on user's device, Data of individuals under 13"
+158,com.amaze.filemanager,Amaze File Manager,Tools,Team Amaze,1M+,https://teamamaze.xyz/privacy-policy,"Data Shared: Personal Information
+Data Collected: System Logs, Device Manufacturer Information, IP Address, Device Name, Operating System Version, App Configuration, Time and Date of Service Usage, Authentication for Cloud Accounts"
+159,fm.clean,File Manager File Explorer,Tools,Maple Media,10M+,http://www.maplemedia.io/privacy,"Data Shared: Personal Information, Information with Affiliates, Information with Third-party Service Providers, Information with Advertisers, to Government or Law Enforcement Officials, during Business Transfer
+Data Collected: Name, Email Address, IP Address, Usage Details, Financial Details, Geographical Location, Application Specific Data"
+160,filemanager.files.fileexplorer,File Manager - File Explorer,Productivity,Apps Wing,1M+,https://apps-wing.blogspot.com/2022/11/privacy-policy.html,"Data Shared: Personal Information
+Data Collected: Identifiable Personal Information, Information from Third-Party Services, Log Data (IP Address, Device Name, Operating System, App Configuration, Usage Time, Stats), Cookies Usage Information"
+161,com.lonelycatgames.Xplore,X-plore File Manager,Tools,Lonely Cat Games,10M+,http://www.lonelycatgames.com/docs/xplore/privacy,"Data Shared: Crash Reports
+Data Collected: Date of Reporting, App Version, Device Details, Stack Trace Information"
+162,com.ace.ex.file.manager,EX File Manager :File Explorer,Tools,Ace Mobile,5M+,https://www.acemobileapps.net/privacy-policy,"Data Shared: Personal Information
+Data Collected: Personal Information, User Identifier Information, Log Data [Device IP Address, Device Name, Operating System Version, App Configuration, Usage Statistics], Cookie Data"
+163,com.esuper.file.explorer,ESuper File Explorer,Tools,ESTRONGS LIMITED,1M+,https://www.estrongs.net/privacy-policy,"Data Shared:
+- Collected data with third-party services
+Data Collected:
+- Installed apps data
+- Log Data (device IP address, device name, operating system version, app configuration, timestamp of Service usage, and other statistics)
+- Identifying information by third-party services
+- Information collected by third-party libraries through cookies."
+164,com.transsion.filemanagerx,File Manager,Tools,Shalltry Group,500M+,http://cdn.shalltry.com/transhold/en1/policy,"Data Shared: Personal Information (under legal or public interest circumstances, transferred to other countries)
+Data Collected: Basic Personal Information (Phone Number, Name, Birthday, Nationality, Age, City, Account Details, User Information), Service Data (Device Info and Operation Status, Location, Product Details, Cookie Information, Third-party Application IDs)"
+165,com.rarlab.rar,RAR,Tools,RARLAB (published by win.rar GmbH),100M+,http://www.rarlab.com/rar_android_privacy.htm,"Data Shared:
+- Device Advertising ID
+- Unique Device Identifiers
+- Utilization Patterns
+Data Collected:
+- File Names
+- Paths
+- Archive Passwords
+- Usage Data regarding Application Interactions"
+166,com.lbe.parallel.intl,Parallel Space - app cloning,Personalization,LBE Tech,100M+,http://parallelspace-app.com/static/page/privacy_policy_en.html,"Data Shared:
+- User Information (not specified if personal or non-personal)
+Data Collected:
+- Installed Applications Information
+- Device Information
+- Log Information
+- Location Information
+- Sensitive Information (e.g. Microphone, Camera Access with permission)"
+167,com.camerasideas.instashot,Video Editor & Maker - InShot,Photography,InShot Video Editor,500M+,http://inshotapp.com/website/InShotAndroid/privacypolicy.html,"Data Shared: Personal Information (when legally required or aligns with usage purposes)
+Data Collected:
+1. Personal Information [Name, Email]
+2. Local Media
+3. Cookies (by Admob and AppLovin)
+4. Data from Storage Permission
+5. Microphone Permission Data
+6. Audio-to-Text Conversion Data"
+168,com.adobe.lrmobile,Lightroom Photo & Video Editor,Photography,Adobe,100M+,http://www.adobe.com/go/privacy_policy,"Data Shared:
+- Browser data
+- User activity
+- Address info on Google Maps
+- Content interactions
+- Contact and demographic info accessed from user's social networking accounts
+- Publicly available info on user's social networking account
+- Statistical data for user behavior analysis
+- In-app communications information
+Data Collected:
+- Device and application data
+- Contact and demographic info from social networking accounts
+- Publicly available info from social networking accounts
+- Information to facilitate requested services
+- Biometric identifiers (face and voice)
+- Identifiers and contact info from CCTV video or voice recordings and photos when visiting Adobe offices"
+169,com.linecorp.b612.android,B612 AI Photo&Video Editor,Photography,SNOW Corporation,500M+,https://terms.snow.me/b612/PrivacyPolicy,"Data Shared: User Information, Online Activity Data, Sensory Data, Inference Data
+Data Collected: SNS ID, Profile Image, User Profile Data, Location Information, Device Information"
+170,net.sourceforge.opencamera,Open Camera,Photography,Mark Harman,50M+,https://opencamera.org.uk/privacy_oc.html,"Data Shared:
+- Resultant photos or videos
+- Data subjected to the privacy policies of device, manufacturer, operating system, or Google accounts
+- Saved photos and videos
+Data Collected:
+- Camera sensor and microphone data
+- Device location
+- Bluetooth connection data
+- User interaction with ads
+- Website usage data"
+171,com.adobe.psmobile,Photoshop Express Photo Editor,Photography,Adobe,100M+,http://www.adobe.com/privacy/policy.html,"Data Shared:
+1. Browser Information
+2. User Information
+3. Device Information
+4. Application Information
+5. Social Networking Account Information (Name, Country, Basic Demographic Data)
+6. Statistics and Insights
+7. Personal Information
+Data Collected:
+1. Liked Content
+2. Address Information from Google Maps
+3. Publicly Available Information on Social Networking Sites
+4. Biometric Identifiers (Face and Voice)
+5. Contact Information (User's Name, Company Name, Email)
+6. Facial Images
+7. Voice Recordings"
+172,com.vicman.toonmeapp,ToonMe - cartoons from photos,Photography,Linerock Investments LTD,50M+,https://pho.to/privacy,"Data Shared:
+1. Personal Information
+Data Collected:
+1. Personal Information (name, email, usernames)
+2. Non-personal Information (usage, technical and aggregate information)
+3. Third Party Account Information (Facebook, Apple ID)
+4. Navigation Details
+5. Browser Setup
+6. IP Address
+7. Device Data
+8. Metadata of Images
+9. Uploaded Photos
+10. Detected Facial Key Points
+11. Site-Specific Interaction Details (through cookies)
+12. Device Usage and Activity Data."
+173,com.cam001.selfie,Camera Editor- Sweet Selfie,Photography,Selfie Camera & Photo Editor & Beauty Snap,100M+,http://res.ufotosoft.com/aboutus/src/selfie.policy.html,"Data Shared: Personal Data, Third-Party Data Sharing, Admob (Google), Facebook, Google Analytics, Firebase, Flurry Analytics by Yahoo
+Data Collected: User Chats, Published Content, Data from Other Users, Social Media Data, Technical Log Information, Device Information, Ad campaign details, Cookies and Similar Technologies used for Analytics and Advertising"
+174,com.youthhr.phonto,Phonto - Text on Photos,Photography,youthhr,50M+,https://phon.to/privacy,"Data Shared: User Data
+Data Collected: Personal Data (which can identify a user), Cookies and Usage Data, Tracking and Cookies Data, Usage Data from the Service or its Infrastructure."
+175,photo.editor.photoeditor.photoeditorpro,Photo Editor Pro - Polish,Photography,InShot Inc.,100M+,https://inshotapp.com/website/collage/policy.html,"Data Shared: User Data (Name, Email Address, Device Details, Location, Survey Responses), App Usage Data.
+Data Collected: User Information (Name, Email Address, Device Details, Location, Survey Responses), App Usage Data, Data from third-party tools (Google Firebase Analytics), Advertisements data (Google AdMob)."
+176,com.atomicadd.fotos,A+ Gallery - Photos & Videos,Photography,AtomicAdd Team,10M+,https://atomicadd.com/html/privacy-policy.html,"Data Shared: IP Address, Mobile Advertising ID
+Data Collected: Customer Support Information, Contact Information [Email, Third Party Social Network Accounts], Media Content [Photos, Media Files], Device's Camera and Microphone Access, Usage Information, Internet Permissions, IP Address and Mobile Advertising ID for ad-supported apps."
+177,vn.eraser.background.removebg,Remove BG - Background Eraser,Photography,AZ Mobile Software,5M+,https://sites.google.com/view/cutewallpapersstudio,"Data Shared:
+- Personal Information
+Data Collected:
+- Device Information
+- User Interaction Data
+- Information from Third-party SDKs
+- Personal Information from Mopub, FaceBook, PubNative, InMobi, Pubmatic, AdView, AdMixer, AdMob, and Fyber
+- Advertising IDs
+- Device Identifiers
+- Network and Connection Information
+- Geolocation Information
+- App and System Usage Information"
+178,com.iudesk.android.photo.editor,Photo Editor,Photography,dev.macgyver,50M+,https://www.iudesk.com/photoeditor/privacy,"Data Shared: Legal circumstance-related data, Subsidiary-required data, Contractor-related data, Data for third-party service providers, Data necessary for protecting rights, property, or safety, Payment details via third-party payment processors, and Consented data.
+Data Collected: User data retained for legal obligations, dispute resolutions, legal agreements, and policies, Usage data for internal analysis and service enhancement.
+Note: No direct personal information like name, email, or precise location is mentioned in the policy. Additionally, the policy states they do not store or collect payment details."
+179,com.imaginstudio.imagetools.pixellab,PixelLab - Text on pictures,Photography,App Holdings,100M+,http://appholdings.org/privacypolicy.html,"Data Shared: User Data with third parties, User Data for legal purposes
+Data Collected: Cookies, Usage Data, Unique Device Identifiers, Geographic Position, Email Address, User's First Name"
+180,com.handycloset.android.eraser,Background Eraser,Photography,handyCloset Inc.,100M+,https://privacy.handycloset.com,"Data Shared:
+- Ad data (with Google AdMob for advertising)
+- App usage data (with Firebase Analytics and Crashlytics, optional for apps used in the EEA)
+- Email communication (email address, subject, content)
+Data Collected:
+- User engagement data (through Firebase Analytics and Firebase Crashlytics)
+- Email communication (email address, subject, content)
+- Internet access information
+- Storage access information"
+181,us.pinguo.selfie,Bestie - Camera360 Selfie,Photography,PINGUO TECHNOLOGY HK CO LIMITED,50M+,http://www.camera360.com/privacy_bestie_en.html,"Data Shared: Personal Information, Company Restructuring Information
+Data Collected: Device Permissions (Camera, Microphone, Bluetooth), Cookies, Web Beacons, Pixel Tags"
+182,com.vicman.newprofilepic,NewProfilePic: Profile Picture,Photography,Linerock Investments  LTD,5M+,https://pho.to/privacy,"Data Shared:
+1. Log in data
+2. User photos and results
+3. Personal information with companies and organizations
+4. Personal information with third parties for advertising
+Data Collected:
+1. Name
+2. Email address
+3. Username
+4. Social network information
+5. Usernames and photos with permission
+6. Login data when connecting with Facebook, Apple ID, or other third-party accounts
+7. Visual information from posted images
+8. Electronic interaction records (IP address, browser type and settings, search terms, site and services usage, device data, and cookie data)
+9. Photographs
+10. Data from cookies."
+183,com.cyworld.camera,Cymera - Photo Editor Collage,Photography,SK Communications,100M+,http://www.cymera.com/privacy/en,"Data Shared: Not Disclosed to Third Parties Unless Consent is Given, Legal Circumstances
+Data Collected: ID, Purchase History, Company Name, Contact Details"
+184,vStudio.Android.Camera360,Camera360:Photo Editor&Selfie,Photography,PINGUO TECHNOLOGY HK CO LIMITED,100M+,http://www.camera360.com/privacy_en.html,"Data Collected: Personal Information
+Data Shared: Personal Information"
+185,com.venticake.retrica,Retrica,Photography,"Retrica, Inc.",100M+,https://retrica.co/privacy.html,"Data Shared: Personal Data, Personal Information
+Data Collected: Email Address, First Name, Last Name, Cookies, Usage Data, Sex, Birthdate or Age"
+186,com.cerdillac.filmmaker,Film Maker Pro - Movie Maker,Photography,cerdillac,10M+,http://www.tribiecommunity.com/pp.html,"Data Shared:
+- Internal Application Improvement Data
+- Data with Business Service Providers
+- Aggregate or Anonymous Usage Data
+- Personal Information in Case of Corporate Restructuring
+- Legal Compliance Data
+Data Collected:
+- Personal Information (Name, Phone Number, Email)
+- Usage Data (Device Type, Operating System, IP Address, App Usage Time and Duration)
+- Message Data (Log and Connection Data)
+- Contact Data (Names, Phone Numbers, Email Addresses, Social Media Handles)"
+187,com.microsoft.office.word,Microsoft Word: Edit Documents,Productivity,Microsoft Corporation,1B+,http://go.microsoft.com/fwlink/?LinkID=507380,"Data Shared:
+- Location Data
+- Camera Embedded Data (Location, Camera model, Date of photo or video)
+- Contacts Information
+- Mail and Calendar app Credentials
+- Message linked to location
+Data Collected:
+- Location-based Searches
+- Camera Embedded Data (Location, Camera model, Date taken)
+- Photos and Videos (Local and Cloud-based)
+- Contact Information
+- Emails, Calendars, and Files
+- SMS and MMS messages
+- Audio Transcriptions"
+188,com.mediafire.android,MediaFire,Productivity,MediaFire,10M+,http://www.mediafire.com/policies/privacy_policy.php,"Data Shared:
+- User account and related information (in business transfers, acquisitions, or mergers)
+Data Collected:
+- Cookies, log files, web beacons, and similar technologies
+- Data related to traffic and activities on their Services
+- Sensitive data (handled by third-party payment processors)"
+189,com.intsig.camscanner,"CamScanner- scanner, PDF maker",Productivity,CamSoft Information,100M+,https://static-cdn-f.camscanner.com/policy/camscanner_android/privacy_en-us.html,"Data Shared: With Consent, For Legal Requirements, With Affiliates, With Third Parties.
+Data Collected: Account Information, User-Generated Content, Transaction Details, Device Data, Cookies, Data from Third-Party Sources."
+190,com.microsoft.office.officehubrow,Microsoft 365 (Office),Productivity,Microsoft Corporation,500M+,http://go.microsoft.com/fwlink/?LinkID=507380,"Data Shared:
+- Location data (through photos and videos)
+- Camera model and date
+- User interactions with contacts
+- SMS/MMS (when signed with Microsoft)
+- Images or URLs (In Narrator app)
+Data Collected:
+- De-identified location data
+- Name, date, and location of storage (in Photos app)
+- Account credentials (in Mail and Calendar app)
+- User feedback about the Narrator app"
+191,mega.privacy.android.app,MEGA,Productivity,Mega Ltd,100M+,https://mega.nz/privacy,Data Collected: Analytics Cookies
+192,com.microsoft.office.powerpoint,Microsoft PowerPoint,Productivity,Microsoft Corporation,1B+,http://go.microsoft.com/fwlink/?LinkID=507380,"Data Shared:
+- User's favorite places
+- Search history
+- App settings
+- Location data embedded in photos and videos
+- Photos and videos
+- Data from social networks and email accounts
+- Email data
+- Calendar data
+- SMS/MMS messages
+Data Collected:
+- User's favorite places
+- Search history
+- User location data
+- Location data from photos and videos
+- Data about photos and videos
+- Contacts data from social networks and email accounts
+- Email data
+- Calendar data
+- Files
+- SMS/MMS messages
+- Location information from messaging app"
+193,com.microsoft.office.excel,Microsoft Excel: Spreadsheets,Productivity,Microsoft Corporation,1B+,http://go.microsoft.com/fwlink/?LinkID=507380,"Data Shared:
+- Location
+- Search history
+- Favorite places
+- Location embedded in photos and videos
+- Photos and videos
+- Contacts
+- Email, calendars, and files
+- Messages backup
+- Intelligent image and page title descriptions
+- Audio transcriptions
+Data Collected:
+- Location
+- Search history
+- Favorite places
+- Location data
+- Camera model
+- Date of capture
+- Photos and videos
+- Contacts
+- Interaction information with a contact
+- Email, calendars, and files
+- Messages
+- Image descriptions and summaries
+- Spoken audio"
+194,com.microsoft.office.outlook,Microsoft Outlook,Productivity,Microsoft Corporation,1B+,http://taps.io/outlookprivacy,"Data Shared:
+- Location-based information (Maps App, Camera App, Mail and Calendar App)
+- Bing services for searches and suggestions (Maps App)
+- Favorite places and previous searches (Maps App)
+- Camera model and date in photos/videos (Camera App)
+- Embedded data in photos/videos (Photos App)
+- User contacts (People App)
+- User emails, calendars, and files from third-party providers (Mail and Calendar App)
+- SMS/MMS backups (Messaging App)
+- User feedback (Narrator)
+Data Collected:
+- Location data and app usage (Maps App, Camera App)
+- Favorite places and previous searches (Maps App)
+- Camera model, date, embedded data in photos/videos (Photos App, Camera App)
+- Data from various sources and user contacts (People App)
+- User emails, calendars, and files from third-party providers (Mail and Calendar App)
+- SMS/MMS backups (Messaging App)
+- Image and page tile descriptions, user feedback (Narrator)
+- Voice data processed on the local device (Live Captions)"
+195,com.superandroid.quicksettings,Quick Settings for Android,Productivity,Super Android,5M+,https://superandroidapp.com/privacy,"Data Shared: Personal Information (with third-party service providers), Information shared with user consent, Information shared to protect company's rights, Information shared for legal compliance, Information related to company's business transactions
+Data Collected: Personal Information from surveys or app, Device Type, Application Version, Mobile Operating System, Advertising ID, Ads Data, Information related to user invites"
+196,com.coloros.backuprestore,OPPO Clone Phone,Productivity,ColorOS,10M+,https://www.oppo.com/en/privacy/,"Data Shared: Personal data, Legal requirements
+Data Collected: Personal data, Marketing information, Promotional activity data"
+197,com.rsupport.mvagent,Mobizen Screen Recorder,Productivity,MOBIZEN,100M+,https://support.mobizen.com/hc/articles/8382458787225,"Data Shared: Personal Data
+Data Collected: Name, Email, Contact Information, OS Information, IP Address, Device Information, Cookies, Payment History, Legal Guardian's Name and Contact Details (in case of children), Activity Logs"
+198,com.alphainventor.filemanager,File Manager,Productivity,File Manager Plus,100M+,https://www.alphainventor.com/file-manager-plus-privacy-policy,"Data Shared: Personal Information (Name, Email, Age, Gender, Transaction Details, Contact Details), Files Stored on Device, Data from Cloud Services, Information with Third Party Advertising Networks (anonymized)
+Data Collected: Personal Information (Name, Email, Age, Gender, Transaction Details, Credit Card Information, Contact Details), Access to Photo Library, Installed Application List, External SD Card, Data from Cloud Services, Mobile Device and Application Usage Data"
+199,com.touchtype.swiftkey,Microsoft SwiftKey AI Keyboard,Personalization,SwiftKey,1B+,https://go.microsoft.com/fwlink/?LinkId=521839,"Data Shared:
+- Contacts data via the ""People"" app
+- Email, calendars, and files data through the ""Mail and Calendar"" app
+- SMS and MMS messages via the ""Messaging"" app
+Data Collected:
+- De-identified location data, Favorite places and Recent searches from the ""Maps"" app
+- Location data, Camera model, and Date from the ""Camera""
+- Data on iCloud and cloud folder views, Video Editor, Albums, and People Tab information from the ""Photos App""
+- Location information from the ""Messaging"" app"
+200,com.monotype.whatthefont,WhatTheFont,Productivity,MONOTYPE,1M+,https://www.myfonts.com/a/font/legal/website-use-privacy-policy,"Data Shared: User Data with Subsidiaries, Affiliates, Third-Party Service Providers,
+Data Collected: IP Address, Mobile Device Identifiers, Personal Details during Registration, Information Related to Site Visit and Usage."
+201,com.myvodafoneapp,My Vodafone,Productivity,Vodafone UK Limited,10M+,https://www.vodafone.co.uk/privacy/apps,"Data Shared: Personalised Recommendations, Network and Services Improvement Information, App Experience Optimization Data, Personal Assistance Data
+Data Collected: Interactions with Vodafone, Connectivity Services Usage Detail, Device Information, Location Details, My Vodafone App Usage Details"
+202,com.pdffilereader,New PDF Reader,Productivity,Rythmic Apps LLP,1M+,http://rythmicapps.com/privacy.html,"Data Shared:
+- User Data with Google Analytics
+- User Data with Third-Party Advertisement Companies
+- Location Data
+- Unique Device Identifiers
+Data Collected:
+- App Usage Duration
+- Number of Screens Viewed
+- User Location
+- User Interests
+- Unique Device Identifiers"
+203,com.adobe.reader,Adobe Acrobat Reader: Edit PDF,Productivity,Adobe,500M+,http://www.adobe.com/privacy/policy.html,"Data Shared: Usage Data, Hardware and Software Data, Public User Data (Names, Interests), Personal Information
+Data Collected: Usage Data, Contact Information, Identifier Information, Public User Data (Names, Interests), Audio and Visual Data, Hardware and Software Data, Biometric Identifiers or Biometric Information."
+204,in.myinnos.AppManager,Apps Manager - Your Play Store,Productivity,MyInnos,1M+,https://myinnos.in/privacy-policy/app_store_privacy_policy.html,"Data Shared: User information (specifics not given), Service usage analysis data.
+Data Collected: Personally Identifiable Information (kept on device), Log Data (IP Address, Device Name, OS Version, App's Configuration, Service Usage Time and Date, App usage statistics), Identifiable user information by third-party services."
+205,cn.wps.moffice_eng,"WPS Office-PDF,Word,Sheet,PPT",Productivity,WPS SOFTWARE PTE. LTD.,500M+,http://wps.com/privacy-policy/,"Data Shared: Service Information
+Data Collected: Email Address, Postal Address, Other Personal Data, Non-Personal Data (Device Identifier), Location Data, Technical Data, Operational Data, Cookies and Web Beacons Usage Data, Aggregate Web Traffic Routing Data."
+206,com.argonremote.launchonboot,Boot Apps,Productivity,Argon Dev,100K+,https://julietapp.blogspot.com/p/privacy-policy-general.html,"Data Shared: Anonymous data for advertisements.
+Data Collected: Identifiable user information through Google Play Services and AdMob."
+207,com.google.android.apps.docs.editors.slides,Google Slides,Productivity,Google LLC,1B+,http://www.google.com/mobile/android/,The provided text does not mention any specific user information that the application collects or shares.
+208,com.teamviewer.quicksupport.market,TeamViewer QuickSupport,Productivity,TeamViewer,50M+,https://www.teamviewer.com/apps-privacy-policy,"Data Shared: Personal Data
+Data Collected: Name, Address, Email Addresses, Number of Shares, Intermediary Bank Information, Representative, Registration Number, Voting Behavior and Results, Submitted Questions, Statements, Motions, Counter-Motions, Nominations, Instructions, Objections."
+209,com.instabridge.android,WiFi Passwords Map Instabridge,Productivity,Degoo Backup AB - Cloud,100M+,https://instabridge.com/privacy-policy/,"Data Shared: Personal Data, Information with Third-Party Applications and Users, Information with Third-Party Service Providers
+Data Collected: Username, Email Address, Device ID, IP Address, Service Usage Information, Diagnostic Data, Third-Party App Profile Information (Profile Picture, Country of Birth, Date of Birth, Gender)"
+210,com.microsoft.skydrive,Microsoft OneDrive,Productivity,Microsoft Corporation,1B+,http://go.microsoft.com/fwlink/p/?LinkId=253457,"Data Shared:
+- De-identified Location Data (Maps App)
+- Embedded Location Data in Photos and Videos (Camera App)
+- SMS and MMS Backup Messages (Messaging App)
+- Data for Processing (Narrator)
+Data Collected:
+- De-identified Location Data (Maps App)
+- Location Data in Photos and Videos (Camera App)
+- Photos and Videos (Photos App)
+- Contacts and Interaction Information (People App)
+- Email, Calendars, and Files Data (Mail and Calendar App)
+- SMS and MMS Backup (Messaging App)
+- Image and Page Title Description and Summaries (Narrator)"
+211,krow.mx.recargas,RecargaMarcas TAE,Productivity,Recargas TAE,100K+,https://www.recargamarcas.net/privacidad,"Data Shared: Personal Data with Google Inc., Device Model for Google Reviews
+Data Collected: Device Model, Operating system Name, Equipment Version, IP Location, Image Gallery (if user authorizes)"
+212,com.socialnmobile.dictapps.notepad.color.note,ColorNote Notepad Notes,Productivity,Notes,100M+,http://www.colornote.com/privacy-policy.html,"Data Shared: Data with trusted third-party companies, Data with third-party applications (with user consent), Data for law enforcement requests, Data for usage statistics.
+Data Collected: Personal information (Name, Email Address, Contacts), Data you upload or download, Recorded interactions with the service, Cookies."
+213,com.hp.printercontrol,HP Smart,Productivity,HP Inc.,100M+,https://www.hp.com/us-en/privacy/ww-privacy.html,"From the information given, the following can be concluded:
+Data Shared: Not specified
+Data Collected: User data (Specific information not provided)
+Security Practices: Not specified"
+214,mx.ucc.ver.servicios,iCECC,Productivity,Universidad Cristóbal Colón,1K+,https://www.ucc.mx/aviso-de-privacidad/,"I'm sorry, but without the proper policy content provided, I'm unable to analyze and provide the requested information about user data collection and sharing."
+215,com.offerup,OfferUp: Buy. Sell. Letgo.,Shopping,OfferUp Inc.,50M+,http://offerup.com/privacy,"Data Shared:
+- Public Posts
+- Vendor Interaction Information
+- Advertiser related information
+- Legal Process Information
+- Business Transfer Information
+- User Consent given Information
+Data Collected:
+- Registration Data
+- Participation Data
+- Communication and Review Details
+- Purchase Details
+- Customer Support Interaction Data
+- Automatically Collected Access Information
+- Fraud Prevention Data
+- Payment Details"
+216,com.tippingcanoe.promodescuentos,PromoDescuentos: ofertas,Shopping,Pepper.com,1M+,https://www.promodescuentos.com/privacidad,"Data Shared: Personal Information
+Data Collected: Account Information (email address, username, password), Additional Information (name, surname, description), Activity data (offers, discussions, comments, saved posts, likes, alerts, filters, searches, private messages), Survey Responses (email address, behavior data), Trends (received likes, followers, offer statistics), Behavior Data (page views, clicks, data duration, likes, active filters, alerts, searches), Log and Device Information (time, date, IP address), Information from business partners (with consent): Account Information, Phone number, Order Data, Survey Responses, Behavior Data, Log and Device Information."
+217,com.walmart.android,Walmart: Shopping & Savings,Shopping,Walmart,50M+,http://corporate.walmart.com/privacy-security/walmart-privacy-policy,"Data Shared: Personal Information, User Information Collected Through Pixels/Cookies, Insights from Shopping History
+Data Collected: Not Provided"
+218,com.aftership.AfterShip,AfterShip Package Tracker - Tr,Shopping,AfterShip Limited,5M+,https://www.aftership.com/privacy,"Data Shared: User data to service providers or vendors for service management and improvement, User data for statutory or legal requirements
+Data Collected: Contact details, Account credentials, Transaction details, Cookies for website experience, security, and data analysis."
+219,com.fetchrewards.fetchrewards.hop,"Fetch: Have Fun, Save Money",Shopping,Fetch Rewards,10M+,http://www.fetchrewards.com/privacy.jsp,"Data Shared: User Information, Participating Brands Information, Service Providers Information, Third Party Information, Referral Program Information, Business Partners Information, De-identified Information, Aggregated Information.
+Data Collected: Name, Birth Date, Email Address, Billing Address, Shipping Address, Telephone Numbers, Profile Photo, Digital Receipt Program Participants Information, Account or Email Log-in Credentials, Location Data, Publicly Available Data, Third Party Information, Cookie Data, Pixel Tags Data, Google Analytics Data."
+220,com.smartcanucks,"SmartCanucks - Flyers, Deals &",Shopping,SmartCanucks,5K+,https://smartcanucks.ca/privacy,"Data Shared:
+- Information with retail partners for cashback accounting
+- Certain data with CafeMedia for advertising purposes
+Data Collected:
+- Emails
+- Survey information
+- User-specific information via cookies
+- Record of cashback rebates."
+221,com.ebay.mobile,eBay: Online Shopping Deals,Shopping,eBay Mobile,100M+,https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260,"Data Shared:
+- User Public Activity
+- Public User ID
+- Limited User Contact Information
+- Shipping Information
+- Financial Information
+- Other User's Name
+- Other User's Username
+- Other User's Email
+- Other User's Contact Information
+- Other User's Shipping and Billing Information
+- Personal Data of Another Person (with their consent)
+- Messages via the Platform Messaging Tools
+Data Collected:
+- User ID
+- Email Address
+- Contact Details
+- Shipping Details
+- Other User's Name (transaction-based)
+- Other User's Username (transaction-based)
+- Other User's Email (transaction-based)
+- Other User's Contact Information (transaction-based)
+- Other User's Shipping and Billing Information (transaction-based)
+- Platform Messages via Messaging Tools"
+222,com.appsfree.android,AppsFree,Shopping,ts-apps,1M+,https://appsfree.app/privacy.html,"Data Shared: Personal Information, Identifiable Information.
+Data Collected: IP address, Device Name, Operating System Version, App Configuration, Time and Date of Service Usage, Other Statistics, Cookies."
+223,com.gumtree.android,Gumtree: local classified ads,Shopping,Gumtree UK,10M+,https://www.gumtree.com/termsofuse,"Data Shared: User Provided Information
+Data Collected: User Personal Data"
+224,com.kimovil.app,Kimovil,Shopping,Kimovil,100K+,https://www.kimovil.com/es/info/politica-de-privacidad,"Data Shared: Personal Data
+Data Collected: User Alias, Email Address"
+225,com.mercariapp.mercari,Mercari: Your Marketplace,Shopping,"Mercari, Inc",10M+,http://www.mercari.com/privacy/,"Data Shared: Personal Information, Legal Requirements, Anti-Money Laundering Information, Asset Protection Information, Account Maintenance.
+Data Collected: Contact Information, Financial Information, Additional Personal Details, Third Party Identity Verification Data, Device Information, Software Information, Language Settings, Access Logs, IP Address, Device ID, Cookies."
+226,com.shopee.ph,Shopee PH: Shop this 12.12,Shopping,Shopee,50M+,https://cs.shopee.ph/portal/article/77274,"Data Shared: User's Personal Data, Google Analytics Data, Transaction Data, Enquiry Data, Terms of Service Enforcement Data, Safety Data, Marketing and Advertising Data
+Data Collected: Name, Email Address, Date of Birth, Contact Details, Identity Verification Documents, Marketing and Communication Data, Device Data, User Interaction Data, Precise Location Information, Cookies Information."
+227,com.tippingcanoe.hukd,hotukdeals - Deals & Discounts,Shopping,Pepper.com,1M+,https://www.hotukdeals.com/privacy-policy,"Data Shared: Personal Information, Information with Business Partners, Social Media Platforms, Technology Companies, Subcontractors in Technical or Analytics Providers, Information Outside the European Union
+Data Collected: Account Information (Email Address, Username), Additional Information (First Name, Last Name), Your Activity (Deals, Discussions), Responses to Surveys, Your Trends (Likes Received, Followers), Log Data and Device Information (Time, Date, IP Address), Cookies (Preferences and Login Information)"
+228,yqtrack.app,17TRACK Package Tracker,Shopping,17TRACK,10M+,https://about.17track.net/privacy,"Based on the provided privacy policy:
+Data Shared: Not specified.
+Data Collected: Not specified."
+229,com.ebay.kijiji.ca,Kijiji: Buy and sell local,Shopping,Marktplaats B.V.,10M+,http://help.kijiji.ca/helpdesk/policies/kijiji-terms-of-use#Android,"Data Shared: User information across Kijiji's other classified sites, User's Information with third-party services, Information related to misuse or violation of Kijiji's rules
+Data Collected: Email Address, Password, Personal Information given during service use, User's information from third-party services"
+230,com.twitter.android,X,Social,X Corp.,1B+,http://twitter.com/privacy,"Data Shared:
+- Information with Service Providers
+- Information with Advertisers
+- Personal Information for Third-Party Content and Integrations
+- Personal Information for Cross-Platform Sharing
+Data Collected:
+- Personal Information by Advertisers
+- Personal Information for Cross-Platform Sharing"
+231,com.blockchainvault,Pi Network,Social,SocialChain,50M+,https://socialchain.app/privacy,"Data Shared: Personal information, Information with affiliates, Information with business partners, Information during legal processes, Information with service providers, Information with KYC validators, Information during business transactions, Information with other approved companies or entities.
+Data Collected: Contact and identity information, User-generated content, Network transaction information, Survey responses, Marketing interest, Know Your Customer Verification Information, Information about users from other users and companies."
+232,com.reddit.frontpage,Reddit,Social,reddit Inc.,100M+,https://www.reddit.com/help/privacypolicy,"Data Shared: User-profile, Previous posts, comments, and messages
+Data Collected: Personal Information, Personalized ads info, First and third-party cookies, Information collected via Google Analytics Opt-out Browser Add-on, Audience Measurement services from Nielsen and Quantcast, IP derived location information."
+233,com.pof.android,Plenty of Fish Dating App,Social,Plentyoffish Media ULC,50M+,http://www.pof.com/privacypolicy.aspx,"Data Shared: User Information (with other users, service providers, during corporate transactions, law enforcement, with user consent).
+Data Collected: Phone Number, Email Address, Gender, Date of Birth, Interests, Images, Videos, User Service Usage Information, Device Information, User Information from other users or third parties."
+234,cool.monkey.android,Monkey - random video chat,Social,Monkey.cool,10M+,https://www.monkey.app/privacy,"Based on the given privacy policy data, it's not specified whether the Monkey application collects or shares any user information."
+235,com.pinger.textfree,Text Free: Call & Texting App,Social,"Pinger, Inc",10M+,http://www.pinger.com/privacy-policy/,"Data Shared: User data for legal requirements, User data for compliance enforcement, User data for third-party functions.
+Data Collected: Personal Information [Names, Addresses, Emails, Phone numbers, Billing information], App Data [Period of usage, IP addresses, Device identifiers, Browser-specific data, User behaviour data], Shared Data [Text, Audio, Video, Photos, Contacts]"
+236,jp.pxv.android,pixiv,Social,pixiv Inc.,5M+,https://policies.pixiv.net/#privacy,"Data Shared:
+1. User Information (Including Personal Information)
+2. Behavior History
+3. Cookies and Advertising Identifiers
+4. Hashed User Information
+5. Access History
+6. Device and App Information
+7. Network Information
+Data Collected:
+1. Personal Information as defined by the Personal Information Protection Law
+2. Usage Fees
+3. Settlements for purchased products
+4. Email Addresses
+5. Information to confirm the arrival and opening of emails
+6. IP Address
+7. Access History
+8. Device and App Information
+9. Network Information"
+237,com.gogii.textplus,textPlus: Text Message + Call,Social,textPlus,50M+,http://www.textplus.com/textplus-privacy-policy/,"Data Shared: Personal Information, Message Data, Contact Data, Non-Personal Information, Usage Data (anonymous), Information for legal purposes
+Data Collected: Personal Information (Name, Mobile Number, Email), Usage Data (Device Type, Operating System, IP Address, Location Information, Browsing Habits), Message Data, Contacts on Device, Cookies and Web Beacons Data, Location Data"
+238,com.dianyun.chikii,Chikii-Play PC Games,Social,Chikii Cloud Game,10M+,https://www.chikiigame.com/m/privacy/index.html,"Data Collected:
+- Personal and non-personal information (messages, images, VoIP data)
+- Cookies and tracking technologies data
+- Data from third-party services
+- Device-based data (contact lists, phone state, location, camera, microphone, storage, advertising ID, list of installed apps)
+Data Shared:
+- Information shared with third parties under specific circumstances
+- User's unsolicited product/service ideas"
+239,com.exutech.chacha,HOLLA - Live Random Video Chat,Social,HOLLA,10M+,https://www.holla.world/privacy.html,"Data Shared: User information with other users, Information with general public, Information with third parties (Service providers, Sellers, Business advisors, Legal authorities), Information during a merger or acquisition.
+Data Collected: Name, Profile picture, Date of birth, Phone number, Email address, Gender, Facebook account information, Friend lists, Social network usernames, Messages to other users, Service usage information, Browser information, Usage data, User interaction logs, Device-specific information, User content, Log information from website use."
+240,mobi.jackd.android,Jack’d - Gay Chat & Dating,Social,Perry Street Software,5M+,https://www.jackd.com/privacy,"Data Shared:
+1. User's distance from other users
+2. Name
+3. Profile information
+4. Geographic location
+5. Travel plans
+6. Online status
+7. Pictures
+8. Reviews
+9. Ratings
+10. Ideas
+11. Notes
+12. Comments
+13. Distance used for searches
+14. Device identifier
+15. Demographic information
+16. User information in case of mergers, acquisitions, sales of assets, or change of ownership
+17. User information to law enforcement or government entities
+18. Anonymized information for analytics purposes
+19. User information (conditional to user's consent or request)
+Data Collected:
+1. User's distance from other users
+2. Name
+3. Profile information
+4. Geographic location
+5. Travel plans
+6. Online status
+7. Pictures
+8. Reviews
+9. Ratings
+10. Ideas
+11. Notes
+12. Comments
+13. Distance used for searches
+14. Device identifier
+15. Demographic information"
+241,com.tumblr,"Tumblr—Fandom, Art, Chaos",Social,"Tumblr, Inc",100M+,https://www.tumblr.com/privacy,The provided text does not specify any data collected or shared by the application.
+242,com.skout.android,"SKOUT - Meet, Chat, Go Live",Social,Skout Inc.,50M+,https://www.skout.com/tos.html#privacy,"Data Shared: Not Specified
+Data Collected: Not Specified"
+243,com.nglreactnative,NGL: anonymous q&a,Social,NGL App,50M+,https://ngl.link/privacy-policy,"Data Shared: Personal Information
+Data Collected: Account Information, Messages Sent to App Users, Feedback or Correspondence, Usage Information, Device Data (Operating System Type and Version, IP Address, General Location Information), Online Activity Data."
+244,me.bukovitz.noteit,noteit widget - by sendit,Social,"iconic hearts, inc.",10M+,https://www.drawnoteit.com/privacy,"Data Shared:
+1. User information with other users of the services.
+2. User information with vendors and business partners.
+3. User information with social media platforms and third parties
+4. User information to comply with laws or protecting rights.
+5. User information in connection with business transactions.
+Data Collected:
+1. Contact Information (Name, email, mailing address, social network details, phone number).
+2. Registration and Account Information (Display name, profile avatar, reminder questions and answers, communications preferences, general location, account usernames for other social media accounts).
+3. Demographic Information (Gender).
+4. Internet and Network Activity Information (Usage of services, browser type, IP address, device identifiers).
+5. Location Information (General location).
+6. Device’s contacts Information (Names, email addresses and phone numbers of user's contacts).
+7. Communication Information (Information collected during communication with the user).
+8. Other Personal Information (Posts, photos, and submissions made on the services)."
+245,net.wrightflyer.le.reality,REALITY-Become an Anime Avatar,Social,"REALITY, Inc.",5M+,https://reality.app/legal/privacy_policy_android.html,"Data Shared:
+- Phone numbers
+Data Collected:
+- Facial expression data
+- Phone numbers
+- Contact data (name, telephone number)
+- Nicknames on profile
+- Self-introduction
+- Images
+- Date of birth
+- Contact data registered on the device
+- Information provided when making inquiries
+- Payment information
+- Usage situation of the application
+- Communication content within the app
+- Credit card information
+- User ID of external services
+- Names and nicknames used in external services
+- Profile pictures used in external services
+- Member information on your external services (friend information, etc.)
+- Session information (Cookies)
+- IP address
+- Device information (Device ID, Device name, Manufacturer, Operating system)
+- Advertising ID"
+246,com.chaozhuo.gameassistant,"Octopus - Gamepad, Keymapper",Tools,Octopus Gaming Studio,10M+,https://sites.google.com/view/privacy-policy-of-octopus/home,"Data Shared: Non-Personal Information
+Data Collected: Non-Personal Information, Session and Available Data, Login Data, Summary Information"
+247,com.nvidia.geforcenow,GeForce NOW Cloud Gaming,Entertainment,NVIDIA,10M+,https://www.nvidia.com/en-us/about-nvidia/privacy-policy/,"Data Shared:
+- Contact Information (Email, Phone Number)
+- Request History
+- Order Information
+- Order History
+- Feedback Data (Only for GeForce NOW account holders)
+Data Collected:
+- Content Viewing History
+- Contact Information
+- Request History
+- Order Information
+- Order History
+- Feedback Data (Feedback, Email Address, Associated Technical Details)"
+248,com.fast.free.unblock.secure.vpn,Secure VPN－Safer Internet,Tools,Signal Lab,100M+,https://secure.free-signal.com/Terms%20of%20Service.html,"Data Shared: Diagnostic Data
+Data Collected: Internet Service Provider, Device OS Version, Manufacturer, Model, App Version, Device Language, Connection Time, Data Transferred"
+249,com.cxinventor.file.explorer,Cx File Explorer,Tools,Cx File Explorer,10M+,https://www.alphainventor.com/cx-file-explorer-privacy-policy,"Data Shared: User's Device Storage Data, Cloud Storage Data, User Information (not specified), In-App Advertisement Interactions
+Data Collected: Personal Information [Name, Email, Age, Gender, Transaction Details, Support Queries, Credit Card Details], Device's Photos, External SD Card Data, List of Installed Apps, Device Information, Usage Patterns, Browser Information."
+250,com.rarlab.rar,RAR,Tools,RARLAB (published by win.rar GmbH),100M+,http://www.rarlab.com/rar_android_privacy.htm,"Data Shared:
+- Device Usage Data
+Data Collected:
+- File Names and Paths
+- Passwords for Encrypted Files
+- Device Advertising ID
+- Device Usage Data
+- Crash-related Information"
+251,com.duckduckgo.mobile.android,DuckDuckGo Private Browser,Tools,DuckDuckGo,50M+,https://duckduckgo.com/privacy.html,"Data Shared:
+- Anonymized search queries
+- Ad clicks information (by Microsoft's ad network)
+Data Collected:
+- User device information (Temporary, not tied to unique identifiers)
+- Search terms for ad customization
+- Limited personal information for optional features
+- Personal data during direct communication
+- Information during recruitment process (under DuckDuckGo's Recruiting Information Policy)"
+252,cn.xiaofengkj.fitpro,fitpro,Tools,"Shenzhen Jusheng Intelligent Technology Co., Ltd.",100M+,http://www.qq.com/privacy.htm,"Data Collected: User identities, User's preferred settings, Security data, Usernames, Server load data, Analytics and research data, Advertising optimization data."
+253,app.namso_gen.spacehowen,Namso Gen,Tools,Space Howen,500K+,https://spacehowen.com/privacy,"Data Shared:
+- Personal data in business transactions
+- Personal data to law enforcement/ legal requirements
+Data Collected:
+- Personal and usage data
+- Device's IP Address
+- Browser type and version
+- Pages visited on the service
+- Time and date of visit
+- Time spent on pages
+- Unique device identifiers
+- Other diagnostic data.
+- Information of mobile device including its type, unique ID, IP address, operating system, type of mobile internet browser
+- Information collected from browser when using the service."
+254,com.sec.android.app.myfiles,Samsung My Files,Tools,"Samsung Electronics Co.,  Ltd.",1B+,http://www.samsung.com/us/common/privacy.html,"Data Shared:
+- Online activity for targeted advertising
+- Personal information for cross-context behavioral advertising
+- Personal information for targeted advertising
+Data Collected:
+- Contact details
+- Payment card information
+- Date of birth
+- Demographic data
+- Account-related information
+- Stored device data
+- Location data
+- Online activities across third-party websites, devices, apps, and other online services
+- Information through browser cookies
+- Information through web server logs
+- Information via Google Analytics and Firebase Analytics"
+255,com.aws.android,Weather by WeatherBug,Weather,WeatherBug,10M+,https://www.weatherbug.com/legal/privacy,"Data Collected: Hyper-local weather data, Predictive energy efficiency insights."
+256,com.yahoo.mobile.client.android.weather,Yahoo Weather,Weather,Yahoo,10M+,http://privacy.yahoo.com/,Data Collected: Personal Information
+257,com.handmark.expressweather,1Weather: Forecast & Radar,Weather,OneLouder Apps,100M+,https://1weatherapp.com/privacy,"Data Shared: Information to third-parties, service providers, business partners, group companies, advertising partners
+Data Collected: Account creation details, Purchase details related to third-party services, Communication with the company, Survey participation details, Business development data, IP address, Mobile carrier, Advertising identifiers, Device information, Language settings, App versions, Interaction details with the application and the ads on the device, Precise location information, Data from third-party services and organizations"
+258,bbc.mobile.weather,BBC Weather,Weather,BBC Media App Technologies,10M+,https://www.bbc.co.uk/weather/about/57854010,"Data Shared: User's Personal Information [Public Cases, Companies Operating Services, Other BBC Family Companies, Access Through Another Company, Collaborative Research, TV Licensing, Law Obligations]
+Data Collected: Name, Contact Details, Date of Birth, Financial Details, Device Information, Location Information, Service Usage Records"
+259,mx.clic.radardopplerudeg,Radar Doppler Jalisco,Weather,Joel Espinosa,10K+,http://desdegdl.com/privacidad-radar.html,"Data Shared: None
+Data Collected: User's Email"
+260,com.macropinch.swan,Weather,Weather,MacroPinch,10M+,http://macropinch.com/privacypolicy_weather.html,"Data Shared: Anonymous, low-accuracy location data, Real-time user data reports, User data for legal purposes
+Data Collected: Activity data, Cookies, Location, Usage data, User behavior data, Current location estimation (if location services are enabled)"
+261,com.wbko.android.weather,WBKO First Alert Weather,Weather,"Gray Television, Inc.",10K+,https://www.wbko.com/privacy-policy/,"Data Shared: User Personal Information, User Credentials, Contact Information, Financial Information, Demographic Information, Professional or Employment Information, Sensitive Information, Analytics Data, Device or System Information, Social Network Information.
+Data Collected: Identification Information (Account Information, Name, User Credentials), Contact Information (Email Address, Street Address, Phone Number), Financial Information, Demographic Information (Age, Gender), Professional or Employment Information, Sensitive Information (Race or Ethnicity, Geolocation Information), Analytics Data (Usage Activity, Statistics), Device or System Information (Mobile Device Identifier, Type of Device, Operating System, IP Address), Social Network Information."
+262,com.kfvs.android.weather,KFVS12 First Alert Weather,Weather,"Gray Television, Inc.",100K+,http://www.kfvs12.com/privacy-policy/,"Data Shared:
+- Personal Information
+- Information with marketing partners, analytics providers, vendors, and service providers
+- Information with co-sponsors for promotions
+- User Information with advertisers and other third parties
+- Information with government and law enforcement entities
+Data Collected:
+- Identification Information
+- Contact Information
+- Demographic Information
+- Professional or Employment Information
+- Financial Information for transactions
+- Geolocation Data
+- Analytics Data
+- Device or System Information
+- Social Network Information"
+263,com.krgv.android.weather,KRGV FIRST WARN 5 Weather,Weather,KRGV,100K+,https://www.krgv.com/pages/privacy,"Data Shared: Personal Information, User Locations
+Data Collected: Personal Information, Identifiable Information, User Information through Third-Party Services"
+264,com.wwtv.android.weather,Doppler 9&10 Weather Team,Weather,Heritage Broadcasting,100K+,https://www.9and10news.com/privacy/,"Data Shared: Personal Information
+Data Collected: Full names, Email addresses, Demographic information, Geolocation, IP addresses, User activity data, Cookie data"
+265,my.gov.met.mycuaca,myCuaca,Weather,MetMalaysia,100K+,https://www.met.gov.my/en/info/dasar-privasi-mycuaca/,"Data Shared: Personal Information
+Data Collected: Personally Identifiable Information, User Identification Data, Log Data (Device IP address, device name, operating system version, app configuration, time and date of Service use, various statistics), Cookies"
+266,com.wkyc.android.weather,WKYC Weather,Weather,TEGNA,100K+,https://www.wkyc.com/privacy,"Data Shared:
+- Affiliates
+- Service providers
+- Advertising partners
+- Business Partners
+- Public authorities
+- Business transferees
+Data Collected:
+- Contact data
+- Registration data
+- Communications
+- Marketing data
+- Other information
+- Device data
+- Online activity data"
+267,com.wsfa.android.weather,WSFA First Alert Weather,Weather,"Gray Television, Inc.",100K+,http://www.wsfa.com/privacy-policy/,"Data Collected: Personal information (Account information, name, email address, street address, phone number, financial information), Demographic information, Professional information, Geolocation information, Analytics data, Device information, Social media information
+Data Shared: Personal information, Demographic information, Professional information, Geolocation information, Analytics data, Device information, Social media information"
+268,com.acmeaom.android.myradar,MyRadar Weather Radar,Weather,ACME AtronOmatic LLC,10M+,http://myradar.com/privacy_policy.html,"Data Shared:
+- Anonymized Location Data
+- Personal Data
+- Transaction Data
+Data Collected:
+- Usage Data
+- Account Data
+- Profile Data
+- Transaction Data
+- Correspondence Data
+- Cookies"
+269,com.devexpert.weather,Weather & Clock Widget,Weather,Interactive Saudi Arabia,50M+,https://devexpert.net/privacypolicy,"Data Shared: User Information, Data to Affiliates, Data to Third-Party Service Providers, Data for Advertising, Data for Promoting, Data for Providing Services, Data to Google Analytics.
+Data Collected: Geographical Information, Device Information, Calendar Events, Scheduled Alarms, IP Address, Advertising ID, Performance Info of Device, Social Media Data, Cookies, Personal Data for EU users."
+270,com.kytv.android.weather,KY3 Weather,Weather,"Gray Television, Inc.",500K+,https://www.ky3.com/privacy-policy/,"Data Shared: User Information
+Data Collected: Personal Information (Identification and Contact Information, Financial Data, Professional or Employment Data), Demographic Information, Sensitive Information, Geolocation Data, Analytic Data, Device or System Data, Location Information (from user's device), Social Network Data, Cookies and Similar Technologies for Advertising."
+271,com.wvlt.android.weather,WVLT Weather,Weather,"Gray Television, Inc.",50K+,https://www.wvlt.tv/privacy-policy/,"Data Shared:
+- Personal Information with GTI affiliates, co-sponsors of co-branded promotions, marketing partners, analytics providers, and vendors.
+- Location Information for location-based features.
+- Personal and Sensitive Information in legal or business process scenarios.
+Data Collected:
+- Identification Information.
+- Contact Details.
+- Financial Information.
+- Demographic Information.
+- Professional Information.
+- Sensitive Information.
+- Geolocation Information.
+- Analytics Information.
+- Device Information.
+- Social Network Information.
+- Location Information for location-based features.
+- Data from Cookies and Web Beacons."
+272,net.darksky.darksky,Dark Sky - Hyperlocal Weather,Weather,The Dark Sky Company,1M+,http://darksky.net/privacy/,"Data Shared:
+- User Location Details (Shared in the form of forecasts)
+- User's Saved Locations
+Data Collected:
+- User's Current Location
+- User's Favorite Locations"
+273,com.wzzm.android.weather,WZZM 13 Weather,Weather,TEGNA,100K+,https://www.wzzm13.com/privacy,"Data Shared: Personal Information
+Data Collected: Contact Data, Registration Data, Communications, Marketing Data, Other Information, Data from Other Sources."
