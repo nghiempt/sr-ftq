@@ -1,0 +1,1410 @@
+app_id,app_name,category_name,data_type
+     1 ,Sketchbook                       ,Art & Design      ,App info and performance
+     1 ,Sketchbook                       ,Art & Design      ,App info and performance
+     1 ,Sketchbook                       ,Art & Design      ,Contacts
+     1 ,Sketchbook                       ,Art & Design      ,Location
+     1 ,Sketchbook                       ,Art & Design      ,Location
+     1 ,Sketchbook                       ,Art & Design      ,Personal Info
+     1 ,Sketchbook                       ,Art & Design      ,Personal Info
+     1 ,Sketchbook                       ,Art & Design      ,Personal Info
+     2 ,Infinite Painter                 ,Art & Design      ,App activity
+     2 ,Infinite Painter                 ,Art & Design      ,App activity
+     2 ,Infinite Painter                 ,Art & Design      ,App info and performance
+     2 ,Infinite Painter                 ,Art & Design      ,App info and performance
+     2 ,Infinite Painter                 ,Art & Design      ,Device or other IDs
+     2 ,Infinite Painter                 ,Art & Design      ,Device or other IDs
+     2 ,Infinite Painter                 ,Art & Design      ,Device or other IDs
+     2 ,Infinite Painter                 ,Art & Design      ,Device or other IDs
+     2 ,Infinite Painter                 ,Art & Design      ,Device or other IDs
+     2 ,Infinite Painter                 ,Art & Design      ,Personal Info
+     2 ,Infinite Painter                 ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,App activity
+     3 ,PaperColor                       ,Art & Design      ,App info and performance
+     3 ,PaperColor                       ,Art & Design      ,Device or other IDs
+     3 ,PaperColor                       ,Art & Design      ,Location
+     3 ,PaperColor                       ,Art & Design      ,Location
+     3 ,PaperColor                       ,Art & Design      ,Location
+     3 ,PaperColor                       ,Art & Design      ,Location
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     3 ,PaperColor                       ,Art & Design      ,Personal Info
+     4 ,Easy Pose - 3D pose making app   ,Art & Design      ,Not Provided
+     5 ,Bazaart Photo Editor & Design    ,Art & Design      ,App activity
+     5 ,Bazaart Photo Editor & Design    ,Art & Design      ,Personal Info
+     5 ,Bazaart Photo Editor & Design    ,Art & Design      ,Personal Info
+     6 ,How to Draw Anime Eyes           ,Art & Design      ,App info and performance
+     6 ,How to Draw Anime Eyes           ,Art & Design      ,Device or other IDs
+     6 ,How to Draw Anime Eyes           ,Art & Design      ,Device or other IDs
+     6 ,How to Draw Anime Eyes           ,Art & Design      ,Device or other IDs
+     6 ,How to Draw Anime Eyes           ,Art & Design      ,Device or other IDs
+     6 ,How to Draw Anime Eyes           ,Art & Design      ,Location
+     7 ,Infinite Design                  ,Art & Design      ,App activity
+     7 ,Infinite Design                  ,Art & Design      ,App info and performance
+     7 ,Infinite Design                  ,Art & Design      ,App info and performance
+     7 ,Infinite Design                  ,Art & Design      ,Device or other IDs
+     7 ,Infinite Design                  ,Art & Design      ,Device or other IDs
+     7 ,Infinite Design                  ,Art & Design      ,Device or other IDs
+     7 ,Infinite Design                  ,Art & Design      ,Device or other IDs
+     7 ,Infinite Design                  ,Art & Design      ,Personal Info
+     8 ,Clip Studio Paint                ,Art & Design      ,Personal Info
+     8 ,Clip Studio Paint                ,Art & Design      ,Web browsing
+     9 ,Adobe Express: Graphic Design    ,Art & Design      ,Not Provided
+    10 ,ArtFlow: Paint Draw Sketchbook   ,Art & Design      ,Not Provided
+    12 ,Pixel Studio: pixel art editor   ,Art & Design      ,App activity
+    12 ,Pixel Studio: pixel art editor   ,Art & Design      ,App activity
+    12 ,Pixel Studio: pixel art editor   ,Art & Design      ,App info and performance
+    12 ,Pixel Studio: pixel art editor   ,Art & Design      ,Device or other IDs
+    12 ,Pixel Studio: pixel art editor   ,Art & Design      ,Location
+    12 ,Pixel Studio: pixel art editor   ,Art & Design      ,Personal Info
+    12 ,Pixel Studio: pixel art editor   ,Art & Design      ,Personal Info
+    13 ,Krita                            ,Art & Design      ,Device or other IDs
+    14 ,Ai Anime Face Changer            ,Art & Design      ,App activity
+    14 ,Ai Anime Face Changer            ,Art & Design      ,App info and performance
+    14 ,Ai Anime Face Changer            ,Art & Design      ,Device or other IDs
+    14 ,Ai Anime Face Changer            ,Art & Design      ,Device or other IDs
+    14 ,Ai Anime Face Changer            ,Art & Design      ,Device or other IDs
+    14 ,Ai Anime Face Changer            ,Art & Design      ,Personal Info
+    14 ,Ai Anime Face Changer            ,Art & Design      ,Personal Info
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,App activity
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,App activity
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,App info and performance
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,App info and performance
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,Device or other IDs
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,Device or other IDs
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,Device or other IDs
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,Device or other IDs
+    15 ,Maskot - Gaming Logo Maker       ,Art & Design      ,Location
+    16 ,"""Mockup Creator, T-shirt Design"" ",Art & Design      ,App activity
+    16 ,"""Mockup Creator, T-shirt Design"" ",Art & Design      ,App info and performance
+    16 ,"""Mockup Creator, T-shirt Design"" ",Art & Design      ,Device or other IDs
+    16 ,"""Mockup Creator, T-shirt Design"" ",Art & Design      ,Device or other IDs
+    16 ,"""Mockup Creator, T-shirt Design"" ",Art & Design      ,Device or other IDs
+    16 ,"""Mockup Creator, T-shirt Design"" ",Art & Design      ,Device or other IDs
+    16 ,"""Mockup Creator, T-shirt Design"" ",Art & Design      ,Personal Info
+    17 ,Mi Pedido Arabela                ,Beauty            ,Personal Info
+    17 ,Mi Pedido Arabela                ,Beauty            ,Personal Info
+    17 ,Mi Pedido Arabela                ,Beauty            ,Personal Info
+    18 ,Easy fun hairstyles for girls    ,Beauty            ,Personal Info
+    18 ,Easy fun hairstyles for girls    ,Beauty            ,Personal Info
+    19 ,Beauty Makeup Editor & Camera    ,Beauty            ,App info and performance
+    19 ,Beauty Makeup Editor & Camera    ,Beauty            ,Device or other IDs
+    19 ,Beauty Makeup Editor & Camera    ,Beauty            ,Device or other IDs
+    19 ,Beauty Makeup Editor & Camera    ,Beauty            ,Financial info
+    19 ,Beauty Makeup Editor & Camera    ,Beauty            ,Personal Info
+    19 ,Beauty Makeup Editor & Camera    ,Beauty            ,Photos and videos
+    20 ,Haircuts Men 2023                ,Beauty            ,Device or other IDs
+    20 ,Haircuts Men 2023                ,Beauty            ,Location
+    20 ,Haircuts Men 2023                ,Beauty            ,Personal Info
+    20 ,Haircuts Men 2023                ,Beauty            ,Personal Info
+    20 ,Haircuts Men 2023                ,Beauty            ,Personal Info
+    20 ,Haircuts Men 2023                ,Beauty            ,Personal Info
+    20 ,Haircuts Men 2023                ,Beauty            ,Personal Info
+    21 ,Spiral Photo & Video Editor      ,Beauty            ,App info and performance
+    21 ,Spiral Photo & Video Editor      ,Beauty            ,App info and performance
+    21 ,Spiral Photo & Video Editor      ,Beauty            ,App info and performance
+    21 ,Spiral Photo & Video Editor      ,Beauty            ,Device or other IDs
+    21 ,Spiral Photo & Video Editor      ,Beauty            ,Device or other IDs
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,App activity
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,App info and performance
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Device or other IDs
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Financial info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Financial info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Location
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    22 ,Ulta Beauty: Makeup & Skincare   ,Beauty            ,Personal Info
+    23 ,African Print fashion ideas      ,Beauty            ,App activity
+    23 ,African Print fashion ideas      ,Beauty            ,App info and performance
+    24 ,LuLuApp                          ,Beauty            ,Not Provided
+    25 ,Long Nail Designs                ,Beauty            ,App info and performance
+    25 ,Long Nail Designs                ,Beauty            ,Device or other IDs
+    25 ,Long Nail Designs                ,Beauty            ,Device or other IDs
+    25 ,Long Nail Designs                ,Beauty            ,Location
+    25 ,Long Nail Designs                ,Beauty            ,Location
+    26 ,Luvme Hair                       ,Beauty            ,App info and performance
+    26 ,Luvme Hair                       ,Beauty            ,Device or other IDs
+    26 ,Luvme Hair                       ,Beauty            ,Device or other IDs
+    26 ,Luvme Hair                       ,Beauty            ,Location
+    26 ,Luvme Hair                       ,Beauty            ,Personal Info
+    26 ,Luvme Hair                       ,Beauty            ,Personal Info
+    26 ,Luvme Hair                       ,Beauty            ,Personal Info
+    27 ,Mirror - Zoom & Exposure -       ,Beauty            ,App activity
+    27 ,Mirror - Zoom & Exposure -       ,Beauty            ,App info and performance
+    27 ,Mirror - Zoom & Exposure -       ,Beauty            ,Device or other IDs
+    27 ,Mirror - Zoom & Exposure -       ,Beauty            ,Personal Info
+    27 ,Mirror - Zoom & Exposure -       ,Beauty            ,Photos and videos
+    28 ,Wattpad - Read & Write Stories   ,Books & Reference ,Personal Info
+    29 ,JW Library                       ,Books & Reference ,Personal Info
+    30 ,Stats Royale for Clash Royale    ,Books & Reference ,Personal Info
+    31 ,PDF Reader                       ,Books & Reference ,App info and performance
+    31 ,PDF Reader                       ,Books & Reference ,Device or other IDs
+    31 ,PDF Reader                       ,Books & Reference ,Device or other IDs
+    31 ,PDF Reader                       ,Books & Reference ,Device or other IDs
+    31 ,PDF Reader                       ,Books & Reference ,Device or other IDs
+    31 ,PDF Reader                       ,Books & Reference ,Device or other IDs
+    31 ,PDF Reader                       ,Books & Reference ,Device or other IDs
+    31 ,PDF Reader                       ,Books & Reference ,Location
+    31 ,PDF Reader                       ,Books & Reference ,Personal Info
+    31 ,PDF Reader                       ,Books & Reference ,Personal Info
+    32 ,Google Play Books & Audiobooks   ,Books & Reference ,Not Provided
+    33 ,Gospel Library                   ,Books & Reference ,App activity
+    33 ,Gospel Library                   ,Books & Reference ,App activity
+    33 ,Gospel Library                   ,Books & Reference ,App info and performance
+    34 ,Aldiko Next                      ,Books & Reference ,App activity
+    34 ,Aldiko Next                      ,Books & Reference ,App info and performance
+    34 ,Aldiko Next                      ,Books & Reference ,App info and performance
+    34 ,Aldiko Next                      ,Books & Reference ,App info and performance
+    34 ,Aldiko Next                      ,Books & Reference ,Device or other IDs
+    34 ,Aldiko Next                      ,Books & Reference ,Device or other IDs
+    34 ,Aldiko Next                      ,Books & Reference ,Device or other IDs
+    34 ,Aldiko Next                      ,Books & Reference ,Personal Info
+    34 ,Aldiko Next                      ,Books & Reference ,Personal Info
+    34 ,Aldiko Next                      ,Books & Reference ,Personal Info
+    34 ,Aldiko Next                      ,Books & Reference ,Personal Info
+    35 ,ReadEra – book reader pdf epub   ,Books & Reference ,App info and performance
+    35 ,ReadEra – book reader pdf epub   ,Books & Reference ,App info and performance
+    35 ,ReadEra – book reader pdf epub   ,Books & Reference ,Device or other IDs
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,App activity
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,App info and performance
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,App info and performance
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,App info and performance
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,Device or other IDs
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,Device or other IDs
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,Device or other IDs
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,Device or other IDs
+    36 ,"""Librera Reader: for PDF, EPUB""  ",Books & Reference ,Personal Info
+    37 ,Moon+ Reader                     ,Books & Reference ,App activity
+    37 ,Moon+ Reader                     ,Books & Reference ,App info and performance
+    37 ,Moon+ Reader                     ,Books & Reference ,App info and performance
+    37 ,Moon+ Reader                     ,Books & Reference ,Device or other IDs
+    37 ,Moon+ Reader                     ,Books & Reference ,Device or other IDs
+    37 ,Moon+ Reader                     ,Books & Reference ,Device or other IDs
+    37 ,Moon+ Reader                     ,Books & Reference ,Personal Info
+    38 ,Bible Gateway                    ,Books & Reference ,App activity
+    38 ,Bible Gateway                    ,Books & Reference ,App activity
+    38 ,Bible Gateway                    ,Books & Reference ,App activity
+    38 ,Bible Gateway                    ,Books & Reference ,App activity
+    38 ,Bible Gateway                    ,Books & Reference ,Contacts
+    38 ,Bible Gateway                    ,Books & Reference ,Location
+    39 ,WebNovel                         ,Books & Reference ,App activity
+    39 ,WebNovel                         ,Books & Reference ,Financial info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    39 ,WebNovel                         ,Books & Reference ,Personal Info
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,App activity
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,App info and performance
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,App info and performance
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,Device or other IDs
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,Device or other IDs
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,Device or other IDs
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,Device or other IDs
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,Personal Info
+    40 ,How to Draw XXXTentacion         ,Books & Reference ,Personal Info
+    41 ,Microsoft Teams                  ,Business          ,Not Provided
+    42 ,myJDW                            ,Business          ,App info and performance
+    42 ,myJDW                            ,Business          ,App info and performance
+    42 ,myJDW                            ,Business          ,Personal Info
+    43 ,Intune Company Portal            ,Business          ,Audio files
+    43 ,Intune Company Portal            ,Business          ,Calendar
+    43 ,Intune Company Portal            ,Business          ,Contacts
+    43 ,Intune Company Portal            ,Business          ,Location
+    43 ,Intune Company Portal            ,Business          ,Messages
+    43 ,Intune Company Portal            ,Business          ,Personal Info
+    43 ,Intune Company Portal            ,Business          ,Personal Info
+    43 ,Intune Company Portal            ,Business          ,Personal Info
+    43 ,Intune Company Portal            ,Business          ,Personal Info
+    44 ,"""Adobe Scan: PDF Scanner, OCR""   ",Business          ,Not Provided
+    45 ,Microsoft Authenticator          ,Business          ,Calendar
+    45 ,Microsoft Authenticator          ,Business          ,Contacts
+    45 ,Microsoft Authenticator          ,Business          ,Device or other IDs
+    45 ,Microsoft Authenticator          ,Business          ,Location
+    45 ,Microsoft Authenticator          ,Business          ,Messages
+    45 ,Microsoft Authenticator          ,Business          ,Personal Info
+    45 ,Microsoft Authenticator          ,Business          ,Personal Info
+    45 ,Microsoft Authenticator          ,Business          ,Personal Info
+    45 ,Microsoft Authenticator          ,Business          ,Photos and videos
+    45 ,Microsoft Authenticator          ,Business          ,Photos and videos
+    46 ,Docx Reader PDF Viewer Word      ,Business          ,App activity
+    46 ,Docx Reader PDF Viewer Word      ,Business          ,App info and performance
+    46 ,Docx Reader PDF Viewer Word      ,Business          ,App info and performance
+    46 ,Docx Reader PDF Viewer Word      ,Business          ,Device or other IDs
+    46 ,Docx Reader PDF Viewer Word      ,Business          ,Device or other IDs
+    46 ,Docx Reader PDF Viewer Word      ,Business          ,Location
+    46 ,Docx Reader PDF Viewer Word      ,Business          ,Personal Info
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,App info and performance
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,App info and performance
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Device or other IDs
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Location
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Location
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Personal Info
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Personal Info
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Personal Info
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Personal Info
+    47 ,"""Vault - Hide Pics, App Lock""    ",Business          ,Personal Info
+    49 ,Recargas tu Cell                 ,Business          ,App activity
+    49 ,Recargas tu Cell                 ,Business          ,App info and performance
+    49 ,Recargas tu Cell                 ,Business          ,App info and performance
+    49 ,Recargas tu Cell                 ,Business          ,Device or other IDs
+    49 ,Recargas tu Cell                 ,Business          ,Financial info
+    49 ,Recargas tu Cell                 ,Business          ,Location
+    49 ,Recargas tu Cell                 ,Business          ,Personal Info
+    49 ,Recargas tu Cell                 ,Business          ,Personal Info
+    49 ,Recargas tu Cell                 ,Business          ,Personal Info
+    49 ,Recargas tu Cell                 ,Business          ,Personal Info
+    49 ,Recargas tu Cell                 ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,App info and performance
+    50 ,WipRecargas                      ,Business          ,Device or other IDs
+    50 ,WipRecargas                      ,Business          ,Health and fitness
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    50 ,WipRecargas                      ,Business          ,Personal Info
+    51 ,LinkedIn: Jobs & Business News   ,Business          ,Not Provided
+    52 ,Expedia Group Partner Central    ,Business          ,App activity
+    52 ,Expedia Group Partner Central    ,Business          ,Financial info
+    52 ,Expedia Group Partner Central    ,Business          ,Financial info
+    52 ,Expedia Group Partner Central    ,Business          ,Personal Info
+    52 ,Expedia Group Partner Central    ,Business          ,Personal Info
+    54 ,EverConnect                      ,Business          ,Device or other IDs
+    54 ,EverConnect                      ,Business          ,Personal Info
+    54 ,EverConnect                      ,Business          ,Personal Info
+    55 ,Me@Walmart                       ,Business          ,Personal Info
+    55 ,Me@Walmart                       ,Business          ,Personal Info
+    56 ,JobStack | Find a Job | Find T   ,Business          ,Not Provided
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,App activity
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,App info and performance
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,App info and performance
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,App info and performance
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,Device or other IDs
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,Device or other IDs
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,Device or other IDs
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,Device or other IDs
+    57 ,"""Resume Builder App, CV maker""   ",Business          ,Personal Info
+    58 ,FX File Explorer                 ,Business          ,Not Provided
+    59 ,Webex Meetings                   ,Business          ,App activity
+    59 ,Webex Meetings                   ,Business          ,Personal Info
+    60 ,Side - flex jobs & temp work     ,Business          ,Not Provided
+   142 ,Cloud Storage                    ,Business          ,Not Provided
+   154 ,Box                              ,Business          ,Not Provided
+   155 ,FX File Explorer                 ,Business          ,Not Provided
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App activity
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App activity
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App activity
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App activity
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App activity
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App activity
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App activity
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App info and performance
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,App info and performance
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Device or other IDs
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Device or other IDs
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Device or other IDs
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Device or other IDs
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Device or other IDs
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Device or other IDs
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Device or other IDs
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Financial info
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Location
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Location
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Location
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Personal Info
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Personal Info
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Personal Info
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Personal Info
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Photos and videos
+    61 ,Google Chrome: Fast & Secure     ,Communication     ,Photos and videos
+    62 ,Yahoo Mail – Organized Email     ,Communication     ,Not Provided
+    63 ,tellows - Caller ID & Block      ,Communication     ,App info and performance
+    63 ,tellows - Caller ID & Block      ,Communication     ,Contacts
+    63 ,tellows - Caller ID & Block      ,Communication     ,Device or other IDs
+    63 ,tellows - Caller ID & Block      ,Communication     ,Location
+    63 ,tellows - Caller ID & Block      ,Communication     ,Personal Info
+    63 ,tellows - Caller ID & Block      ,Communication     ,Personal Info
+    63 ,tellows - Caller ID & Block      ,Communication     ,Personal Info
+    64 ,Talkatone: Texting & Calling     ,Communication     ,Not Provided
+    65 ,"""UC Browser-Safe, Fast, Private"" ",Communication     ,Not Provided
+    66 ,"""Brave Private Web Browser, VPN"" ",Communication     ,Not Provided
+    67 ,MyBell                           ,Communication     ,Not Provided
+    68 ,Psiphon Pro                      ,Communication     ,Not Provided
+    69 ,Telegram                         ,Communication     ,Not Provided
+    70 ,2ndLine - Second Phone Number    ,Communication     ,Device or other IDs
+    70 ,2ndLine - Second Phone Number    ,Communication     ,Device or other IDs
+    70 ,2ndLine - Second Phone Number    ,Communication     ,Location
+    70 ,2ndLine - Second Phone Number    ,Communication     ,Personal Info
+    71 ,Samsung Internet Browser         ,Communication     ,App activity
+    71 ,Samsung Internet Browser         ,Communication     ,App info and performance
+    71 ,Samsung Internet Browser         ,Communication     ,App info and performance
+    71 ,Samsung Internet Browser         ,Communication     ,App info and performance
+    71 ,Samsung Internet Browser         ,Communication     ,Audio files
+    71 ,Samsung Internet Browser         ,Communication     ,Contacts
+    71 ,Samsung Internet Browser         ,Communication     ,Device or other IDs
+    71 ,Samsung Internet Browser         ,Communication     ,Financial info
+    71 ,Samsung Internet Browser         ,Communication     ,Financial info
+    71 ,Samsung Internet Browser         ,Communication     ,Location
+    71 ,Samsung Internet Browser         ,Communication     ,Personal Info
+    71 ,Samsung Internet Browser         ,Communication     ,Personal Info
+    71 ,Samsung Internet Browser         ,Communication     ,Personal Info
+    72 ,VozApp                           ,Communication     ,App info and performance
+    72 ,VozApp                           ,Communication     ,App info and performance
+    72 ,VozApp                           ,Communication     ,Financial info
+    72 ,VozApp                           ,Communication     ,Personal Info
+    72 ,VozApp                           ,Communication     ,Personal Info
+    72 ,VozApp                           ,Communication     ,Personal Info
+    72 ,VozApp                           ,Communication     ,Personal Info
+    73 ,Kiwi Browser - Fast & Quiet      ,Communication     ,App activity
+    73 ,Kiwi Browser - Fast & Quiet      ,Communication     ,App info and performance
+    73 ,Kiwi Browser - Fast & Quiet      ,Communication     ,Device or other IDs
+    74 ,Skype                            ,Communication     ,Not Provided
+    75 ,Psiphon                          ,Communication     ,Not Provided
+    77 ,UC Mini-Download Video Status    ,Communication     ,Not Provided
+    78 ,LINE: Calls & Messages           ,Communication     ,App activity
+    78 ,LINE: Calls & Messages           ,Communication     ,Contacts
+    78 ,LINE: Calls & Messages           ,Communication     ,Location
+    78 ,LINE: Calls & Messages           ,Communication     ,Personal Info
+    78 ,LINE: Calls & Messages           ,Communication     ,Personal Info
+    78 ,LINE: Calls & Messages           ,Communication     ,Personal Info
+    78 ,LINE: Calls & Messages           ,Communication     ,Personal Info
+    79 ,Zello PTT Walkie Talkie          ,Communication     ,Device or other IDs
+    79 ,Zello PTT Walkie Talkie          ,Communication     ,Location
+    79 ,Zello PTT Walkie Talkie          ,Communication     ,Personal Info
+    79 ,Zello PTT Walkie Talkie          ,Communication     ,Personal Info
+    79 ,Zello PTT Walkie Talkie          ,Communication     ,Web browsing
+    80 ,Bang Browser-All Video downloa   ,Communication     ,App info and performance
+    80 ,Bang Browser-All Video downloa   ,Communication     ,Personal Info
+    80 ,Bang Browser-All Video downloa   ,Communication     ,Personal Info
+    80 ,Bang Browser-All Video downloa   ,Communication     ,Personal Info
+    80 ,Bang Browser-All Video downloa   ,Communication     ,Personal Info
+    80 ,Bang Browser-All Video downloa   ,Communication     ,Personal Info
+    81 ,QQ                               ,Communication     ,Not Provided
+    82 ,Messenger Kids – The Messaging   ,Communication     ,Not Provided
+    83 ,WAMR: Undelete messages!         ,Communication     ,App activity
+    83 ,WAMR: Undelete messages!         ,Communication     ,App activity
+    83 ,WAMR: Undelete messages!         ,Communication     ,App info and performance
+    83 ,WAMR: Undelete messages!         ,Communication     ,App info and performance
+    83 ,WAMR: Undelete messages!         ,Communication     ,Device or other IDs
+    83 ,WAMR: Undelete messages!         ,Communication     ,Device or other IDs
+    83 ,WAMR: Undelete messages!         ,Communication     ,Device or other IDs
+    83 ,WAMR: Undelete messages!         ,Communication     ,Device or other IDs
+    83 ,WAMR: Undelete messages!         ,Communication     ,Personal Info
+    84 ,Getcontact                       ,Communication     ,Financial info
+    84 ,Getcontact                       ,Communication     ,Personal Info
+    84 ,Getcontact                       ,Communication     ,Personal Info
+    84 ,Getcontact                       ,Communication     ,Personal Info
+    84 ,Getcontact                       ,Communication     ,Personal Info
+    84 ,Getcontact                       ,Communication     ,Personal Info
+    85 ,BiggerCity: Gay bears & chubs    ,Dating            ,Not Provided
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,App activity
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,App activity
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,Device or other IDs
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,Device or other IDs
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,Personal Info
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,Personal Info
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,Personal Info
+    86 ,Hinge Dating App: Meet & Date    ,Dating            ,Personal Info
+    87 ,CooMeet: Video Chat with Girls   ,Dating            ,App activity
+    87 ,CooMeet: Video Chat with Girls   ,Dating            ,Device or other IDs
+    87 ,CooMeet: Video Chat with Girls   ,Dating            ,Personal Info
+    88 ,Match: Dating App for singles    ,Dating            ,App activity
+    88 ,Match: Dating App for singles    ,Dating            ,App activity
+    88 ,Match: Dating App for singles    ,Dating            ,App info and performance
+    88 ,Match: Dating App for singles    ,Dating            ,Device or other IDs
+    88 ,Match: Dating App for singles    ,Dating            ,Personal Info
+    88 ,Match: Dating App for singles    ,Dating            ,Personal Info
+    89 ,Chispa: Dating App for Latinos   ,Dating            ,App info and performance
+    89 ,Chispa: Dating App for Latinos   ,Dating            ,Personal Info
+    90 ,LatinAmericanCupid: Latin Chat   ,Dating            ,Not Provided
+    91 ,Once: Perfect Match and Dates    ,Dating            ,Contacts
+    91 ,Once: Perfect Match and Dates    ,Dating            ,Location
+    91 ,Once: Perfect Match and Dates    ,Dating            ,Personal Info
+    91 ,Once: Perfect Match and Dates    ,Dating            ,Personal Info
+    91 ,Once: Perfect Match and Dates    ,Dating            ,Personal Info
+    91 ,Once: Perfect Match and Dates    ,Dating            ,Personal Info
+    92 ,eharmony dating & real love      ,Dating            ,Contacts
+    92 ,eharmony dating & real love      ,Dating            ,Personal Info
+    92 ,eharmony dating & real love      ,Dating            ,Personal Info
+    92 ,eharmony dating & real love      ,Dating            ,Personal Info
+    92 ,eharmony dating & real love      ,Dating            ,Personal Info
+    93 ,AfroIntroductions: Afro Dating   ,Dating            ,App info and performance
+    93 ,AfroIntroductions: Afro Dating   ,Dating            ,Personal Info
+    93 ,AfroIntroductions: Afro Dating   ,Dating            ,Personal Info
+    93 ,AfroIntroductions: Afro Dating   ,Dating            ,Personal Info
+    94 ,BBWCupid: BBW Dating Plus Chat   ,Dating            ,App activity
+    94 ,BBWCupid: BBW Dating Plus Chat   ,Dating            ,App info and performance
+    94 ,BBWCupid: BBW Dating Plus Chat   ,Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,App activity
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,App activity
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,App activity
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,App activity
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Contacts
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Financial info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Location
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    95 ,"""Mobifriends: Date, meet people"" ",Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,App activity
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,App info and performance
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Device or other IDs
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Location
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    96 ,ColombianCupid Colombia Dating   ,Dating            ,Personal Info
+    97 ,MexicanCupid: Mexican Dating     ,Dating            ,Device or other IDs
+    97 ,MexicanCupid: Mexican Dating     ,Dating            ,Personal Info
+    98 ,buzzArab Arab & Muslim Dating    ,Dating            ,Not Provided
+    99 ,"""Fotka - dating, chat and flirt"" ",Dating            ,Not Provided
+   100 ,BLK Dating: Meet Black Singles   ,Dating            ,App activity
+   100 ,BLK Dating: Meet Black Singles   ,Dating            ,App activity
+   100 ,BLK Dating: Meet Black Singles   ,Dating            ,App activity
+   100 ,BLK Dating: Meet Black Singles   ,Dating            ,App activity
+   100 ,BLK Dating: Meet Black Singles   ,Dating            ,App info and performance
+   100 ,BLK Dating: Meet Black Singles   ,Dating            ,Personal Info
+   100 ,BLK Dating: Meet Black Singles   ,Dating            ,Personal Info
+   101 ,Spdate - meet singles nearby o   ,Dating            ,App info and performance
+   101 ,Spdate - meet singles nearby o   ,Dating            ,Location
+   101 ,Spdate - meet singles nearby o   ,Dating            ,Personal Info
+   101 ,Spdate - meet singles nearby o   ,Dating            ,Personal Info
+   101 ,Spdate - meet singles nearby o   ,Dating            ,Personal Info
+   101 ,Spdate - meet singles nearby o   ,Dating            ,Photos and videos
+   101 ,Spdate - meet singles nearby o   ,Dating            ,Photos and videos
+    11 ,Meme Generator Meme Maker        ,Entertainment     ,Not Provided
+   247 ,GeForce NOW Cloud Gaming         ,Entertainment     ,Not Provided
+   102 ,Universal TV Remote Control      ,House & Home      ,App activity
+   102 ,Universal TV Remote Control      ,House & Home      ,Web browsing
+   102 ,Universal TV Remote Control      ,House & Home      ,Web browsing
+   103 ,Night Owl Protect                ,House & Home      ,Device or other IDs
+   103 ,Night Owl Protect                ,House & Home      ,Personal Info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,App info and performance
+   104 ,Homestyler-Room Realize design   ,House & Home      ,App info and performance
+   104 ,Homestyler-Room Realize design   ,House & Home      ,App info and performance
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Contacts
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Device or other IDs
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Financial info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Financial info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Personal Info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Personal Info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Personal Info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Personal Info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Personal Info
+   104 ,Homestyler-Room Realize design   ,House & Home      ,Personal Info
+   105 ,Vivint                           ,House & Home      ,Not Provided
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,App info and performance
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Device or other IDs
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Device or other IDs
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Device or other IDs
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Health and fitness
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Health and fitness
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Location
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Location
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Personal Info
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Personal Info
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Personal Info
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Personal Info
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Personal Info
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Personal Info
+   106 ,SURE - Smart Home and TV Unive   ,House & Home      ,Photos and videos
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,App activity
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,App activity
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,App activity
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,App info and performance
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,App info and performance
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,Contacts
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,Financial info
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,Personal Info
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,Personal Info
+   107 ,Houzz - Home Design & Remodel    ,House & Home      ,Personal Info
+   108 ,Universal TV Remote Control      ,House & Home      ,App activity
+   108 ,Universal TV Remote Control      ,House & Home      ,Device or other IDs
+   108 ,Universal TV Remote Control      ,House & Home      ,Device or other IDs
+   108 ,Universal TV Remote Control      ,House & Home      ,Device or other IDs
+   108 ,Universal TV Remote Control      ,House & Home      ,Personal Info
+   108 ,Universal TV Remote Control      ,House & Home      ,Personal Info
+   109 ,tinyCam Monitor                  ,House & Home      ,App info and performance
+   109 ,tinyCam Monitor                  ,House & Home      ,Device or other IDs
+   109 ,tinyCam Monitor                  ,House & Home      ,Device or other IDs
+   109 ,tinyCam Monitor                  ,House & Home      ,Device or other IDs
+   109 ,tinyCam Monitor                  ,House & Home      ,Location
+   109 ,tinyCam Monitor                  ,House & Home      ,Personal Info
+   109 ,tinyCam Monitor                  ,House & Home      ,Personal Info
+   109 ,tinyCam Monitor                  ,House & Home      ,Personal Info
+   109 ,tinyCam Monitor                  ,House & Home      ,Personal Info
+   109 ,tinyCam Monitor                  ,House & Home      ,Photos and videos
+   110 ,TV Remote for LG  (Smart TV Re   ,House & Home      ,Audio files
+   110 ,TV Remote for LG  (Smart TV Re   ,House & Home      ,Personal Info
+   111 ,Home Security Camera WardenCam   ,House & Home      ,App info and performance
+   111 ,Home Security Camera WardenCam   ,House & Home      ,Device or other IDs
+   111 ,Home Security Camera WardenCam   ,House & Home      ,Device or other IDs
+   111 ,Home Security Camera WardenCam   ,House & Home      ,Device or other IDs
+   111 ,Home Security Camera WardenCam   ,House & Home      ,Personal Info
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,App info and performance
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,App info and performance
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,App info and performance
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,App info and performance
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Contacts
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Device or other IDs
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Device or other IDs
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Device or other IDs
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Device or other IDs
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Location
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Personal Info
+   112 ,"""PRIME Wire and Cable, Inc.""     ",House & Home      ,Personal Info
+   113 ,Real Estate sale & rent Trovit   ,House & Home      ,App activity
+   114 ,British Gas                      ,House & Home      ,Personal Info
+   115 ,Vivitar Smart Home Security      ,House & Home      ,App activity
+   115 ,Vivitar Smart Home Security      ,House & Home      ,App info and performance
+   115 ,Vivitar Smart Home Security      ,House & Home      ,App info and performance
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Contacts
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Device or other IDs
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Device or other IDs
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Device or other IDs
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Financial info
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Personal Info
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Personal Info
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Personal Info
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Personal Info
+   115 ,Vivitar Smart Home Security      ,House & Home      ,Personal Info
+   116 ,ActiveBuilding                   ,House & Home      ,Contacts
+   116 ,ActiveBuilding                   ,House & Home      ,Financial info
+   116 ,ActiveBuilding                   ,House & Home      ,Personal Info
+   116 ,ActiveBuilding                   ,House & Home      ,Personal Info
+   116 ,ActiveBuilding                   ,House & Home      ,Personal Info
+   116 ,ActiveBuilding                   ,House & Home      ,Personal Info
+   116 ,ActiveBuilding                   ,House & Home      ,Web browsing
+   117 ,AQ STAR                          ,House & Home      ,App activity
+   117 ,AQ STAR                          ,House & Home      ,App info and performance
+   117 ,AQ STAR                          ,House & Home      ,App info and performance
+   117 ,AQ STAR                          ,House & Home      ,App info and performance
+   117 ,AQ STAR                          ,House & Home      ,App info and performance
+   117 ,AQ STAR                          ,House & Home      ,Device or other IDs
+   117 ,AQ STAR                          ,House & Home      ,Financial info
+   117 ,AQ STAR                          ,House & Home      ,Financial info
+   117 ,AQ STAR                          ,House & Home      ,Financial info
+   117 ,AQ STAR                          ,House & Home      ,Location
+   117 ,AQ STAR                          ,House & Home      ,Location
+   117 ,AQ STAR                          ,House & Home      ,Location
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   117 ,AQ STAR                          ,House & Home      ,Personal Info
+   118 ,Remote Control for Roku TV       ,House & Home      ,App info and performance
+   118 ,Remote Control for Roku TV       ,House & Home      ,Device or other IDs
+   118 ,Remote Control for Roku TV       ,House & Home      ,Device or other IDs
+   118 ,Remote Control for Roku TV       ,House & Home      ,Device or other IDs
+   118 ,Remote Control for Roku TV       ,House & Home      ,Device or other IDs
+   118 ,Remote Control for Roku TV       ,House & Home      ,Device or other IDs
+   118 ,Remote Control for Roku TV       ,House & Home      ,Device or other IDs
+   118 ,Remote Control for Roku TV       ,House & Home      ,Location
+   119 ,MySmartE                         ,House & Home      ,App info and performance
+   119 ,MySmartE                         ,House & Home      ,Device or other IDs
+   119 ,MySmartE                         ,House & Home      ,Location
+   119 ,MySmartE                         ,House & Home      ,Personal Info
+   119 ,MySmartE                         ,House & Home      ,Personal Info
+   119 ,MySmartE                         ,House & Home      ,Personal Info
+   119 ,MySmartE                         ,House & Home      ,Personal Info
+   119 ,MySmartE                         ,House & Home      ,Personal Info
+   120 ,Pinterest                        ,Lifestyle         ,Not Provided
+   121 ,Google Home                      ,Lifestyle         ,Not Provided
+   122 ,AttaPoll - Paid Surveys          ,Lifestyle         ,App info and performance
+   122 ,AttaPoll - Paid Surveys          ,Lifestyle         ,App info and performance
+   122 ,AttaPoll - Paid Surveys          ,Lifestyle         ,Device or other IDs
+   122 ,AttaPoll - Paid Surveys          ,Lifestyle         ,Location
+   122 ,AttaPoll - Paid Surveys          ,Lifestyle         ,Personal Info
+   122 ,AttaPoll - Paid Surveys          ,Lifestyle         ,Personal Info
+   122 ,AttaPoll - Paid Surveys          ,Lifestyle         ,Personal Info
+   123 ,SmartThings                      ,Lifestyle         ,Not Provided
+   124 ,Rightmove Property Search        ,Lifestyle         ,App activity
+   124 ,Rightmove Property Search        ,Lifestyle         ,Device or other IDs
+   124 ,Rightmove Property Search        ,Lifestyle         ,Financial info
+   124 ,Rightmove Property Search        ,Lifestyle         ,Financial info
+   124 ,Rightmove Property Search        ,Lifestyle         ,Personal Info
+   124 ,Rightmove Property Search        ,Lifestyle         ,Personal Info
+   124 ,Rightmove Property Search        ,Lifestyle         ,Personal Info
+   124 ,Rightmove Property Search        ,Lifestyle         ,Personal Info
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Device or other IDs
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Device or other IDs
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Device or other IDs
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Device or other IDs
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Device or other IDs
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Device or other IDs
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Location
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Personal Info
+   125 ,Santa Biblia Reina Valera        ,Lifestyle         ,Personal Info
+   126 ,MY FamilyMart                    ,Lifestyle         ,App activity
+   126 ,MY FamilyMart                    ,Lifestyle         ,App info and performance
+   126 ,MY FamilyMart                    ,Lifestyle         ,App info and performance
+   126 ,MY FamilyMart                    ,Lifestyle         ,Device or other IDs
+   126 ,MY FamilyMart                    ,Lifestyle         ,Device or other IDs
+   126 ,MY FamilyMart                    ,Lifestyle         ,Financial info
+   126 ,MY FamilyMart                    ,Lifestyle         ,Personal Info
+   126 ,MY FamilyMart                    ,Lifestyle         ,Personal Info
+   126 ,MY FamilyMart                    ,Lifestyle         ,Personal Info
+   126 ,MY FamilyMart                    ,Lifestyle         ,Personal Info
+   126 ,MY FamilyMart                    ,Lifestyle         ,Personal Info
+   127 ,Santa Biblia Reina Valera 1960   ,Lifestyle         ,App activity
+   127 ,Santa Biblia Reina Valera 1960   ,Lifestyle         ,Personal Info
+   127 ,Santa Biblia Reina Valera 1960   ,Lifestyle         ,Personal Info
+   128 ,Tesla                            ,Lifestyle         ,App activity
+   128 ,Tesla                            ,Lifestyle         ,App activity
+   128 ,Tesla                            ,Lifestyle         ,App info and performance
+   128 ,Tesla                            ,Lifestyle         ,Device or other IDs
+   128 ,Tesla                            ,Lifestyle         ,Device or other IDs
+   128 ,Tesla                            ,Lifestyle         ,Personal Info
+   129 ,myChevrolet                      ,Lifestyle         ,App activity
+   129 ,myChevrolet                      ,Lifestyle         ,App info and performance
+   129 ,myChevrolet                      ,Lifestyle         ,App info and performance
+   129 ,myChevrolet                      ,Lifestyle         ,Device or other IDs
+   129 ,myChevrolet                      ,Lifestyle         ,Location
+   129 ,myChevrolet                      ,Lifestyle         ,Personal Info
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,App activity
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Audio files
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Device or other IDs
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Device or other IDs
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Device or other IDs
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Device or other IDs
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Device or other IDs
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Device or other IDs
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Device or other IDs
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Health and fitness
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Location
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Personal Info
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Personal Info
+   130 ,Smart Life - Smart Living        ,Lifestyle         ,Photos and videos
+   131 ,Every Timer-WiFi/Bluetooth/Sou   ,Lifestyle         ,Device or other IDs
+   131 ,Every Timer-WiFi/Bluetooth/Sou   ,Lifestyle         ,Device or other IDs
+   131 ,Every Timer-WiFi/Bluetooth/Sou   ,Lifestyle         ,Financial info
+   131 ,Every Timer-WiFi/Bluetooth/Sou   ,Lifestyle         ,Location
+   131 ,Every Timer-WiFi/Bluetooth/Sou   ,Lifestyle         ,Personal Info
+   132 ,Pets4Homes                       ,Lifestyle         ,App info and performance
+   132 ,Pets4Homes                       ,Lifestyle         ,App info and performance
+   132 ,Pets4Homes                       ,Lifestyle         ,App info and performance
+   132 ,Pets4Homes                       ,Lifestyle         ,Device or other IDs
+   132 ,Pets4Homes                       ,Lifestyle         ,Messages
+   132 ,Pets4Homes                       ,Lifestyle         ,Personal Info
+   132 ,Pets4Homes                       ,Lifestyle         ,Personal Info
+   132 ,Pets4Homes                       ,Lifestyle         ,Personal Info
+   132 ,Pets4Homes                       ,Lifestyle         ,Personal Info
+   132 ,Pets4Homes                       ,Lifestyle         ,Personal Info
+   133 ,Puffco Connect                   ,Lifestyle         ,Device or other IDs
+   133 ,Puffco Connect                   ,Lifestyle         ,Financial info
+   133 ,Puffco Connect                   ,Lifestyle         ,Location
+   133 ,Puffco Connect                   ,Lifestyle         ,Personal Info
+   134 ,SwingLifeStyle (SLS)             ,Lifestyle         ,Personal Info
+   134 ,SwingLifeStyle (SLS)             ,Lifestyle         ,Personal Info
+   135 ,Bagan - Myanmar Keyboard         ,Lifestyle         ,App activity
+   135 ,Bagan - Myanmar Keyboard         ,Lifestyle         ,Device or other IDs
+   135 ,Bagan - Myanmar Keyboard         ,Lifestyle         ,Location
+   135 ,Bagan - Myanmar Keyboard         ,Lifestyle         ,Personal Info
+   136 ,Tuya Smart                       ,Lifestyle         ,App info and performance
+   136 ,Tuya Smart                       ,Lifestyle         ,Financial info
+   136 ,Tuya Smart                       ,Lifestyle         ,Health and fitness
+   136 ,Tuya Smart                       ,Lifestyle         ,Location
+   136 ,Tuya Smart                       ,Lifestyle         ,Personal Info
+   137 ,happn - Dating App               ,Lifestyle         ,Not Provided
+   138 ,The Badass App                   ,Lifestyle         ,App activity
+   138 ,The Badass App                   ,Lifestyle         ,App activity
+   138 ,The Badass App                   ,Lifestyle         ,App info and performance
+   138 ,The Badass App                   ,Lifestyle         ,Financial info
+   138 ,The Badass App                   ,Lifestyle         ,Location
+   138 ,The Badass App                   ,Lifestyle         ,Personal Info
+   138 ,The Badass App                   ,Lifestyle         ,Personal Info
+   139 ,MyDyson™                         ,Lifestyle         ,App activity
+   139 ,MyDyson™                         ,Lifestyle         ,App info and performance
+   139 ,MyDyson™                         ,Lifestyle         ,Device or other IDs
+   166 ,Parallel Space - app cloning     ,Personalization   ,Not Provided
+   199 ,Microsoft SwiftKey AI Keyboard   ,Personalization   ,Not Provided
+   167 ,Video Editor & Maker - InShot    ,Photography       ,Not Provided
+   168 ,Lightroom Photo & Video Editor   ,Photography       ,Not Provided
+   169 ,B612 AI Photo&Video Editor       ,Photography       ,Device or other IDs
+   169 ,B612 AI Photo&Video Editor       ,Photography       ,Device or other IDs
+   169 ,B612 AI Photo&Video Editor       ,Photography       ,Location
+   169 ,B612 AI Photo&Video Editor       ,Photography       ,Personal Info
+   169 ,B612 AI Photo&Video Editor       ,Photography       ,Personal Info
+   170 ,Open Camera                      ,Photography       ,Not Provided
+   171 ,Photoshop Express Photo Editor   ,Photography       ,Not Provided
+   172 ,ToonMe - cartoons from photos    ,Photography       ,Not Provided
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,App activity
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,App activity
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,App info and performance
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,Device or other IDs
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,Device or other IDs
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,Personal Info
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,Personal Info
+   173 ,Camera Editor- Sweet Selfie      ,Photography       ,Personal Info
+   174 ,Phonto - Text on Photos          ,Photography       ,App activity
+   174 ,Phonto - Text on Photos          ,Photography       ,App info and performance
+   174 ,Phonto - Text on Photos          ,Photography       ,Device or other IDs
+   174 ,Phonto - Text on Photos          ,Photography       ,Personal Info
+   175 ,Photo Editor Pro - Polish        ,Photography       ,App activity
+   175 ,Photo Editor Pro - Polish        ,Photography       ,App activity
+   175 ,Photo Editor Pro - Polish        ,Photography       ,App info and performance
+   175 ,Photo Editor Pro - Polish        ,Photography       ,Device or other IDs
+   175 ,Photo Editor Pro - Polish        ,Photography       ,Location
+   175 ,Photo Editor Pro - Polish        ,Photography       ,Personal Info
+   175 ,Photo Editor Pro - Polish        ,Photography       ,Personal Info
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,App activity
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,App info and performance
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,Contacts
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,Device or other IDs
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,Device or other IDs
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,Location
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,Personal Info
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,Photos and videos
+   176 ,A+ Gallery - Photos & Videos     ,Photography       ,Photos and videos
+   177 ,Remove BG - Background Eraser    ,Photography       ,Not Provided
+   178 ,Photo Editor                     ,Photography       ,App activity
+   178 ,Photo Editor                     ,Photography       ,Device or other IDs
+   178 ,Photo Editor                     ,Photography       ,Personal Info
+   178 ,Photo Editor                     ,Photography       ,Personal Info
+   179 ,PixelLab - Text on pictures      ,Photography       ,App activity
+   179 ,PixelLab - Text on pictures      ,Photography       ,App info and performance
+   179 ,PixelLab - Text on pictures      ,Photography       ,Device or other IDs
+   179 ,PixelLab - Text on pictures      ,Photography       ,Location
+   179 ,PixelLab - Text on pictures      ,Photography       ,Personal Info
+   179 ,PixelLab - Text on pictures      ,Photography       ,Personal Info
+   180 ,Background Eraser                ,Photography       ,Not Provided
+   181 ,Bestie - Camera360 Selfie        ,Photography       ,App info and performance
+   181 ,Bestie - Camera360 Selfie        ,Photography       ,Audio files
+   181 ,Bestie - Camera360 Selfie        ,Photography       ,Device or other IDs
+   181 ,Bestie - Camera360 Selfie        ,Photography       ,Device or other IDs
+   182 ,NewProfilePic: Profile Picture   ,Photography       ,Not Provided
+   183 ,Cymera - Photo Editor Collage    ,Photography       ,Contacts
+   183 ,Cymera - Photo Editor Collage    ,Photography       ,Financial info
+   183 ,Cymera - Photo Editor Collage    ,Photography       ,Personal Info
+   183 ,Cymera - Photo Editor Collage    ,Photography       ,Personal Info
+   184 ,Camera360:Photo Editor&Selfie    ,Photography       ,Personal Info
+   185 ,Retrica                          ,Photography       ,App activity
+   185 ,Retrica                          ,Photography       ,App info and performance
+   185 ,Retrica                          ,Photography       ,Personal Info
+   185 ,Retrica                          ,Photography       ,Personal Info
+   185 ,Retrica                          ,Photography       ,Personal Info
+   185 ,Retrica                          ,Photography       ,Personal Info
+   185 ,Retrica                          ,Photography       ,Personal Info
+   186 ,Film Maker Pro - Movie Maker     ,Photography       ,Not Provided
+    53 ,Xodo PDF Reader & Editor         ,Productivity      ,Not Provided
+   140 ,Icedrive #Secure Cloud Storage   ,Productivity      ,Not Provided
+   143 ,Degoo: 20 GB Cloud Storage       ,Productivity      ,Device or other IDs
+   143 ,Degoo: 20 GB Cloud Storage       ,Productivity      ,Financial info
+   143 ,Degoo: 20 GB Cloud Storage       ,Productivity      ,Personal Info
+   143 ,Degoo: 20 GB Cloud Storage       ,Productivity      ,Personal Info
+   144 ,File Manager                     ,Productivity      ,Contacts
+   144 ,File Manager                     ,Productivity      ,Device or other IDs
+   144 ,File Manager                     ,Productivity      ,Device or other IDs
+   144 ,File Manager                     ,Productivity      ,Device or other IDs
+   144 ,File Manager                     ,Productivity      ,Financial info
+   144 ,File Manager                     ,Productivity      ,Personal Info
+   146 ,MEGA                             ,Productivity      ,App info and performance
+   147 ,Microsoft OneDrive               ,Productivity      ,Not Provided
+   149 ,pCloud: Cloud Storage            ,Productivity      ,Device or other IDs
+   149 ,pCloud: Cloud Storage            ,Productivity      ,Device or other IDs
+   149 ,pCloud: Cloud Storage            ,Productivity      ,Device or other IDs
+   149 ,pCloud: Cloud Storage            ,Productivity      ,Device or other IDs
+   149 ,pCloud: Cloud Storage            ,Productivity      ,Financial info
+   149 ,pCloud: Cloud Storage            ,Productivity      ,Location
+   153 ,Solid Explorer File Manager      ,Productivity      ,Not Provided
+   156 ,Proton Drive: Cloud Storage      ,Productivity      ,Not Provided
+   160 ,File Manager - File Explorer     ,Productivity      ,App activity
+   160 ,File Manager - File Explorer     ,Productivity      ,App activity
+   160 ,File Manager - File Explorer     ,Productivity      ,App info and performance
+   160 ,File Manager - File Explorer     ,Productivity      ,App info and performance
+   160 ,File Manager - File Explorer     ,Productivity      ,App info and performance
+   160 ,File Manager - File Explorer     ,Productivity      ,Device or other IDs
+   160 ,File Manager - File Explorer     ,Productivity      ,Device or other IDs
+   160 ,File Manager - File Explorer     ,Productivity      ,Device or other IDs
+   160 ,File Manager - File Explorer     ,Productivity      ,Personal Info
+   187 ,Microsoft Word: Edit Documents   ,Productivity      ,Not Provided
+   188 ,MediaFire                        ,Productivity      ,Not Provided
+   189 ,"""CamScanner- scanner, PDF maker"" ",Productivity      ,App activity
+   189 ,"""CamScanner- scanner, PDF maker"" ",Productivity      ,App info and performance
+   189 ,"""CamScanner- scanner, PDF maker"" ",Productivity      ,Device or other IDs
+   189 ,"""CamScanner- scanner, PDF maker"" ",Productivity      ,Financial info
+   189 ,"""CamScanner- scanner, PDF maker"" ",Productivity      ,Personal Info
+   189 ,"""CamScanner- scanner, PDF maker"" ",Productivity      ,Personal Info
+   190 ,Microsoft 365 (Office)           ,Productivity      ,Not Provided
+   191 ,MEGA                             ,Productivity      ,App info and performance
+   192 ,Microsoft PowerPoint             ,Productivity      ,Not Provided
+   193 ,Microsoft Excel: Spreadsheets    ,Productivity      ,Not Provided
+   194 ,Microsoft Outlook                ,Productivity      ,Not Provided
+   195 ,Quick Settings for Android       ,Productivity      ,App activity
+   195 ,Quick Settings for Android       ,Productivity      ,App activity
+   195 ,Quick Settings for Android       ,Productivity      ,App activity
+   195 ,Quick Settings for Android       ,Productivity      ,App info and performance
+   195 ,Quick Settings for Android       ,Productivity      ,Device or other IDs
+   195 ,Quick Settings for Android       ,Productivity      ,Device or other IDs
+   195 ,Quick Settings for Android       ,Productivity      ,Personal Info
+   196 ,OPPO Clone Phone                 ,Productivity      ,App activity
+   196 ,OPPO Clone Phone                 ,Productivity      ,App info and performance
+   196 ,OPPO Clone Phone                 ,Productivity      ,Personal Info
+   197 ,Mobizen Screen Recorder          ,Productivity      ,App activity
+   197 ,Mobizen Screen Recorder          ,Productivity      ,App info and performance
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Contacts
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Device or other IDs
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Device or other IDs
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Financial info
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Location
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Personal Info
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Personal Info
+   197 ,Mobizen Screen Recorder          ,Productivity      ,Personal Info
+   198 ,File Manager                     ,Productivity      ,App activity
+   198 ,File Manager                     ,Productivity      ,App activity
+   198 ,File Manager                     ,Productivity      ,App info and performance
+   198 ,File Manager                     ,Productivity      ,Contacts
+   198 ,File Manager                     ,Productivity      ,Device or other IDs
+   198 ,File Manager                     ,Productivity      ,Device or other IDs
+   198 ,File Manager                     ,Productivity      ,Financial info
+   198 ,File Manager                     ,Productivity      ,Financial info
+   198 ,File Manager                     ,Productivity      ,Personal Info
+   198 ,File Manager                     ,Productivity      ,Personal Info
+   198 ,File Manager                     ,Productivity      ,Personal Info
+   198 ,File Manager                     ,Productivity      ,Personal Info
+   200 ,WhatTheFont                      ,Productivity      ,Device or other IDs
+   200 ,WhatTheFont                      ,Productivity      ,Location
+   200 ,WhatTheFont                      ,Productivity      ,Personal Info
+   200 ,WhatTheFont                      ,Productivity      ,Web browsing
+   201 ,My Vodafone                      ,Productivity      ,App activity
+   201 ,My Vodafone                      ,Productivity      ,App activity
+   201 ,My Vodafone                      ,Productivity      ,App info and performance
+   201 ,My Vodafone                      ,Productivity      ,Device or other IDs
+   201 ,My Vodafone                      ,Productivity      ,Location
+   202 ,New PDF Reader                   ,Productivity      ,Not Provided
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,App activity
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,Audio files
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,Contacts
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,Device or other IDs
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,Personal Info
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,Personal Info
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,Personal Info
+   203 ,Adobe Acrobat Reader: Edit PDF   ,Productivity      ,Personal Info
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,App activity
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,App info and performance
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,App info and performance
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,Device or other IDs
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,Device or other IDs
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,Device or other IDs
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,Personal Info
+   204 ,Apps Manager - Your Play Store   ,Productivity      ,Personal Info
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,App info and performance
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,Device or other IDs
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,Device or other IDs
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,Location
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,Personal Info
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,Personal Info
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,Personal Info
+   205 ,"""WPS Office-PDF,Word,Sheet,PPT""  ",Productivity      ,Personal Info
+   206 ,Boot Apps                        ,Productivity      ,Personal Info
+   207 ,Google Slides                    ,Productivity      ,Not Provided
+   208 ,TeamViewer QuickSupport          ,Productivity      ,App activity
+   208 ,TeamViewer QuickSupport          ,Productivity      ,App activity
+   208 ,TeamViewer QuickSupport          ,Productivity      ,App info and performance
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Device or other IDs
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Financial info
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Personal Info
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Personal Info
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Personal Info
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Personal Info
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Personal Info
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Personal Info
+   208 ,TeamViewer QuickSupport          ,Productivity      ,Personal Info
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,App activity
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,App info and performance
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Device or other IDs
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Device or other IDs
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Location
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Location
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Personal Info
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Personal Info
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Personal Info
+   209 ,WiFi Passwords Map Instabridge   ,Productivity      ,Personal Info
+   210 ,Microsoft OneDrive               ,Productivity      ,Not Provided
+   211 ,RecargaMarcas TAE                ,Productivity      ,Device or other IDs
+   211 ,RecargaMarcas TAE                ,Productivity      ,Device or other IDs
+   211 ,RecargaMarcas TAE                ,Productivity      ,Location
+   211 ,RecargaMarcas TAE                ,Productivity      ,Photos and videos
+   212 ,ColorNote Notepad Notes          ,Productivity      ,App activity
+   212 ,ColorNote Notepad Notes          ,Productivity      ,App activity
+   212 ,ColorNote Notepad Notes          ,Productivity      ,App info and performance
+   212 ,ColorNote Notepad Notes          ,Productivity      ,Contacts
+   212 ,ColorNote Notepad Notes          ,Productivity      ,Personal Info
+   212 ,ColorNote Notepad Notes          ,Productivity      ,Personal Info
+   213 ,HP Smart                         ,Productivity      ,Personal Info
+   214 ,iCECC                            ,Productivity      ,Not Provided
+   215 ,OfferUp: Buy. Sell. Letgo.       ,Shopping          ,Not Provided
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App activity
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,App info and performance
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Device or other IDs
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Device or other IDs
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Device or other IDs
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Device or other IDs
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Device or other IDs
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Location
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   216 ,PromoDescuentos: ofertas         ,Shopping          ,Personal Info
+   217 ,Walmart: Shopping & Savings      ,Shopping          ,Not Provided
+   218 ,AfterShip Package Tracker - Tr   ,Shopping          ,App info and performance
+   218 ,AfterShip Package Tracker - Tr   ,Shopping          ,Contacts
+   218 ,AfterShip Package Tracker - Tr   ,Shopping          ,Device or other IDs
+   218 ,AfterShip Package Tracker - Tr   ,Shopping          ,Device or other IDs
+   218 ,AfterShip Package Tracker - Tr   ,Shopping          ,Financial info
+   218 ,AfterShip Package Tracker - Tr   ,Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,App activity
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,App info and performance
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,App info and performance
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Device or other IDs
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Device or other IDs
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Financial info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Location
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   219 ,"""Fetch: Have Fun, Save Money""    ",Shopping          ,Personal Info
+   220 ,"""SmartCanucks - Flyers, Deals &"" ",Shopping          ,Not Provided
+   221 ,eBay: Online Shopping Deals      ,Shopping          ,Not Provided
+   222 ,AppsFree                         ,Shopping          ,App activity
+   222 ,AppsFree                         ,Shopping          ,App info and performance
+   222 ,AppsFree                         ,Shopping          ,App info and performance
+   222 ,AppsFree                         ,Shopping          ,App info and performance
+   222 ,AppsFree                         ,Shopping          ,Device or other IDs
+   222 ,AppsFree                         ,Shopping          ,Device or other IDs
+   222 ,AppsFree                         ,Shopping          ,Location
+   223 ,Gumtree: local classified ads    ,Shopping          ,Personal Info
+   224 ,Kimovil                          ,Shopping          ,Personal Info
+   224 ,Kimovil                          ,Shopping          ,Personal Info
+   225 ,Mercari: Your Marketplace        ,Shopping          ,App info and performance
+   225 ,Mercari: Your Marketplace        ,Shopping          ,App info and performance
+   225 ,Mercari: Your Marketplace        ,Shopping          ,App info and performance
+   225 ,Mercari: Your Marketplace        ,Shopping          ,App info and performance
+   225 ,Mercari: Your Marketplace        ,Shopping          ,Contacts
+   225 ,Mercari: Your Marketplace        ,Shopping          ,Device or other IDs
+   225 ,Mercari: Your Marketplace        ,Shopping          ,Device or other IDs
+   225 ,Mercari: Your Marketplace        ,Shopping          ,Device or other IDs
+   225 ,Mercari: Your Marketplace        ,Shopping          ,Financial info
+   225 ,Mercari: Your Marketplace        ,Shopping          ,Location
+   225 ,Mercari: Your Marketplace        ,Shopping          ,Personal Info
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,App activity
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,App info and performance
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,App info and performance
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,Contacts
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,Device or other IDs
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,Location
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,Personal Info
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,Personal Info
+   226 ,Shopee PH: Shop this 12.12       ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,App info and performance
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Device or other IDs
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Device or other IDs
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Location
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   227 ,hotukdeals - Deals & Discounts   ,Shopping          ,Personal Info
+   228 ,17TRACK Package Tracker          ,Shopping          ,Not Provided
+   229 ,Kijiji: Buy and sell local       ,Shopping          ,Personal Info
+   229 ,Kijiji: Buy and sell local       ,Shopping          ,Personal Info
+   229 ,Kijiji: Buy and sell local       ,Shopping          ,Personal Info
+   229 ,Kijiji: Buy and sell local       ,Shopping          ,Personal Info
+   230 ,X                                ,Social            ,Not Provided
+   231 ,Pi Network                       ,Social            ,App activity
+   231 ,Pi Network                       ,Social            ,Contacts
+   231 ,Pi Network                       ,Social            ,Device or other IDs
+   231 ,Pi Network                       ,Social            ,Personal Info
+   231 ,Pi Network                       ,Social            ,Personal Info
+   231 ,Pi Network                       ,Social            ,Personal Info
+   232 ,Reddit                           ,Social            ,Audio files
+   232 ,Reddit                           ,Social            ,Location
+   232 ,Reddit                           ,Social            ,Personal Info
+   232 ,Reddit                           ,Social            ,Personal Info
+   232 ,Reddit                           ,Social            ,Personal Info
+   232 ,Reddit                           ,Social            ,Web browsing
+   233 ,Plenty of Fish Dating App        ,Social            ,App activity
+   233 ,Plenty of Fish Dating App        ,Social            ,Device or other IDs
+   233 ,Plenty of Fish Dating App        ,Social            ,Personal Info
+   233 ,Plenty of Fish Dating App        ,Social            ,Personal Info
+   233 ,Plenty of Fish Dating App        ,Social            ,Personal Info
+   233 ,Plenty of Fish Dating App        ,Social            ,Personal Info
+   233 ,Plenty of Fish Dating App        ,Social            ,Personal Info
+   233 ,Plenty of Fish Dating App        ,Social            ,Personal Info
+   233 ,Plenty of Fish Dating App        ,Social            ,Photos and videos
+   233 ,Plenty of Fish Dating App        ,Social            ,Photos and videos
+   234 ,Monkey - random video chat       ,Social            ,Not Provided
+   235 ,Text Free: Call & Texting App    ,Social            ,App activity
+   235 ,Text Free: Call & Texting App    ,Social            ,App info and performance
+   235 ,Text Free: Call & Texting App    ,Social            ,Audio files
+   235 ,Text Free: Call & Texting App    ,Social            ,Contacts
+   235 ,Text Free: Call & Texting App    ,Social            ,Device or other IDs
+   235 ,Text Free: Call & Texting App    ,Social            ,Device or other IDs
+   235 ,Text Free: Call & Texting App    ,Social            ,Device or other IDs
+   235 ,Text Free: Call & Texting App    ,Social            ,Financial info
+   235 ,Text Free: Call & Texting App    ,Social            ,Location
+   235 ,Text Free: Call & Texting App    ,Social            ,Personal Info
+   235 ,Text Free: Call & Texting App    ,Social            ,Personal Info
+   235 ,Text Free: Call & Texting App    ,Social            ,Personal Info
+   235 ,Text Free: Call & Texting App    ,Social            ,Personal Info
+   235 ,Text Free: Call & Texting App    ,Social            ,Photos and videos
+   235 ,Text Free: Call & Texting App    ,Social            ,Photos and videos
+   236 ,pixiv                            ,Social            ,Not Provided
+   237 ,textPlus: Text Message + Call    ,Social            ,App info and performance
+   237 ,textPlus: Text Message + Call    ,Social            ,Contacts
+   237 ,textPlus: Text Message + Call    ,Social            ,Device or other IDs
+   237 ,textPlus: Text Message + Call    ,Social            ,Device or other IDs
+   237 ,textPlus: Text Message + Call    ,Social            ,Device or other IDs
+   237 ,textPlus: Text Message + Call    ,Social            ,Device or other IDs
+   237 ,textPlus: Text Message + Call    ,Social            ,Location
+   237 ,textPlus: Text Message + Call    ,Social            ,Location
+   237 ,textPlus: Text Message + Call    ,Social            ,Location
+   237 ,textPlus: Text Message + Call    ,Social            ,Messages
+   237 ,textPlus: Text Message + Call    ,Social            ,Personal Info
+   237 ,textPlus: Text Message + Call    ,Social            ,Personal Info
+   238 ,Chikii-Play PC Games             ,Social            ,Not Provided
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,App activity
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,App activity
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,App activity
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Device or other IDs
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Device or other IDs
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Device or other IDs
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Messages
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   239 ,HOLLA - Live Random Video Chat   ,Social            ,Personal Info
+   240 ,Jack’d - Gay Chat & Dating       ,Social            ,Not Provided
+   241 ,"""Tumblr—Fandom, Art, Chaos""      ",Social            ,Not Provided
+   242 ,"""SKOUT - Meet, Chat, Go Live""    ",Social            ,Not Provided
+   243 ,NGL: anonymous q&a               ,Social            ,App activity
+   243 ,NGL: anonymous q&a               ,Social            ,Device or other IDs
+   243 ,NGL: anonymous q&a               ,Social            ,Device or other IDs
+   243 ,NGL: anonymous q&a               ,Social            ,Location
+   243 ,NGL: anonymous q&a               ,Social            ,Messages
+   243 ,NGL: anonymous q&a               ,Social            ,Personal Info
+   244 ,noteit widget - by sendit        ,Social            ,Not Provided
+   245 ,REALITY-Become an Anime Avatar   ,Social            ,Not Provided
+    76 ,Puffin Cloud Browser             ,Tools             ,Not Provided
+   141 ,TeraBox: Cloud Storage Space     ,Tools             ,Not Provided
+   145 ,File Manager                     ,Tools             ,App activity
+   145 ,File Manager                     ,Tools             ,App activity
+   145 ,File Manager                     ,Tools             ,App activity
+   145 ,File Manager                     ,Tools             ,Device or other IDs
+   145 ,File Manager                     ,Tools             ,Location
+   145 ,File Manager                     ,Tools             ,Personal Info
+   145 ,File Manager                     ,Tools             ,Personal Info
+   148 ,Samsung My Files                 ,Tools             ,App activity
+   148 ,Samsung My Files                 ,Tools             ,App activity
+   148 ,Samsung My Files                 ,Tools             ,App info and performance
+   148 ,Samsung My Files                 ,Tools             ,App info and performance
+   148 ,Samsung My Files                 ,Tools             ,Audio files
+   148 ,Samsung My Files                 ,Tools             ,Contacts
+   148 ,Samsung My Files                 ,Tools             ,Device or other IDs
+   148 ,Samsung My Files                 ,Tools             ,Financial info
+   148 ,Samsung My Files                 ,Tools             ,Location
+   150 ,File Manager                     ,Tools             ,App activity
+   150 ,File Manager                     ,Tools             ,App activity
+   150 ,File Manager                     ,Tools             ,App info and performance
+   150 ,File Manager                     ,Tools             ,App info and performance
+   150 ,File Manager                     ,Tools             ,App info and performance
+   150 ,File Manager                     ,Tools             ,Personal Info
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,App activity
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,App activity
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,App info and performance
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,App info and performance
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,Device or other IDs
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,Device or other IDs
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,Personal Info
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,Personal Info
+   151 ,ASTRO File Manager & Cleaner     ,Tools             ,Personal Info
+   152 ,Cx File Explorer                 ,Tools             ,App activity
+   152 ,Cx File Explorer                 ,Tools             ,App info and performance
+   152 ,Cx File Explorer                 ,Tools             ,App info and performance
+   152 ,Cx File Explorer                 ,Tools             ,App info and performance
+   152 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   152 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   152 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   152 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   152 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   152 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   152 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   152 ,Cx File Explorer                 ,Tools             ,Financial info
+   152 ,Cx File Explorer                 ,Tools             ,Financial info
+   152 ,Cx File Explorer                 ,Tools             ,Personal Info
+   152 ,Cx File Explorer                 ,Tools             ,Personal Info
+   152 ,Cx File Explorer                 ,Tools             ,Personal Info
+   152 ,Cx File Explorer                 ,Tools             ,Personal Info
+   152 ,Cx File Explorer                 ,Tools             ,Personal Info
+   157 ,AnExplorer TV File Manager       ,Tools             ,App activity
+   157 ,AnExplorer TV File Manager       ,Tools             ,App activity
+   157 ,AnExplorer TV File Manager       ,Tools             ,App info and performance
+   157 ,AnExplorer TV File Manager       ,Tools             ,App info and performance
+   157 ,AnExplorer TV File Manager       ,Tools             ,Device or other IDs
+   157 ,AnExplorer TV File Manager       ,Tools             ,Device or other IDs
+   157 ,AnExplorer TV File Manager       ,Tools             ,Location
+   157 ,AnExplorer TV File Manager       ,Tools             ,Personal Info
+   158 ,Amaze File Manager               ,Tools             ,App activity
+   158 ,Amaze File Manager               ,Tools             ,App info and performance
+   158 ,Amaze File Manager               ,Tools             ,Audio files
+   158 ,Amaze File Manager               ,Tools             ,Device or other IDs
+   158 ,Amaze File Manager               ,Tools             ,Device or other IDs
+   158 ,Amaze File Manager               ,Tools             ,Device or other IDs
+   158 ,Amaze File Manager               ,Tools             ,Device or other IDs
+   158 ,Amaze File Manager               ,Tools             ,Location
+   159 ,File Manager File Explorer       ,Tools             ,App activity
+   159 ,File Manager File Explorer       ,Tools             ,App info and performance
+   159 ,File Manager File Explorer       ,Tools             ,Financial info
+   159 ,File Manager File Explorer       ,Tools             ,Location
+   159 ,File Manager File Explorer       ,Tools             ,Location
+   159 ,File Manager File Explorer       ,Tools             ,Personal Info
+   159 ,File Manager File Explorer       ,Tools             ,Personal Info
+   161 ,X-plore File Manager             ,Tools             ,App info and performance
+   161 ,X-plore File Manager             ,Tools             ,Device or other IDs
+   161 ,X-plore File Manager             ,Tools             ,Personal Info
+   161 ,X-plore File Manager             ,Tools             ,Personal Info
+   162 ,EX File Manager :File Explorer   ,Tools             ,App activity
+   162 ,EX File Manager :File Explorer   ,Tools             ,App info and performance
+   162 ,EX File Manager :File Explorer   ,Tools             ,App info and performance
+   162 ,EX File Manager :File Explorer   ,Tools             ,Device or other IDs
+   162 ,EX File Manager :File Explorer   ,Tools             ,Device or other IDs
+   162 ,EX File Manager :File Explorer   ,Tools             ,Device or other IDs
+   162 ,EX File Manager :File Explorer   ,Tools             ,Personal Info
+   162 ,EX File Manager :File Explorer   ,Tools             ,Personal Info
+   163 ,ESuper File Explorer             ,Tools             ,Not Provided
+   164 ,File Manager                     ,Tools             ,App info and performance
+   164 ,File Manager                     ,Tools             ,App info and performance
+   164 ,File Manager                     ,Tools             ,App info and performance
+   164 ,File Manager                     ,Tools             ,App info and performance
+   164 ,File Manager                     ,Tools             ,Location
+   164 ,File Manager                     ,Tools             ,Location
+   164 ,File Manager                     ,Tools             ,Personal Info
+   164 ,File Manager                     ,Tools             ,Personal Info
+   164 ,File Manager                     ,Tools             ,Personal Info
+   164 ,File Manager                     ,Tools             ,Personal Info
+   164 ,File Manager                     ,Tools             ,Personal Info
+   164 ,File Manager                     ,Tools             ,Personal Info
+   164 ,File Manager                     ,Tools             ,Personal Info
+   165 ,RAR                              ,Tools             ,Not Provided
+   246 ,"""Octopus - Gamepad, Keymapper""   ",Tools             ,App info and performance
+   246 ,"""Octopus - Gamepad, Keymapper""   ",Tools             ,Device or other IDs
+   246 ,"""Octopus - Gamepad, Keymapper""   ",Tools             ,Device or other IDs
+   246 ,"""Octopus - Gamepad, Keymapper""   ",Tools             ,Personal Info
+   248 ,Secure VPN－Safer Internet       ,Tools             ,App activity
+   248 ,Secure VPN－Safer Internet       ,Tools             ,App info and performance
+   248 ,Secure VPN－Safer Internet       ,Tools             ,App info and performance
+   248 ,Secure VPN－Safer Internet       ,Tools             ,App info and performance
+   248 ,Secure VPN－Safer Internet       ,Tools             ,Device or other IDs
+   248 ,Secure VPN－Safer Internet       ,Tools             ,Device or other IDs
+   248 ,Secure VPN－Safer Internet       ,Tools             ,Device or other IDs
+   248 ,Secure VPN－Safer Internet       ,Tools             ,Device or other IDs
+   249 ,Cx File Explorer                 ,Tools             ,App activity
+   249 ,Cx File Explorer                 ,Tools             ,App activity
+   249 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   249 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   249 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   249 ,Cx File Explorer                 ,Tools             ,Device or other IDs
+   249 ,Cx File Explorer                 ,Tools             ,Financial info
+   249 ,Cx File Explorer                 ,Tools             ,Financial info
+   249 ,Cx File Explorer                 ,Tools             ,Personal Info
+   249 ,Cx File Explorer                 ,Tools             ,Personal Info
+   249 ,Cx File Explorer                 ,Tools             ,Personal Info
+   249 ,Cx File Explorer                 ,Tools             ,Personal Info
+   249 ,Cx File Explorer                 ,Tools             ,Personal Info
+   250 ,RAR                              ,Tools             ,Not Provided
+   251 ,DuckDuckGo Private Browser       ,Tools             ,Not Provided
+   252 ,fitpro                           ,Tools             ,App activity
+   252 ,fitpro                           ,Tools             ,App info and performance
+   252 ,fitpro                           ,Tools             ,Device or other IDs
+   252 ,fitpro                           ,Tools             ,Device or other IDs
+   252 ,fitpro                           ,Tools             ,Personal Info
+   252 ,fitpro                           ,Tools             ,Personal Info
+   252 ,fitpro                           ,Tools             ,Personal Info
+   253 ,Namso Gen                        ,Tools             ,Not Provided
+   254 ,Samsung My Files                 ,Tools             ,Not Provided
+   255 ,Weather by WeatherBug            ,Weather           ,App activity
+   255 ,Weather by WeatherBug            ,Weather           ,Device or other IDs
+   256 ,Yahoo Weather                    ,Weather           ,Personal Info
+   257 ,1Weather: Forecast & Radar       ,Weather           ,App activity
+   257 ,1Weather: Forecast & Radar       ,Weather           ,App activity
+   257 ,1Weather: Forecast & Radar       ,Weather           ,App activity
+   257 ,1Weather: Forecast & Radar       ,Weather           ,App info and performance
+   257 ,1Weather: Forecast & Radar       ,Weather           ,App info and performance
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Device or other IDs
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Device or other IDs
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Device or other IDs
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Financial info
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Location
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Location
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Personal Info
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Personal Info
+   257 ,1Weather: Forecast & Radar       ,Weather           ,Personal Info
+   258 ,BBC Weather                      ,Weather           ,App activity
+   258 ,BBC Weather                      ,Weather           ,Contacts
+   258 ,BBC Weather                      ,Weather           ,Device or other IDs
+   258 ,BBC Weather                      ,Weather           ,Financial info
+   258 ,BBC Weather                      ,Weather           ,Location
+   258 ,BBC Weather                      ,Weather           ,Personal Info
+   258 ,BBC Weather                      ,Weather           ,Personal Info
+   259 ,Radar Doppler Jalisco            ,Weather           ,Personal Info
+   260 ,Weather                          ,Weather           ,App activity
+   260 ,Weather                          ,Weather           ,App activity
+   260 ,Weather                          ,Weather           ,App activity
+   260 ,Weather                          ,Weather           ,App info and performance
+   260 ,Weather                          ,Weather           ,Location
+   260 ,Weather                          ,Weather           ,Location
+   261 ,WBKO First Alert Weather         ,Weather           ,App info and performance
+   261 ,WBKO First Alert Weather         ,Weather           ,App info and performance
+   261 ,WBKO First Alert Weather         ,Weather           ,App info and performance
+   261 ,WBKO First Alert Weather         ,Weather           ,Contacts
+   261 ,WBKO First Alert Weather         ,Weather           ,Device or other IDs
+   261 ,WBKO First Alert Weather         ,Weather           ,Device or other IDs
+   261 ,WBKO First Alert Weather         ,Weather           ,Device or other IDs
+   261 ,WBKO First Alert Weather         ,Weather           ,Device or other IDs
+   261 ,WBKO First Alert Weather         ,Weather           ,Financial info
+   261 ,WBKO First Alert Weather         ,Weather           ,Location
+   261 ,WBKO First Alert Weather         ,Weather           ,Location
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   261 ,WBKO First Alert Weather         ,Weather           ,Personal Info
+   262 ,KFVS12 First Alert Weather       ,Weather           ,Not Provided
+   263 ,KRGV FIRST WARN 5 Weather        ,Weather           ,Personal Info
+   263 ,KRGV FIRST WARN 5 Weather        ,Weather           ,Personal Info
+   263 ,KRGV FIRST WARN 5 Weather        ,Weather           ,Personal Info
+   264 ,Doppler 9&10 Weather Team        ,Weather           ,App activity
+   264 ,Doppler 9&10 Weather Team        ,Weather           ,App info and performance
+   264 ,Doppler 9&10 Weather Team        ,Weather           ,App info and performance
+   264 ,Doppler 9&10 Weather Team        ,Weather           ,Location
+   264 ,Doppler 9&10 Weather Team        ,Weather           ,Location
+   264 ,Doppler 9&10 Weather Team        ,Weather           ,Personal Info
+   264 ,Doppler 9&10 Weather Team        ,Weather           ,Personal Info
+   265 ,myCuaca                          ,Weather           ,App activity
+   265 ,myCuaca                          ,Weather           ,App info and performance
+   265 ,myCuaca                          ,Weather           ,App info and performance
+   265 ,myCuaca                          ,Weather           ,Device or other IDs
+   265 ,myCuaca                          ,Weather           ,Device or other IDs
+   265 ,myCuaca                          ,Weather           ,Device or other IDs
+   265 ,myCuaca                          ,Weather           ,Device or other IDs
+   265 ,myCuaca                          ,Weather           ,Personal Info
+   265 ,myCuaca                          ,Weather           ,Personal Info
+   266 ,WKYC Weather                     ,Weather           ,Not Provided
+   267 ,WSFA First Alert Weather         ,Weather           ,App info and performance
+   267 ,WSFA First Alert Weather         ,Weather           ,App info and performance
+   267 ,WSFA First Alert Weather         ,Weather           ,Device or other IDs
+   267 ,WSFA First Alert Weather         ,Weather           ,Financial info
+   267 ,WSFA First Alert Weather         ,Weather           ,Location
+   267 ,WSFA First Alert Weather         ,Weather           ,Personal Info
+   267 ,WSFA First Alert Weather         ,Weather           ,Personal Info
+   267 ,WSFA First Alert Weather         ,Weather           ,Personal Info
+   267 ,WSFA First Alert Weather         ,Weather           ,Personal Info
+   267 ,WSFA First Alert Weather         ,Weather           ,Personal Info
+   267 ,WSFA First Alert Weather         ,Weather           ,Personal Info
+   267 ,WSFA First Alert Weather         ,Weather           ,Personal Info
+   268 ,MyRadar Weather Radar            ,Weather           ,Not Provided
+   269 ,Weather & Clock Widget           ,Weather           ,App activity
+   269 ,Weather & Clock Widget           ,Weather           ,App info and performance
+   269 ,Weather & Clock Widget           ,Weather           ,Calendar
+   269 ,Weather & Clock Widget           ,Weather           ,Device or other IDs
+   269 ,Weather & Clock Widget           ,Weather           ,Device or other IDs
+   269 ,Weather & Clock Widget           ,Weather           ,Location
+   269 ,Weather & Clock Widget           ,Weather           ,Location
+   269 ,Weather & Clock Widget           ,Weather           ,Personal Info
+   269 ,Weather & Clock Widget           ,Weather           ,Personal Info
+   270 ,KY3 Weather                      ,Weather           ,App info and performance
+   270 ,KY3 Weather                      ,Weather           ,App info and performance
+   270 ,KY3 Weather                      ,Weather           ,App info and performance
+   270 ,KY3 Weather                      ,Weather           ,Device or other IDs
+   270 ,KY3 Weather                      ,Weather           ,Device or other IDs
+   270 ,KY3 Weather                      ,Weather           ,Financial info
+   270 ,KY3 Weather                      ,Weather           ,Location
+   270 ,KY3 Weather                      ,Weather           ,Location
+   270 ,KY3 Weather                      ,Weather           ,Personal Info
+   270 ,KY3 Weather                      ,Weather           ,Personal Info
+   270 ,KY3 Weather                      ,Weather           ,Personal Info
+   271 ,WVLT Weather                     ,Weather           ,Not Provided
+   272 ,Dark Sky - Hyperlocal Weather    ,Weather           ,Not Provided
+   273 ,WZZM 13 Weather                  ,Weather           ,App activity
+   273 ,WZZM 13 Weather                  ,Weather           ,App info and performance
+   273 ,WZZM 13 Weather                  ,Weather           ,App info and performance
+   273 ,WZZM 13 Weather                  ,Weather           ,Contacts
+   273 ,WZZM 13 Weather                  ,Weather           ,Personal Info
